@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Banco de Dados</title>
     <link rel="stylesheet" href="css/style.css">
+    <script src="js/script.js" defer></script>
 </head>
 <body>
     <div class="container">
@@ -14,19 +15,19 @@
 //método POST envia dados para o servidor-->
         <form id="form" action="cadastro.php" method="POST">
             <div class="inputBox">
-                <input type="text" name="nome" id="nome" required >
+                <input type="text" name="nome" id="nome"  required onblur="validaNome()" >
                 <label for="nome">Nome: </label>
             </div>    
             <div class="inputBox">
-                <input type="email" name="email" id="email" required >
+                <input type="email" name="email" id="email" required  onblur="validaEmail()" >
                 <label for="email">E-mail: </label>
             </div>    
             <div class="inputBox">
-                <input type="text" name="cidade" id="cidade" required >
+                <input type="text" name="cidade" id="cidade"  required onblur="validaCidade()" >
                 <label for="cidade">Cidade: </label>
             </div>    
             <div class="inputBox">
-                <input type="text" name="uf" id="uf" required >
+                <input type="text" name="uf" id="uf"  required onblur="validaUf()" >
                 <label for="uf">UF: </label>
             </div>
             <div class="botao">
