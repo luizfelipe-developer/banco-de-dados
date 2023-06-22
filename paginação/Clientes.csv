@@ -1,0 +1,1778 @@
+﻿cod_cliente;cliente;uf;cidade;regiao
+1;Eduardo Goncalves Rodrigues;AC;RIO BRANCO ;NO
+2;Sofia Costa Cardoso;AL;MACEIO ;NE
+3;Leonor Goncalves Castro;AL;MACEIO ;NE
+4;Julia Lima Alves;AL;MACEIO ;NE
+5;Luis Lima Ferreira;AL;MACEIO ;NE
+6;Kaua Lima Araujo;MG;Machado ;SU
+7;Júlio Almeida Silva;AL;MACEIO ;NE
+8;Luís Oliveira Ribeiro;SP;ARARAQUARA ;SU
+9;Renan Santos Alves;AL;MACEIO ;NE
+10;Ágatha Fernandes Oliveira;MG;Para de Minas ;SU
+11;Bianca Alves Sousa;AL;MACEIO ;NE
+12;Manuela Sousa Gomes;AL;MACEIO ;NE
+13;Diego Barros Carvalho;MG;MACHADO ;SU
+14;Kaua Carvalho Almeida;SP;ARARAQUARA ;SU
+15;Isabela Correia Goncalves;SP;ARARAQUARA ;SU
+16;Anna Almeida Ribeiro;AM;MANAUS ;NO
+17;Luis Dias Alves;AM;MANAUS ;NO
+18;João Azevedo Oliveira;PA;MARABA ;NO
+19;Kaua Costa Cavalcanti;MG;MANTENA ;SU
+20;Gabriela Pereira Dias;RS;Marau ;SU
+21;Bruno Fernandes Almeida;AM;MANAUS ;NO
+22;Brenda Araujo Souza;AM;MANAUS ;NO
+23;Melissa Fernandes Lima;SP;SANTA CRUZ DAS PALMEIRAS ;SU
+24;Ágatha Silva Rodrigues;SP;VOTUPORANGA ;SU
+25;Tânia Carvalho Fernandes;MG;SANTA BARBARA ;SU
+26;Júlio Carvalho Sousa;BA;SALVADOR ;NE
+27;Diogo Souza Fernandes;SC;Itajai ;SU
+28;Marina Barros Fernandes;SP;ITAPEVA ;SU
+29;Antônio Gomes Barbosa;SP;ITAPEVA ;SU
+30;Rebeca Alves Sousa;RS;Santa Maria ;SU
+31;Gabriel Sousa Castro;BA;SALVADOR ;NE
+32;Carlos Silva Cunha;SP;Santos ;SU
+33;Daniel Fernandes Correia;SC;Florianopolis ;SU
+34;Murilo Souza Barbosa;BA;SALVADOR ;NE
+35;Sophia Souza Araujo;MG;SANTA BARBARA ;SU
+36;Thiago Gomes Rodrigues;BA;SALVADOR ;NE
+37;Leonor Souza Rocha;BA;Salvador ;NE
+38;Kaua Sousa Goncalves;MA;IMPERATRIZ;NE
+39;Vitor Cavalcanti Carvalho;BA;SALVADOR ;NE
+40;Mariana Melo Oliveira;BA;SALVADOR ;NE
+41;Thaís Goncalves Correia;SP;ITATIBA ;SU
+42;Beatriz Almeida Fernandes;BA;SALVADOR ;NE
+43;Tomás Correia Dias;SP;PIRACAIA ;SU
+44;Julia Pereira Araujo;MG;ITABIRA ;SU
+45;Gabriela Lima Correia;BA;SALVADOR ;NE
+46;Guilherme Correia Santos;SP;PIRACICABA ;SU
+47;Sarah Alves Goncalves;CE;FORTALEZA ;NE
+48;Igor Correia Carvalho;BA;SALVADOR ;NE
+49;Beatrice Rodrigues Lima;BA;SALVADOR ;NE
+50;Vitór Martins Castro;MA;IMPERATRIZ;NE
+51;Arthur Cardoso Araujo;MA;IMPERATRIZ;NE
+52;Marisa Dias Ribeiro;SP;SANTANA DE PARNAIBA ;SU
+53;Vitoria Sousa Correia;CE;FORTALEZA ;NE
+54;Kauan Araujo Cardoso;BA;SALVADOR ;NE
+55;Kaua Cardoso Silva;SP;Itatiba ;SU
+56;Pedro Ribeiro Barbosa;BA;SALVADOR ;NE
+57;Vitór Melo Azevedo;CE;FORTALEZA ;NE
+58;Nicolas Cunha Martins;PR;LONDRINA ;SU
+59;Vinícius Costa Cunha;BA;SALVADOR ;NE
+60;Diego Araujo Lima;CE;FORTALEZA ;NE
+61;Amanda Almeida Dias;RS;Santiago ;SU
+62;Erick Araujo Rodrigues;MG;SANTA LUZIA ;SU
+63;Bruno Rocha Almeida;CE;FORTALEZA ;NE
+64;Marina Martins Barros;MT;Tangara da Serra ;SU
+65;Rafael Dias Almeida;MT;TANGARA DA SERRA ;SU
+66;Tomás Goncalves Azevedo;MG;Juiz de Fora ;SU
+67;Carolina Almeida Castro;CE;FORTALEZA ;NE
+68;André Carvalho Cunha;SP;Franca ;SU
+69;Paulo Cardoso Martins;CE;FORTALEZA ;NE
+70;Rebeca Azevedo Araujo;PR;Foz do Iguacu ;SU
+71;Daniel Correia Melo;MG;Juiz de Fora ;SU
+72;Raissa Carvalho Souza;CE;Fortaleza ;NE
+73;Rodrigo Silva Almeida;RS;MONTENEGRO ;SU
+74;Victor Fernandes Alves;SP;JUNDIAI ;SU
+75;Clara Carvalho Souza;SP;FRANCA ;SU
+76;Marisa Sousa Cardoso;CE;FORTALEZA ;NE
+77;Sofia Lima Costa;SP;FRANCA ;SU
+78;Lara Fernandes Correia;GO;GOIANIA ;SU
+79;Miguel Dias Ferreira;GO;GOIANIA ;SU
+80;Pedro Araujo Barros;CE;FORTALEZA ;NE
+81;Julia Lima Dias;SP;Franca ;SU
+82;Gabriela Carvalho Lima;SP;JUNDIAI ;SU
+83;Fábio Barros Alves;CE;Fortaleza ;NE
+84;Tiago Cavalcanti Martins;SP;FRANCO DA ROCHA ;SU
+85;Mateus Souza Rocha;SP;JUNDIAI ;SU
+86;Yasmin Almeida Cunha;CE;FORTALEZA ;NE
+87;Bianca Castro Ribeiro;CE;Fortaleza ;NE
+88;Tânia Fernandes Rodrigues;PE;VITORIA DE SANTO ANTAO ;NE
+89;Otávio Ferreira Correia;GO;GOIANIA ;SU
+90;André Barros Carvalho;CE;FORTALEZA ;NE
+91;Isabella Cavalcanti Souza;SP;FRANCA ;SU
+92;Giovana Barros Goncalves;GO;GOIANIA ;SU
+93;Giovanna Cunha Melo;CE;FORTALEZA ;NE
+94;Mariana Souza Santos;MG;TIMOTEO ;SU
+95;Matilde Dias Cardoso;BA;Teixeira de Freitas ;NE
+96;Felipe Cavalcanti Melo;GO;GOIANIA ;SU
+97;Diego Cavalcanti Almeida;GO;GOIANIA ;SU
+98;Luana Silva Martins;SC;LAGES ;SU
+99;Eduarda Pereira Oliveira;GO;GOIANIA ;SU
+100;Alice Correia Castro;PR;Foz do Iguacu ;SU
+101;Paulo Martins Silva;PR;Foz do Iguacu ;SU
+102;Kauê Silva Gomes;ES;Colatina ;SU
+103;Diogo Cunha Cavalcanti;GO;GOIANIA ;SU
+104;Renan Dias Silva;GO;GOIANIA ;SU
+105;Gabriela Pinto Lima;GO;GOIANIA ;SU
+106;Eduarda Oliveira Cunha;GO;GOIANIA ;SU
+107;Ágatha Melo Sousa;PB;JOAO PESSOA ;NE
+108;Davi Rocha Lima;GO;GOIANIA ;SU
+109;Gabrielle Ferreira Lima;BA;LAURO DE FREITAS ;NE
+110;André Gomes Dias;MT;CACERES ;SU
+111;Enzo Martins Pereira;SP;CAJAMAR ;SU
+112;Danilo Almeida Cavalcanti;RO;CACOAL ;NO
+113;Raissa Correia Carvalho;SP;CAMPINAS ;SU
+114;Anna Costa Souza;PB;CAMPINA GRANDE ;NE
+115;Emilly Santos Gomes;SP;CAMPINAS ;SU
+116;André Lima Oliveira;SP;CAMPINAS ;SU
+117;Arthur Cavalcanti Ribeiro;SP;CAMPINAS ;SU
+118;Julian Castro Rodrigues;RN;Caico ;NE
+119;Julia Goncalves Silva;PB;CAMPINA GRANDE ;NE
+120;Breno Pereira Sousa;SP;CAMPINAS ;SU
+121;Kai Rocha Souza;SP;CAMPINAS ;SU
+122;Rebeca Dias Rodrigues;PB;CAMPINA GRANDE ;NE
+123;Otávio Azevedo Alves;PB;CAMPINA GRANDE ;NE
+124;Giovana Rodrigues Silva;SP;CAMPINAS ;SU
+125;João Alves Martins;SP;CAMPINAS ;SU
+126;Giovana Pinto Sousa;SP;Campinas ;SU
+127;Kauã Cardoso Oliveira;BA;CAMACARI ;NE
+128;Rodrigo Silva Araujo;SP;CAMPINAS ;SU
+129;Sophia Sousa Cavalcanti;PB;Campina Grande ;NE
+130;Gabriela Barros Santos;PB;CAMPINA GRANDE ;NE
+131;Camila Carvalho Cardoso;SP;CAMPINAS ;SU
+132;Lara Pinto Barros;SP;CAMPINAS ;SU
+133;Beatriz Pereira Martins;PB;CAMPINA GRANDE ;NE
+134;Breno Almeida Costa;MT;Cuiaba ;SU
+135;Vitória Barbosa Ferreira;SP;INDAIATUBA ;SU
+136;Marina Dias Goncalves;BA;Ipirá ;NE
+137;Yasmin Costa Pinto;MG;IGUATAMA ;SU
+138;Luís Rocha Dias;PA;PARAUAPEBAS ;NO
+139;Vitor Ferreira Souza;MA;IMPERATRIZ ;NE
+140;Manuela Cardoso Costa;RJ;ILHA DO GOVERNADOR ;SU
+141;Carla Dias Cavalcanti;SP;HORTOLANDIA ;SU
+142;Sofia Pereira Araujo;MA;IMPERATRIZ ;NE
+143;Gabrielly Barros Goncalves;BA;Ipirá ;NE
+144;Gabrielle Ferreira Cavalcanti;SP;AVARE ;SU
+145;Ágatha Carvalho Dias;MG;BAEPENDI ;SU
+146;Mariana Lima Goncalves;BA;ITABERABA ;NE
+147;Lara Melo Costa;MG;Juiz de Fora ;SU
+148;Livia Souza Martins;MG;ITAOBIM ;SU
+149;Guilherme Souza Silva;PE;RECIFE ;NE
+150;Paulo Cunha Almeida;MA;IMPERATRIZ ;NE
+151;Amanda Almeida Santos;PR;CURITIBA ;SU
+152;Julian Correia Ribeiro;MT;CUIABA ;SU
+153;Júlio Azevedo Sousa;SP;Indaiatuba ;SU
+154;Luis Fernandes Oliveira;SE;ITABAIANA ;NE
+155;Nicolash Dias Melo;SP;INDAIATUBA ;SU
+156;Rebeca Melo Cunha;MG;IPATINGA ;SU
+157;Ryan Dias Rocha;CE;INDEPENDENCIA ;NE
+158;Igor Souza Gomes;SP;Santa Barbara d'Oeste ;SU
+159;Breno Lima Martins;BA;ITABUNA ;NE
+160;Gabriela Carvalho Cardoso;BA;ITABUNA ;NE
+161;Brenda Sousa Costa;SP;ATIBAIA ;SU
+162;Carlos Santos Melo;MG;Baependi ;SU
+163;Eduarda Lima Carvalho;MT;CUIABA ;SU
+164;Rafaela Pereira Azevedo;MT;CUIABA ;SU
+165;Estevan Dias Cardoso;BA;ITABERABA ;NE
+166;Sarah Lima Rodrigues;GO;GOIANIA ;SU
+167;Marcos Pinto Goncalves;SP;INDAIATUBA ;SU
+168;Julia Lima Azevedo;SP;SANTANA DE PARNAIBA ;SU
+169;Emily Cardoso Goncalves;SP;MOGI-MIRIM ;SU
+170;Isabela Carvalho Rodrigues;MA;Imperatriz ;NE
+171;Amanda Carvalho Rocha;MA;Itapecuru Mirim ;NE
+172;Gustavo Cunha Rodrigues;SC;BALNEARIO CAMBORIU ;SU
+173;Marcos Alves Araujo;PI;TERESINA ;NE
+174;Ágatha Sousa Souza;SP;SAO PAULO ;SU
+175;Rebeca Barbosa Araujo;SP;SAO PAULO ;SU
+176;Rafael Rodrigues Ribeiro;SP;SAO PAULO ;SU
+177;Lara Carvalho Correia;SP;SAO PAULO ;SU
+178;Vitoria Cardoso Pereira;SP;SAO PAULO ;SU
+179;Laura Correia Azevedo;SP;SAO PAULO ;SU
+180;Carolina Alves Cavalcanti;PB;JOAO PESSOA ;NE
+181;Julia Fernandes Sousa;SP;SAO PAULO ;SU
+182;Samuel Dias Lima;SP;SAO PAULO ;SU
+183;Júlio Oliveira Pinto;SP;SAO PAULO ;SU
+184;Daniel Silva Castro;SP;SAO PAULO ;SU
+185;Julian Barros Sousa;SP;SAO PAULO ;SU
+186;Julian Lima Martins;CE;CAMOCIM ;NE
+187;Rafaela Rodrigues Azevedo;DF;Brasilia ;SU
+188;Julian Barbosa Souza;MG;BELO HORIZONTE ;SU
+189;Lara Pereira Sousa;PE;RECIFE ;NE
+190;Sarah Araujo Castro;ES;Vitoria ;SU
+191;Nicolash Gomes Cavalcanti;AP;Macapa ;NO
+192;Laura Barbosa Ferreira;DF;BRASILIA ;SU
+193;Livia Castro Dias;SP;PIRACICABA ;SU
+194;Arthur Barbosa Rocha;TO;PALMAS ;NO
+195;Mariana Castro Silva;TO;Palmas ;NO
+196;Amanda Melo Souza;AL;MACEIO ;NE
+197;Isabelle Cardoso Melo;SC;XANXERE ;SU
+198;Lucas Correia Cardoso;MG;BELO HORIZONTE ;SU
+199;Sophia Correia Almeida;MG;BELO HORIZONTE ;SU
+200;Julian Oliveira Araujo;MG;Belo Horizonte ;SU
+201;Samuel Alves Rocha;MG;BELO HORIZONTE ;SU
+202;Estevan Costa Alves;SP;PIRACICABA ;SU
+203;Letícia Souza Gomes;MA;IMPERATRIZ;NE
+204;Diego Rodrigues Lima;MA;IMPERATRIZ;NE
+205;Renan Carvalho Martins;SP;PIRACICABA ;SU
+206;Maria Fernandes Barros;RJ;Volta Redonda ;SU
+207;Rebeca Castro Dias;SP;RIO CLARO ;SU
+208;Thiago Alves Almeida;MA;IMPERATRIZ;NE
+209;Miguel Castro Barbosa;SP;Braganca Paulista ;SU
+210;Luan Barbosa Sousa;MG;BELO HORIZONTE ;SU
+211;Nicole Cunha Azevedo;MG;BELO HORIZONTE ;SU
+212;Miguel Araujo Silva;MG;Belo Horizonte ;SU
+213;Douglas Castro Alves;MG;BELO HORIZONTE ;SU
+214;Diego Pereira Ferreira;DF;BRASILIA ;SU
+215;Fernanda Azevedo Melo;MG;BELO HORIZONTE ;SU
+216;Matilde Gomes Goncalves;MG;Belo Horizonte ;SU
+217;Raissa Santos Araujo;RO;PORTO VELHO ;NO
+218;João Almeida Cardoso;MA;IMPERATRIZ;NE
+219;Julia Rodrigues Alves;SC;Timbo ;SU
+220;Ágatha Cunha Rodrigues;MG;Belo Horizonte ;SU
+221;Gabriela Rocha Araujo;MG;BELO HORIZONTE ;SU
+222;João Costa Santos;MG;Belo Horizonte ;SU
+223;Vitoria Almeida Carvalho;RJ;BOM JESUS DO ITABAPOANA ;SU
+224;Ryan Alves Melo;MA;IMPERATRIZ;NE
+225;Otávio Castro Lima;PR;MARINGA ;SU
+226;Miguel Rocha Ribeiro;SP;CAMPINAS ;SU
+227;Vitoria Cunha Cardoso;RO;Porto Velho ;NO
+228;Lucas Melo Alves;GO;Goiania ;SU
+229;Enzo Sousa Rodrigues;SP;Presidente Prudente ;SU
+230;Isabella Barbosa Castro;PE;Recife ;NE
+231;Laura Ferreira Alves;MG;JUIZ DE FORA ;SU
+232;Isabella Dias Fernandes;MG;BELO HORIZONTE ;SU
+233;Beatrice Sousa Pinto;MG;BELO HORIZONTE ;SU
+234;Sarah Sousa Araujo;MG;BELO HORIZONTE ;SU
+235;Carla Carvalho Pinto;MG;Belo Horizonte ;SU
+236;Giovanna Fernandes Araujo;MG;BELO HORIZONTE ;SU
+237;Letícia Costa Cavalcanti;MG;BELO HORIZONTE ;SU
+238;Giovana Araujo Cavalcanti;MG;BELO HORIZONTE ;SU
+239;Camila Sousa Alves;SP;CAMPINAS ;SU
+240;Alice Cunha Souza;MG;JUIZ DE FORA ;SU
+241;Evelyn Gomes Oliveira;MG;VICOSA ;SU
+242;Renan Pereira Rocha;MG;BELO HORIZONTE ;SU
+243;Rodrigo Pinto Melo;MG;BELO HORIZONTE ;SU
+244;Ana Santos Carvalho;ES;CACHOEIRO DE ITAPEMIRIM ;SU
+245;Anna Fernandes Silva;MG;BELO HORIZONTE ;SU
+246;Beatrice Araujo Azevedo;SP;PRESIDENTE PRUDENTE ;SU
+247;Larissa Sousa Pereira;RJ;RIO DE JANEIRO ;SU
+248;Isabela Cavalcanti Ribeiro;SP;SAO PAULO ;SU
+249;Isabella Pereira Azevedo;MA;IMPERATRIZ;NE
+250;Diogo Fernandes Almeida;DF;Brasilia ;SU
+251;Emilly Almeida Dias;MG;BELO HORIZONTE ;SU
+252;Matheus Costa Souza;SP;Caraguatatuba ;SU
+253;Nicole Carvalho Fernandes;MG;Belo Horizonte ;SU
+254;Anna Gomes Ribeiro;MG;BELO HORIZONTE ;SU
+255;Leonardo Silva Rocha;MA;IMPERATRIZ;NE
+256;Luis Costa Correia;SP;RIBEIRAO PRETO ;SU
+257;Melissa Barbosa Ferreira;MA;IMPERATRIZ;NE
+258;Murilo Oliveira Gomes;MG;MONTES CLAROS ;SU
+259;Fábio Oliveira Castro;CE;FORTALEZA ;NE
+260;Vitoria Barros Souza;DF;BRASILIA ;SU
+261;Isabella Lima Costa;SP;JUNDIAI ;SU
+262;Matilde Barros Martins;SP;MARILIA ;SU
+263;Murilo Martins Pereira;PE;RECIFE ;NE
+264;Leonor Martins Pereira;CE;FORTALEZA ;NE
+265;Murilo Dias Alves;SP;Bauru ;SU
+266;Isabella Castro Oliveira;MG;BELO HORIZONTE ;SU
+267;Thaís Barbosa Oliveira;MG;Betim ;SU
+268;Sarah Dias Rocha;MG;BELO HORIZONTE ;SU
+269;Nicolash Oliveira Santos;MG;BELO HORIZONTE ;SU
+270;Evelyn Almeida Ribeiro;BA;BRUMADO ;NE
+271;Erick Castro Cavalcanti;RJ;RIO DE JANEIRO ;SU
+272;Nicole Azevedo Pinto;MG;JUIZ DE FORA ;SU
+273;José Cunha Oliveira;SP;LIMEIRA ;SU
+274;Murilo Costa Alves;DF;BRASILIA ;SU
+275;Tiago Cardoso Cunha;MG;BELO HORIZONTE ;SU
+276;Aline Costa Alves;MG;Belo Horizonte ;SU
+277;Ágatha Almeida Barros;MG;Belo Horizonte ;SU
+278;Caio Ribeiro Correia;MA;IMPERATRIZ;NE
+279;Luiza Castro Gomes;MG;Manhuacu ;SU
+280;Guilherme Sousa Cardoso;TO;PALMAS ;NO
+281;Ana Dias Cardoso;MA;IMPERATRIZ;NE
+282;Gabriela Rocha Carvalho;MA;IMPERATRIZ;NE
+283;Daniel Oliveira Cunha;RJ;RIO DAS OSTRAS ;SU
+284;Gabrielle Dias Souza;PB;CAMPINA GRANDE ;NE
+285;Felipe Martins Alves;MG;BELO HORIZONTE ;SU
+286;Melissa Barbosa Almeida;MG;Belo Horizonte ;SU
+287;Cauã Araujo Fernandes;MG;Belo Horizonte ;SU
+288;Martim Correia Araujo;MG;BELO HORIZONTE ;SU
+289;Yasmin Cunha Fernandes;MG;Belo Horizonte ;SU
+290;Beatriz Alves Azevedo;PR;Maringa ;SU
+291;Renan Castro Gomes;ES;VITORIA ;SU
+292;Emilly Barbosa Almeida;DF;BRASILIA ;SU
+293;Eduarda Cavalcanti Souza;MG;Belo Horizonte ;SU
+294;Vitoria Santos Souza;DF;BRASILIA ;SU
+295;Sofia Castro Araujo;RN;NATAL ;NE
+296;Kauã Costa Almeida;SP;MOGI DAS CRUZES ;SU
+297;Douglas Cardoso Goncalves;MA;IMPERATRIZ;NE
+298;Júlia Carvalho Castro;AC;Rio Branco ;NO
+299;Marisa Carvalho Ferreira;DF;BRASILIA ;SU
+300;Ryan Gomes Cunha;DF;BRASILIA ;SU
+301;Rodrigo Rodrigues Melo;RR;Boa Vista ;NO
+302;Larissa Santos Rodrigues;CE;FORTALEZA ;NE
+303;Marisa Pinto Fernandes;MG;BELO HORIZONTE ;SU
+304;Douglas Cardoso Castro;PA;BELEM ;NO
+305;Bruna Goncalves Barbosa;MA;IMPERATRIZ;NE
+306;Kaua Cunha Lima;MA;IMPERATRIZ;NE
+307;Rebeca Correia Barbosa;MA;IMPERATRIZ;NE
+308;Isabelle Ribeiro Gomes;ES;Vitoria ;SU
+309;João Fernandes Rodrigues;MG;BELO HORIZONTE ;SU
+310;Renan Cavalcanti Rocha;SP;CAMPINAS ;SU
+311;Felipe Rocha Azevedo;PE;RECIFE ;NE
+312;Gabrielly Alves Rocha;PR;Curitiba ;SU
+313;Lucas Goncalves Barros;MG;MONTES CLAROS ;SU
+314;Marisa Rocha Castro;RS;BENTO GONCALVES ;SU
+315;Isabella Barbosa Fernandes;DF;BRASILIA ;SU
+316;Renan Barros Ribeiro;PA;Belem ;NO
+317;Matilde Ribeiro Silva;MG;Uberlandia ;SU
+318;Isabella Azevedo Alves;PR;Curitiba ;SU
+319;Evelyn Pereira Azevedo;PE;RECIFE ;NE
+320;Felipe Oliveira Dias;MG;Belo Horizonte ;SU
+321;Luis Santos Alves;SP;CAMPINAS ;SU
+322;Marisa Almeida Cavalcanti;BA;BRUMADO ;NE
+323;Isabelle Gomes Cardoso;MG;Belo Horizonte ;SU
+324;Marina Barbosa Alves;SP;BOTUCATU ;SU
+325;Emily Alves Goncalves;SP;CARAGUATATUBA ;SU
+326;Mariana Rodrigues Azevedo;MG;MIRAI ;SU
+327;Anna Araujo Cavalcanti;MG;Belo Horizonte ;SU
+328;Miguel Rocha Araujo;MA;IMPERATRIZ;NE
+329;Giovana Almeida Barbosa;MA;IMPERATRIZ;NE
+330;Yasmin Ribeiro Gomes;PI;PICOS ;NE
+331;Isabela Cavalcanti Costa;SP;CAMPINAS ;SU
+332;Joao Rodrigues Souza;DF;BRASILIA ;SU
+333;Luana Almeida Santos;DF;BRASILIA ;SU
+334;Laura Melo Oliveira;DF;BRASILIA ;SU
+335;Camila Barbosa Azevedo;MG;Belo Horizonte ;SU
+336;Sofia Ribeiro Rocha;MA;IMPERATRIZ;NE
+337;Douglas Cardoso Cunha;PE;GARANHUNS ;NE
+338;Renan Costa Barbosa;MG;JUIZ DE FORA ;SU
+339;Davi Cardoso Ribeiro;MG;JUIZ DE FORA ;SU
+340;Paulo Oliveira Correia;MA;IMPERATRIZ;NE
+341;Samuel Santos Souza;MG;BELO HORIZONTE ;SU
+342;Isabela Pinto Barros;MG;PATOS DE MINAS ;SU
+343;Leonardo Carvalho Ferreira;GO;GOIANIA ;SU
+344;Gustavo Pereira Dias;ES;CACHOEIRO DE ITAPEMIRIM ;SU
+345;Bianca Cunha Souza;MG;Betim ;SU
+346;Ryan Cavalcanti Cunha;MG;Betim ;SU
+347;Erick Barbosa Fernandes;SP;LIMEIRA ;SU
+348;Rebeca Rodrigues Araujo;SC;FLORIANOPOLIS ;SU
+349;Mariana Correia Pinto;PI;ESPERANTINA ;NE
+350;Kaua Santos Lima;RJ;NITEROI ;SU
+351;Luan Goncalves Alves;SP;PIRACAIA ;SU
+352;Victor Azevedo Rocha;DF;Brasilia ;SU
+353;Enzo Oliveira Pereira;GO;GOIANIA ;SU
+354;Bianca Ferreira Gomes;PR;LONDRINA ;SU
+355;Marisa Cunha Dias;RJ;Niteroi ;SU
+356;Fernanda Cavalcanti Lima;MG;BELO HORIZONTE ;SU
+357;Victor Rocha Dias;SP;BOTUCATU ;SU
+358;Matilde Martins Sousa;PB;CAMPINA GRANDE ;NE
+359;Daniel Pereira Barbosa;MG;BELO HORIZONTE ;SU
+360;Livia Azevedo Goncalves;MA;IMPERATRIZ;NE
+361;Rafaela Ribeiro Ferreira;SC;BLUMENAU ;SU
+362;Matilde Pereira Pinto;MA;IMPERATRIZ;NE
+363;Rebeca Pinto Melo;MG;BELO HORIZONTE ;SU
+364;Eduarda Melo Oliveira;MG;CARATINGA ;SU
+365;Júlio Lima Fernandes;MG;BELO HORIZONTE ;SU
+366;Carolina Barbosa Martins;RN;NATAL ;NE
+367;Mariana Castro Cunha;CE;FORTALEZA ;NE
+368;Emilly Goncalves Almeida;MG;Belo Horizonte ;SU
+369;Rafaela Gomes Silva;MG;Betim ;SU
+370;Júlia Santos Pinto;SP;CAMPINAS ;SU
+371;Julia Alves Ribeiro;MT;LUCAS DO RIO VERDE ;SU
+372;Daniel Azevedo Fernandes;MG;CONTAGEM ;SU
+373;Julian Souza Pinto;MG;BETIM ;SU
+374;André Ribeiro Souza;RO;CACOAL ;NO
+375;Marina Silva Lima;SC;BLUMENAU ;SU
+376;Isabela Carvalho Cavalcanti;BA;BRUMADO ;NE
+377;Ágatha Costa Carvalho;DF;BRASILIA ;SU
+378;Vitór Ribeiro Barbosa;ES;CACHOEIRO DE ITAPEMIRIM ;SU
+379;Vinicius Lima Dias;MG;Belo Horizonte ;SU
+380;Vitor Pinto Ribeiro;RJ;RIO DE JANEIRO ;SU
+381;Guilherme Lima Cardoso;MA;IMPERATRIZ;NE
+382;Vitor Correia Gomes;SP;RIBEIRAO PRETO ;SU
+383;Kauan Costa Ferreira;RN;NATAL ;NE
+384;Bianca Barbosa Sousa;RS;Porto Alegre ;SU
+385;Tomás Fernandes Barros;SP;RIBEIRAO PRETO ;SU
+386;Danilo Dias Costa;MG;Belo Horizonte ;SU
+387;Rebeca Rodrigues Ferreira;SP;BOTUCATU ;SU
+388;Tânia Rocha Martins;MG;BELO HORIZONTE ;SU
+389;Vitoria Ferreira Dias;MG;MURIAE ;SU
+390;Vinícius Oliveira Santos;MG;BELO HORIZONTE ;SU
+391;Lavinia Sousa Pinto;SP;CAMPINAS ;SU
+392;Camila Pinto Pereira;GO;Goiania ;SU
+393;Daniel Sousa Pereira;DF;BRASILIA ;SU
+394;Laura Gomes Barbosa;DF;Brasilia ;SU
+395;Bruna Silva Almeida;MG;OLIVEIRA ;SU
+396;Rafaela Pereira Carvalho;RR;Boa Vista ;NO
+397;Kauê Goncalves Barbosa;ES;CACHOEIRO DE ITAPEMIRIM ;SU
+398;Sofia Cavalcanti Sousa;SP;CAMPINAS ;SU
+399;Isabelle Azevedo Cardoso;RJ;MACAE ;SU
+400;Eduardo Goncalves Castro;MA;IMPERATRIZ;NE
+401;Igor Carvalho Cardoso;MG;BELO HORIZONTE ;SU
+402;Luis Pereira Santos;RN;NATAL ;NE
+403;Brenda Goncalves Dias;RN;Natal ;NE
+404;Vitoria Rocha Cavalcanti;SP;Braganca Paulista ;SU
+405;Vitória Martins Souza;GO;Goiania ;SU
+406;Letícia Dias Cardoso;DF;BRASILIA ;SU
+407;Evelyn Rocha Martins;MG;Belo Horizonte ;SU
+408;Alex Costa Pereira;DF;Brasilia ;SU
+409;Ana Souza Silva;MA;IMPERATRIZ;NE
+410;Vinicius Barros Dias;RJ;Campos dos Goytacazes ;SU
+411;Nicolash Barbosa Rodrigues;MS;CAMPO GRANDE ;SU
+412;Bruno Ribeiro Cunha;RR;Boa Vista ;NO
+413;Douglas Melo Correia;MG;BELO HORIZONTE ;SU
+414;Giovanna Araujo Almeida;SP;CAMPINAS ;SU
+415;Luiz Fernandes Castro;MA;IMPERATRIZ;NE
+416;Carolina Azevedo Goncalves;RN;NATAL ;NE
+417;Victor Ribeiro Carvalho;CE;CAMOCIM ;NE
+418;Felipe Almeida Santos;MA;IMPERATRIZ;NE
+419;Brenda Sousa Rocha;SP;CARAGUATATUBA ;SU
+420;Marisa Carvalho Gomes;RS;Gravatai ;SU
+421;Vinícius Silva Cavalcanti;SP;Campinas ;SU
+422;Leila Pereira Costa;MS;CAMPO GRANDE ;SU
+423;Nicolash Barros Alves;ES;Cachoeiro de Itapemirim ;SU
+424;Alex Gomes Carvalho;MA;IMPERATRIZ;NE
+425;Luiz Ribeiro Goncalves;DF;BRASILIA ;SU
+426;Marina Fernandes Barros;DF;Brasilia ;SU
+427;Gabrielle Santos Gomes;SP;CACAPAVA ;SU
+428;Júlia Lima Ferreira;SP;Campinas ;SU
+429;Carlos Sousa Souza;BA;CAMACARI ;NE
+430;Eduardo Ferreira Santos;RJ;MAGE ;SU
+431;Leonardo Cardoso Alves;DF;Brasilia ;SU
+432;Laura Dias Rocha;DF;BRASILIA ;SU
+433;Luan Pereira Rodrigues;SP;Sorocaba ;SU
+434;Beatriz Lima Santos;MA;IMPERATRIZ;NE
+435;André Oliveira Lima;MG;CARANGOLA ;SU
+436;Giovanna Goncalves Melo;SC;Brusque ;SU
+437;Samuel Ribeiro Goncalves;PR;Cascavel ;SU
+438;Beatriz Ferreira Rocha;SP;CARAGUATATUBA ;SU
+439;João Santos Castro;DF;Brasilia ;SU
+440;Lara Castro Santos;MS;CAMPO GRANDE ;SU
+441;Bruna Lima Souza;MA;IMPERATRIZ;NE
+442;Leila Cardoso Cunha;DF;BRASILIA ;SU
+443;André Pereira Almeida;MT;CACERES ;SU
+444;Diego Azevedo Cardoso;PE;Cabo de Santo Agostinho ;NE
+445;Beatrice Santos Rodrigues;PB;CAMPINA GRANDE ;NE
+446;Gabriela Castro Azevedo;MA;IMPERATRIZ;NE
+447;Caio Fernandes Castro;MG;BELO HORIZONTE ;SU
+448;Murilo Rodrigues Costa;BA;BRUMADO ;NE
+449;Marcos Silva Azevedo;RO;Porto Velho ;NO
+450;Carlos Melo Araujo;ES;LINHARES ;SU
+451;Luana Silva Santos;MA;IMPERATRIZ;NE
+452;Vitoria Cardoso Silva;DF;Brasilia ;SU
+453;Clara Sousa Ribeiro;MG;POUSO ALEGRE ;SU
+454;Luan Gomes Almeida;MG;BELO HORIZONTE ;SU
+455;Thaís Cardoso Oliveira;DF;Brasilia ;SU
+456;Emilly Sousa Ribeiro;SC;CHAPECO ;SU
+457;Sophia Pereira Cavalcanti;CE;SOBRAL ;NE
+458;Mariana Martins Azevedo;PA;MARABA ;NO
+459;Luis Melo Dias;MG;BELO HORIZONTE ;SU
+460;Thiago Costa Rocha;MG;CATAGUASES ;SU
+461;Gabriela Castro Rocha;DF;BRASILIA ;SU
+462;Maria Ferreira Martins;MG;PONTE NOVA ;SU
+463;Luis Ferreira Silva;RJ;RIO DE JANEIRO ;SU
+464;Estevan Santos Fernandes;DF;BRASILIA ;SU
+465;Diego Gomes Fernandes;MA;IMPERATRIZ;NE
+466;Cauã Alves Correia;RJ;Rio de Janeiro ;SU
+467;Enzo Santos Almeida;MS;CAMPO GRANDE ;SU
+468;Manuela Barros Azevedo;MG;BELO HORIZONTE ;SU
+469;Vitoria Melo Araujo;RJ;RIO DE JANEIRO ;SU
+470;Julia Barros Rodrigues;MA;IMPERATRIZ;NE
+471;Letícia Gomes Souza;SP;FRANCA ;SU
+472;Melissa Dias Oliveira;MA;IMPERATRIZ ;NE
+473;Leila Sousa Correia;SP;REGISTRO ;SU
+474;Julieta Barbosa Castro;PE;RECIFE ;NE
+475;Breno Pereira Cardoso;MG;BELO HORIZONTE ;SU
+476;Clara Sousa Cunha;MA;IMPERATRIZ;NE
+477;João Dias Ribeiro;GO;GOIANIA ;SU
+478;Carla Dias Melo;SP;SAO PAULO ;SU
+479;Ryan Cavalcanti Santos;MG;BELO HORIZONTE ;SU
+480;Nicolas Oliveira Pinto;PR;CURITIBA ;SU
+481;Mariana Sousa Ferreira;GO;GOIANIA ;SU
+482;Kauê Correia Cavalcanti;GO;GOIANIA ;SU
+483;Thiago Carvalho Lima;GO;GOIANIA ;SU
+484;Lara Lima Almeida;GO;GOIANIA ;SU
+485;Fábio Barbosa Cavalcanti;GO;GOIANIA ;SU
+486;Beatriz Alves Gomes;RJ;PETROPOLIS ;SU
+487;Luana Correia Ribeiro;GO;GOIANIA ;SU
+488;Aline Cavalcanti Correia;GO;GOIANIA ;SU
+489;Gabriela Gomes Silva;MG;BELO HORIZONTE ;SU
+490;Kaua Correia Araujo;SP;SAO PAULO ;SU
+491;Victor Dias Costa;GO;GOIANIA ;SU
+492;Felipe Alves Barros;GO;GOIANIA ;SU
+493;Arthur Santos Castro;MA;IMPERATRIZ;NE
+494;Gabriela Alves Martins;GO;GOIANIA ;SU
+495;Yasmin Gomes Azevedo;GO;Goiania ;SU
+496;Fábio Castro Souza;GO;GOIANIA ;SU
+497;Letícia Lima Santos;MG;BOM DESPACHO ;SU
+498;Luiza Santos Carvalho;MG;BOA ESPERANCA ;SU
+499;Julia Oliveira Castro;SP;BRAGANCA PAULISTA ;SU
+500;Raissa Rocha Lima;RS;Porto Alegre ;SU
+501;Luan Souza Pinto;PA;Santarem ;NO
+502;Sophia Carvalho Cavalcanti;RR;Boa Vista ;NO
+503;Luana Silva Oliveira;SP;Sao Paulo ;SU
+504;Miguel Carvalho Pereira;MG;Boa Esperanca ;SU
+505;Camila Araujo Pinto;RJ;RIO DE JANEIRO ;SU
+506;Felipe Rodrigues Martins;DF;BRASILIA ;SU
+507;Sophia Azevedo Cardoso;RJ;RIO DE JANEIRO ;SU
+508;Fernanda Goncalves Carvalho;DF;BRASILIA ;SU
+509;Renan Santos Martins;SP;BOTUCATU ;SU
+510;Luis Cunha Barbosa;SP;BRAGANCA PAULISTA ;SU
+511;Ryan Barros Costa;SP;Sao Paulo ;SU
+512;Emily Ferreira Araujo;RJ;Niteroi ;SU
+513;Vinicius Martins Oliveira;RJ;RIO DE JANEIRO ;SU
+514;Julia Lima Silva;RJ;NITEROI ;SU
+515;Beatrice Souza Sousa;RJ;DUQUE DE CAXIAS ;SU
+516;Davi Rodrigues Pinto;RJ;DUQUE DE CAXIAS ;SU
+517;Nicolash Araujo Souza;RJ;NITEROI ;SU
+518;Tânia Almeida Fernandes;MS;DOURADOS ;SU
+519;Sarah Martins Ferreira;RJ;DUQUE DE CAXIAS ;SU
+520;Rodrigo Barbosa Azevedo;RJ;NITEROI ;SU
+521;Yasmin Gomes Cardoso;RJ;NITEROI ;SU
+522;Thaís Carvalho Gomes;SP;ENGENHEIRO COELHO ;SU
+523;Kai Pereira Goncalves;RJ;Rio de Janeiro ;SU
+524;Carolina Castro Ribeiro;RJ;NITEROI ;SU
+525;Beatrice Araujo Silva;RJ;NOVA FRIBURGO ;SU
+526;Marcos Rodrigues Alves;RJ;NITEROI ;SU
+527;Kauê Azevedo Carvalho;RJ;Niteroi ;SU
+528;Fábio Pinto Lima;BA;Eunápolis ;NE
+529;Raissa Cardoso Azevedo;SP;SANTO ANDRE ;SU
+530;Raissa Goncalves Pereira;RS;ERECHIM ;SU
+531;Miguel Carvalho Melo;RJ;NOVA IGUACU ;SU
+532;Rafaela Fernandes Cardoso;RJ;NITEROI ;SU
+533;Nicole Barros Carvalho;RJ;RIO DE JANEIRO ;SU
+534;Antônio Souza Gomes;BA;SALVADOR ;NE
+535;Ana Azevedo Souza;PA;SANTAREM ;NO
+536;Eduarda Ferreira Goncalves;BA;SALVADOR ;NE
+537;Rodrigo Alves Cardoso;RJ;RIO DE JANEIRO ;SU
+538;Kauan Barros Correia;BA;SALVADOR ;NE
+539;Mateus Castro Souza;MA;IMPERATRIZ;NE
+540;Melissa Carvalho Araujo;SP;PIRACICABA ;SU
+541;Victor Castro Cardoso;RN;NATAL ;NE
+542;Estevan Pinto Oliveira;CE;FORTALEZA ;NE
+543;Vinicius Barros Rodrigues;RJ;RIO DE JANEIRO ;SU
+544;André Carvalho Barbosa;BA;Salvador ;NE
+545;Carlos Gomes Alves;CE;FORTALEZA ;NE
+546;Vitória Barbosa Gomes;BA;SALVADOR ;NE
+547;Leila Melo Correia;BA;SALVADOR ;NE
+548;Marina Azevedo Correia;GO;Santa Helena de Goias ;SU
+549;Larissa Barbosa Sousa;RJ;RIO DE JANEIRO ;SU
+550;Tiago Santos Cavalcanti;RS;SANTA MARIA ;SU
+551;Samuel Almeida Sousa;MA;IMPERATRIZ;NE
+552;Alice Pinto Castro;PR;SANTA HELENA ;SU
+553;Marina Melo Ribeiro;BA;SALVADOR ;NE
+554;Mateus Rocha Silva;RJ;RIO DE JANEIRO ;SU
+555;Kai Alves Azevedo;BA;SALVADOR ;NE
+556;Paulo Pereira Fernandes;SP;SANTA FE DO SUL ;SU
+557;Kauê Sousa Cardoso;CE;FORTALEZA ;NE
+558;Amanda Almeida Gomes;SP;Santo Andre ;SU
+559;Raissa Melo Souza;BA;Salvador ;NE
+560;Livia Costa Cardoso;PR;LONDRINA ;SU
+561;Luiza Lima Rocha;MG;BELO HORIZONTE ;SU
+562;Beatriz Barros Sousa;MG;BELO HORIZONTE ;SU
+563;Guilherme Gomes Ribeiro;SP;SANTO ANDRE ;SU
+564;Sophia Ribeiro Pereira;SP;SANTOS ;SU
+565;Luan Souza Carvalho;SP;Santo Andre ;SU
+566;Lara Dias Melo;SP;SANTO ANDRE ;SU
+567;Thiago Melo Ribeiro;CE;FORTALEZA ;NE
+568;Gabrielle Goncalves Melo;RJ;RIO DE JANEIRO ;SU
+569;Rebeca Cavalcanti Pinto;MT;Cuiaba ;SU
+570;Paulo Rocha Sousa;SP;SANTO ANDRE ;SU
+571;Lara Barbosa Santos;BA;SANTO ANTONIO DE JESUS ;NE
+572;Fábio Barros Silva;PA;SANTAREM ;NO
+573;Lavinia Rodrigues Cavalcanti;SP;Santo Andre ;SU
+574;Marina Alves Cunha;RJ;Rio de Janeiro ;SU
+575;Victor Souza Silva;MA;IMPERATRIZ;NE
+576;Amanda Sousa Fernandes;MA;IMPERATRIZ;NE
+577;Carla Martins Sousa;MA;IMPERATRIZ;NE
+578;Alex Rocha Almeida;MA;IMPERATRIZ;NE
+579;Lara Gomes Sousa;MA;IMPERATRIZ;NE
+580;Emilly Cavalcanti Almeida;MA;IMPERATRIZ;NE
+581;Mateus Ferreira Alves;RJ;Rio de Janeiro ;SU
+582;Renan Rocha Azevedo;MA;IMPERATRIZ;NE
+583;Gabriela Barros Ferreira;MA;IMPERATRIZ;NE
+584;Emilly Ribeiro Pinto;MA;IMPERATRIZ;NE
+585;André Oliveira Sousa;MA;IMPERATRIZ;NE
+586;Paulo Cunha Gomes;MA;IMPERATRIZ;NE
+587;Breno Cardoso Lima;RJ;RIO DE JANEIRO ;SU
+588;Miguel Goncalves Carvalho;MG;JUIZ DE FORA ;SU
+589;Sofia Oliveira Almeida;MA;IMPERATRIZ;NE
+590;Victor Goncalves Lima;MA;IMPERATRIZ;NE
+591;Isabela Costa Martins;MG;ITABIRA ;SU
+592;Brenda Barros Santos;CE;Fortaleza ;NE
+593;Miguel Alves Melo;MA;IMPERATRIZ;NE
+594;Isabela Silva Barros;RJ;ITAPERUNA ;SU
+595;Amanda Martins Ferreira;RS;PORTO ALEGRE ;SU
+596;Nicolas Cavalcanti Castro;SP;ITAPEVA ;SU
+597;Danilo Carvalho Azevedo;CE;FORTALEZA ;NE
+598;Leonor Ribeiro Goncalves;RS;PORTO ALEGRE ;SU
+599;Mariana Goncalves Costa;SP;Franca ;SU
+600;Nicole Carvalho Ferreira;SP;SAO PAULO ;SU
+601;Gabriela Santos Rodrigues;RS;Porto Alegre ;SU
+602;Gabriel Rocha Melo;SP;ITANHAEM ;SU
+603;Sarah Santos Ferreira;RS;Porto Alegre ;SU
+604;Camila Barbosa Rocha;CE;ITAPIPOCA ;NE
+605;Marisa Santos Barros;SE;ITABAIANA ;NE
+606;Melissa Araujo Correia;SP;FRANCA ;SU
+607;Tiago Sousa Pereira;BA;SALVADOR ;NE
+608;Leila Rocha Almeida;RS;Porto Alegre ;SU
+609;Thaís Azevedo Rocha;SC;ITAJAI ;SU
+610;Lucas Carvalho Santos;PE;RECIFE ;NE
+611;Luan Alves Carvalho;MG;ITABIRA ;SU
+612;Victor Carvalho Gomes;PE;RECIFE ;NE
+613;Thaís Silva Lima;MG;ITABIRITO ;SU
+614;Bianca Rodrigues Azevedo;RJ;RIO DE JANEIRO ;SU
+615;Sarah Almeida Azevedo;MG;ITABIRA ;SU
+616;Miguel Araujo Dias;BA;SALVADOR ;NE
+617;Gabriel Rocha Oliveira;RS;Porto Alegre ;SU
+618;Giovana Carvalho Ferreira;RS;Porto Alegre ;SU
+619;Douglas Carvalho Ribeiro;PE;RECIFE ;NE
+620;Thiago Almeida Correia;RS;Porto Alegre ;SU
+621;Raissa Pereira Martins;SP;ITAPETININGA ;SU
+622;Gabrielle Barbosa Cardoso;MA;IMPERATRIZ;NE
+623;Ana Gomes Martins;RS;Porto Alegre ;SU
+624;Rodrigo Melo Pereira;MG;UBERLANDIA ;SU
+625;Bianca Correia Lima;MG;OLIVEIRA ;SU
+626;Douglas Melo Gomes;MG;GOVERNADOR VALADARES ;SU
+627;Alice Araujo Ferreira;RS;Porto Alegre ;SU
+628;Martim Fernandes Correia;MG;Belo Horizonte ;SU
+629;Raissa Pinto Costa;CE;FORTALEZA ;NE
+630;José Costa Gomes;MA;Itapecuru Mirim ;NE
+631;Sofia Ribeiro Carvalho;MG;Itauna ;SU
+632;Daniel Araujo Alves;SP;JALES ;SU
+633;Lara Ribeiro Oliveira;RO;PORTO VELHO ;NO
+634;Diogo Correia Castro;BA;ITAPETINGA ;NE
+635;Leila Barros Araujo;MG;Tres Coracoes ;SU
+636;Victor Lima Castro;PR;FOZ DO IGUACU ;SU
+637;Guilherme Almeida Fernandes;SP;SAO PAULO ;SU
+638;Rafael Martins Santos;MA;IMPERATRIZ;NE
+639;Igor Costa Silva;SP;SAO PAULO ;SU
+640;Kauã Almeida Oliveira;SP;SAO PAULO ;SU
+641;Emilly Sousa Cunha;RJ;Rio de Janeiro ;SU
+642;Vitór Cunha Alves;SC;JOINVILLE ;SU
+643;Luiza Melo Barbosa;SP;SAO PAULO ;SU
+644;Julian Castro Almeida;SP;SAO PAULO ;SU
+645;Estevan Melo Gomes;SP;SAO PAULO ;SU
+646;João Gomes Castro;SP;SAO PAULO ;SU
+647;Daniel Araujo Ribeiro;SC;JOINVILLE ;SU
+648;Marcos Costa Rocha;RJ;RIO DE JANEIRO ;SU
+649;Ryan Castro Cavalcanti;MA;IMPERATRIZ;NE
+650;Luana Santos Ferreira;SP;SAO PAULO ;SU
+651;Julieta Pereira Dias;RJ;RIO DE JANEIRO ;SU
+652;Gabrielly Ferreira Costa;RJ;RIO DE JANEIRO ;SU
+653;Alice Ribeiro Rodrigues;SP;SAO PAULO ;SU
+654;Manuela Carvalho Silva;SP;SAO PAULO ;SU
+655;Nicolas Correia Cardoso;RJ;RIO DE JANEIRO ;SU
+656;Matilde Santos Ribeiro;SP;SAO PAULO ;SU
+657;Carlos Costa Pereira;SP;SAO PAULO ;SU
+658;Lavinia Souza Cardoso;SP;SAO PAULO ;SU
+659;Isabella Azevedo Silva;SP;SAO PAULO ;SU
+660;Lavinia Barbosa Pinto;SP;Franca ;SU
+661;Felipe Souza Costa;DF;Brasilia ;SU
+662;Giovanna Martins Cavalcanti;SP;SAO PAULO ;SU
+663;Antônio Lima Cavalcanti;DF;Brasilia ;SU
+664;Amanda Araujo Melo;SP;SAO PAULO ;SU
+665;Gabrielle Cardoso Almeida;DF;Brasilia ;SU
+666;Gabriela Fernandes Rocha;SP;SAO PAULO ;SU
+667;Luiz Goncalves Ribeiro;SP;SAO PAULO ;SU
+668;Kauã Silva Rodrigues;SP;SAO PAULO ;SU
+669;Manuela Lima Fernandes;MA;IMPERATRIZ;NE
+670;Arthur Ribeiro Cavalcanti;SP;SAO PAULO ;SU
+671;Marcos Lima Martins;SP;SAO PAULO ;SU
+672;Kauan Correia Alves;MA;IMPERATRIZ;NE
+673;Rafael Azevedo Cavalcanti;RJ;RIO DE JANEIRO ;SU
+674;Ana Souza Almeida;SP;SAO PAULO ;SU
+675;Bruno Silva Souza;SP;SAO PAULO ;SU
+676;Luiz Fernandes Pinto;SP;SAO PAULO ;SU
+677;Julia Araujo Silva;SP;SAO PAULO ;SU
+678;Danilo Araujo Azevedo;MA;IMPERATRIZ;NE
+679;Clara Barbosa Dias;MA;IMPERATRIZ;NE
+680;Miguel Sousa Lima;SP;SAO PAULO ;SU
+681;Gabriela Lima Pereira;SP;SAO PAULO ;SU
+682;Julieta Rodrigues Goncalves;SP;SAO PAULO ;SU
+683;Carlos Silva Lima;RJ;RIO DE JANEIRO ;SU
+684;Arthur Azevedo Santos;SP;SAO PAULO ;SU
+685;Carla Silva Araujo;RJ;RIO DE JANEIRO ;SU
+686;Caio Goncalves Almeida;GO;GOIANIA ;SU
+687;Brenda Almeida Barros;SP;SAO PAULO ;SU
+688;Brenda Oliveira Rocha;SC;Timbo ;SU
+689;Douglas Lima Ferreira;SP;SAO PAULO ;SU
+690;Kaua Melo Carvalho;SP;SAO PAULO ;SU
+691;Thiago Ribeiro Rocha;SP;Sao Paulo ;SU
+692;Rafael Cavalcanti Rocha;MT;CACERES ;SU
+693;Lucas Pinto Lima;ES;CACHOEIRO DE ITAPEMIRIM ;SU
+694;Renan Martins Costa;SP;SAO PAULO ;SU
+695;Bianca Gomes Silva;SP;SAO PAULO ;SU
+696;Marcos Carvalho Lima;SP;SAO PAULO ;SU
+697;Rebeca Costa Pereira;SP;SAO PAULO ;SU
+698;Marcos Goncalves Santos;MA;IMPERATRIZ;NE
+699;Leonardo Alves Oliveira;SP;Sao Paulo ;SU
+700;Luís Alves Cardoso;RJ;RIO DE JANEIRO ;SU
+701;Davi Alves Azevedo;RJ;RIO DE JANEIRO ;SU
+702;Rafael Castro Silva;RJ;RIO DE JANEIRO ;SU
+703;Bruno Pinto Goncalves;RJ;RIO DE JANEIRO ;SU
+704;Gabrielly Carvalho Martins;SP;SAO PAULO ;SU
+705;Caio Cavalcanti Carvalho;SP;SAO PAULO ;SU
+706;José Cardoso Rodrigues;SP;SAO PAULO ;SU
+707;Sofia Rocha Almeida;BA;SALVADOR ;NE
+708;Sophia Almeida Castro;PE;RECIFE ;NE
+709;Mateus Sousa Santos;MA;IMPERATRIZ;NE
+710;Julia Araujo Oliveira;SP;SAO PAULO ;SU
+711;Gabriel Alves Santos;SP;SAO PAULO ;SU
+712;Luana Oliveira Souza;GO;GOIANIA ;SU
+713;Rebeca Ribeiro Barbosa;MG;JUIZ DE FORA ;SU
+714;Samuel Martins Alves;SP;Sao Paulo ;SU
+715;Gabriela Araujo Sousa;SP;SAO PAULO ;SU
+716;Isabelle Barbosa Lima;SP;SAO PAULO ;SU
+717;Giovana Cavalcanti Rocha;PE;RECIFE ;NE
+718;Kauê Ferreira Cunha;AL;PALMEIRA DOS INDIOS ;NE
+719;Giovanna Sousa Dias;SP;Sao Paulo ;SU
+720;Gabriel Oliveira Souza;SP;SAO PAULO ;SU
+721;Fernanda Fernandes Gomes;SP;RIBEIRAO PIRES ;SU
+722;Kai Alves Martins;SP;SAO PAULO ;SU
+723;Joao Lima Fernandes;MG;Para de Minas ;SU
+724;Martim Martins Cavalcanti;SP;SAO PAULO ;SU
+725;Diogo Ribeiro Fernandes;SP;Sao Paulo ;SU
+726;Luiza Barros Azevedo;SP;SAO PAULO ;SU
+727;Emily Carvalho Fernandes;MA;IMPERATRIZ;NE
+728;Diogo Goncalves Costa;RJ;RIO DE JANEIRO ;SU
+729;Brenda Martins Alves;SP;SAO PAULO ;SU
+730;Carlos Barbosa Dias;MG;Para de Minas ;SU
+731;Luís Barros Rodrigues;SP;Sao Paulo ;SU
+732;Victor Barros Almeida;SP;SAO PAULO ;SU
+733;Beatrice Souza Alves;SP;SAO PAULO ;SU
+734;Raissa Azevedo Rodrigues;SP;SAO PAULO ;SU
+735;Paulo Correia Barros;SP;SAO PAULO ;SU
+736;Marina Carvalho Martins;RJ;RIO DE JANEIRO ;SU
+737;Larissa Lima Melo;RJ;RIO DE JANEIRO ;SU
+738;Luana Almeida Cunha;RJ;RIO DE JANEIRO ;SU
+739;Erick Dias Melo;MG;JUIZ DE FORA ;SU
+740;Matilde Oliveira Araujo;RJ;RIO DE JANEIRO ;SU
+741;Rodrigo Cunha Cardoso;RJ;RIO DE JANEIRO ;SU
+742;Giovana Goncalves Lima;RJ;RIO DE JANEIRO ;SU
+743;Carolina Gomes Barros;RJ;RIO DE JANEIRO ;SU
+744;Giovana Rocha Goncalves;RJ;Rio de Janeiro ;SU
+745;Luiza Pereira Dias;RJ;RIO DE JANEIRO ;SU
+746;Maria Oliveira Azevedo;RJ;RIO DE JANEIRO ;SU
+747;Julia Cunha Correia;RJ;RIO DE JANEIRO ;SU
+748;Erick Dias Goncalves;RJ;RIO DE JANEIRO ;SU
+749;Victor Goncalves Castro;RJ;RIO DE JANEIRO ;SU
+750;Martim Martins Melo;RJ;RIO DE JANEIRO ;SU
+751;Melissa Barbosa Araujo;RJ;RIO DE JANEIRO ;SU
+752;Erick Fernandes Gomes;RJ;RIO DE JANEIRO ;SU
+753;Anna Carvalho Lima;RJ;RIO DE JANEIRO ;SU
+754;Júlio Rocha Souza;RJ;RIO DE JANEIRO ;SU
+755;Lucas Martins Cavalcanti;RJ;RIO DE JANEIRO ;SU
+756;Emily Azevedo Cavalcanti;RJ;RIO DE JANEIRO ;SU
+757;Diego Rodrigues Barros;SP;Sao Carlos ;SU
+758;João Lima Santos;RO;CACOAL ;NO
+759;Brenda Sousa Santos;SP;Sao Carlos ;SU
+760;Eduardo Cardoso Dias;SP;Sorocaba ;SU
+761;Igor Rocha Barros;RJ;SAO GONCALO ;SU
+762;Sofia Sousa Pinto;SP;Sao Carlos ;SU
+763;Davi Sousa Martins;CE;FORTALEZA ;NE
+764;Rebeca Cunha Correia;SP;SANTOS ;SU
+765;Miguel Araujo Fernandes;SP;SANTOS ;SU
+766;Enzo Rodrigues Barros;MG;IPATINGA ;SU
+767;Marcos Cavalcanti Ferreira;MA;IMPERATRIZ;NE
+768;Leonardo Rocha Cavalcanti;SP;Santos ;SU
+769;Thiago Barbosa Oliveira;BA;Ipirá ;NE
+770;Diego Cardoso Ferreira;MG;UBERABA ;SU
+771;Carlos Rocha Araujo;SP;SAO BERNARDO DO CAMPO ;SU
+772;Diego Cavalcanti Alves;SP;Campinas ;SU
+773;Enzo Costa Ferreira;PR;PONTA GROSSA ;SU
+774;Melissa Cavalcanti Rocha;SC;ITAJAI ;SU
+775;Diogo Goncalves Santos;RO;JI-PARANA ;NO
+776;Brenda Melo Souza;SC;ITAJAI ;SU
+777;Isabelle Rocha Barbosa;AL;MACEIO ;NE
+778;Luiza Ribeiro Dias;AL;MACEIO ;NE
+779;Clara Rodrigues Dias;AL;MACEIO ;NE
+780;Giovana Souza Rodrigues;MA;IMPERATRIZ;NE
+781;Lucas Santos Alves;MG;PONTE NOVA ;SU
+782;Letícia Lima Costa;PE;Recife ;NE
+783;Erick Azevedo Dias;CE;FORTALEZA ;NE
+784;Vitoria Barbosa Dias;MG;JOAO MONLEVADE ;SU
+785;Maria Souza Rocha;CE;Fortaleza ;NE
+786;Tomás Ribeiro Barros;MA;IMPERATRIZ;NE
+787;Enzo Lima Cardoso;AL;MACEIO ;NE
+788;Rafaela Costa Martins;ES;Cachoeiro de Itapemirim ;SU
+789;Samuel Cavalcanti Rodrigues;PR;UMUARAMA ;SU
+790;Vitor Rodrigues Goncalves;MA;IMPERATRIZ;NE
+791;Clara Dias Ribeiro;AL;MACEIO ;NE
+792;Rebeca Carvalho Santos;SP;CAMPINAS ;SU
+793;Amanda Goncalves Souza;RS;PORTO ALEGRE ;SU
+794;Leila Almeida Araujo;RS;Porto Alegre ;SU
+795;Sophia Sousa Oliveira;MA;IMPERATRIZ;NE
+796;Eduardo Goncalves Rodrigues;SP;ITARERE ;SU
+797;Sofia Costa Cardoso;MG;PATOS DE MINAS ;SU
+798;Leonor Goncalves Castro;SP;GUARULHOS ;SU
+799;Julia Lima Alves;AM;MANAUS ;NO
+800;Luis Lima Ferreira;ES;VILA VELHA ;SU
+801;Kaua Lima Araujo;PB;JOAO PESSOA ;NE
+802;Júlio Almeida Silva;SP;CAMPINAS ;SU
+803;Luís Oliveira Ribeiro;MG;Machado ;SU
+804;Renan Santos Alves;AM;MANAUS ;NO
+805;Ágatha Fernandes Oliveira;RS;PASSO FUNDO ;SU
+806;Bianca Alves Sousa;AM;MANAUS ;NO
+807;Manuela Sousa Gomes;DF;BRASILIA ;SU
+808;Diego Barros Carvalho;DF;Brasilia ;SU
+809;Kaua Carvalho Almeida;DF;Brasilia ;SU
+810;Isabela Correia Goncalves;DF;BRASILIA ;SU
+811;Anna Almeida Ribeiro;MG;BRUMADINHO ;SU
+812;Luis Dias Alves;SC;BRUSQUE ;SU
+813;João Azevedo Oliveira;DF;BRASILIA ;SU
+814;Kaua Costa Cavalcanti;DF;Brasilia ;SU
+815;Gabriela Pereira Dias;DF;Brasilia ;SU
+816;Bruno Fernandes Almeida;BA;BRUMADO ;NE
+817;Brenda Araujo Souza;ES;VITORIA ;SU
+818;Melissa Fernandes Lima;MG;ITAMBACURI ;SU
+819;Ágatha Silva Rodrigues;PE;RECIFE ;NE
+820;Tânia Carvalho Fernandes;MA;IMPERATRIZ;NE
+821;Júlio Carvalho Sousa;PE;RECIFE ;NE
+822;Diogo Souza Fernandes;MA;IMPERATRIZ;NE
+823;Marina Barros Fernandes;MS;CAMPO GRANDE ;SU
+824;Antônio Gomes Barbosa;SP;SAO PAULO ;SU
+825;Rebeca Alves Sousa;MT;Campo Novo do Parecis ;SU
+826;Gabriel Sousa Castro;MA;IMPERATRIZ;NE
+827;Carlos Silva Cunha;MA;IMPERATRIZ;NE
+828;Daniel Fernandes Correia;MA;IMPERATRIZ;NE
+829;Murilo Souza Barbosa;MA;IMPERATRIZ;NE
+830;Sophia Souza Araujo;MA;IMPERATRIZ;NE
+831;Thiago Gomes Rodrigues;MA;IMPERATRIZ;NE
+832;Leonor Souza Rocha;MA;IMPERATRIZ;NE
+833;Kaua Sousa Goncalves;MA;IMPERATRIZ;NE
+834;Vitor Cavalcanti Carvalho;MA;IMPERATRIZ;NE
+835;Mariana Melo Oliveira;MA;IMPERATRIZ;NE
+836;Thaís Goncalves Correia;RJ;RIO DE JANEIRO ;SU
+837;Beatriz Almeida Fernandes;DF;BRASILIA ;SU
+838;Tomás Correia Dias;PI;TERESINA ;NE
+839;Julia Pereira Araujo;GO;GOIANIA ;SU
+840;Gabriela Lima Correia;PE;RECIFE ;NE
+841;Guilherme Correia Santos;ES;Vitoria ;SU
+842;Sarah Alves Goncalves;SP;RIBEIRAO PRETO ;SU
+843;Igor Correia Carvalho;RJ;CAMPOS DOS GOYTACAZES ;SU
+844;Beatrice Rodrigues Lima;AM;PARINTINS ;NO
+845;Vitór Martins Castro;PA;PARAUAPEBAS ;NO
+846;Arthur Cardoso Araujo;MA;IMPERATRIZ;NE
+847;Marisa Dias Ribeiro;SP;VOTUPORANGA ;SU
+848;Vitoria Sousa Correia;RJ;RIO DE JANEIRO ;SU
+849;Kauan Araujo Cardoso;RJ;RIO DE JANEIRO ;SU
+850;Kaua Cardoso Silva;MG;ITAUNA ;SU
+851;Pedro Ribeiro Barbosa;MA;IMPERATRIZ;NE
+852;Vitór Melo Azevedo;GO;Goiania ;SU
+853;Nicolas Cunha Martins;BA;VITORIA DA CONQUISTA ;NE
+854;Vinícius Costa Cunha;SP;Vinhedo ;SU
+855;Diego Araujo Lima;BA;VITORIA DA CONQUISTA ;NE
+856;Amanda Almeida Dias;DF;BRASILIA ;SU
+857;Erick Araujo Rodrigues;MA;IMPERATRIZ;NE
+858;Bruno Rocha Almeida;MA;IMPERATRIZ;NE
+859;Marina Martins Barros;MG;ITABIRA ;SU
+860;Rafael Dias Almeida;MA;IMPERATRIZ;NE
+861;Tomás Goncalves Azevedo;MA;IMPERATRIZ;NE
+862;Carolina Almeida Castro;SP;Ribeirao Preto ;SU
+863;André Carvalho Cunha;MA;IMPERATRIZ;NE
+864;Paulo Cardoso Martins;MG;VARGINHA ;SU
+865;Rebeca Azevedo Araujo;PE;CARUARU ;NE
+866;Daniel Correia Melo;MA;IMPERATRIZ;NE
+867;Raissa Carvalho Souza;MA;IMPERATRIZ;NE
+868;Rodrigo Silva Almeida;SE;SAO CRISTOVAO ;NE
+869;Victor Fernandes Alves;MA;IMPERATRIZ;NE
+870;Clara Carvalho Souza;ES;VILA VELHA ;SU
+871;Marisa Sousa Cardoso;SP;VOTUPORANGA ;SU
+872;Sofia Lima Costa;RJ;RIO DE JANEIRO ;SU
+873;Lara Fernandes Correia;MG;VARGINHA ;SU
+874;Miguel Dias Ferreira;MA;IMPERATRIZ;NE
+875;Pedro Araujo Barros;MA;IMPERATRIZ;NE
+876;Julia Lima Dias;MG;Varginha ;SU
+877;Gabriela Carvalho Lima;PE;RECIFE ;NE
+878;Fábio Barros Alves;MA;IMPERATRIZ;NE
+879;Tiago Cavalcanti Martins;BA;Itabuna ;NE
+880;Mateus Souza Rocha;RJ;NITEROI ;SU
+881;Yasmin Almeida Cunha;MA;IMPERATRIZ;NE
+882;Bianca Castro Ribeiro;CE;FORTALEZA ;NE
+883;Tânia Fernandes Rodrigues;MG;PEDRO LEOPOLDO ;SU
+884;Otávio Ferreira Correia;MA;IMPERATRIZ;NE
+885;André Barros Carvalho;SP;SAO PAULO ;SU
+886;Isabella Cavalcanti Souza;MA;IMPERATRIZ;NE
+887;Giovana Barros Goncalves;SP;SAO PAULO ;SU
+888;Giovanna Cunha Melo;MG;GOVERNADOR VALADARES ;SU
+889;Mariana Souza Santos;MA;IMPERATRIZ;NE
+890;Matilde Dias Cardoso;PR;LONDRINA ;SU
+891;Felipe Cavalcanti Melo;MS;CAMPO GRANDE ;SU
+892;Diego Cavalcanti Almeida;PE;Cabo de Santo Agostinho ;NE
+893;Luana Silva Martins;SP;SAO PAULO ;SU
+894;Eduarda Pereira Oliveira;MA;IMPERATRIZ;NE
+895;Alice Correia Castro;RJ;RIO DE JANEIRO ;SU
+896;Paulo Martins Silva;SP;SAO PAULO ;SU
+897;Kauê Silva Gomes;MG;Patos de Minas ;SU
+898;Diogo Cunha Cavalcanti;SP;SAO PAULO ;SU
+899;Renan Dias Silva;MA;IMPERATRIZ;NE
+900;Gabriela Pinto Lima;MA;IMPERATRIZ;NE
+901;Eduarda Oliveira Cunha;PE;PAUDALHO ;NE
+902;Ágatha Melo Sousa;MS;CAMPO GRANDE ;SU
+903;Davi Rocha Lima;MA;IMPERATRIZ;NE
+904;Gabrielle Ferreira Lima;MA;IMPERATRIZ;NE
+905;André Gomes Dias;PI;Campo Maior ;NE
+906;Enzo Martins Pereira;MA;IMPERATRIZ;NE
+907;Danilo Almeida Cavalcanti;AL;MACEIO ;NE
+908;Raissa Correia Carvalho;MA;IMPERATRIZ;NE
+909;Anna Costa Souza;MA;IMPERATRIZ;NE
+910;Emilly Santos Gomes;MA;IMPERATRIZ;NE
+911;André Lima Oliveira;CE;FORTALEZA ;NE
+912;Arthur Cavalcanti Ribeiro;MA;IMPERATRIZ;NE
+913;Julian Castro Rodrigues;MA;IMPERATRIZ;NE
+914;Julia Goncalves Silva;MA;IMPERATRIZ;NE
+915;Breno Pereira Sousa;SP;SAO PAULO ;SU
+916;Kai Rocha Souza;MA;IMPERATRIZ;NE
+917;Rebeca Dias Rodrigues;MA;IMPERATRIZ;NE
+918;Otávio Azevedo Alves;MA;IMPERATRIZ;NE
+919;Giovana Rodrigues Silva;RS;IJUI ;SU
+920;João Alves Martins;MA;IMPERATRIZ;NE
+921;Giovana Pinto Sousa;MA;IMPERATRIZ;NE
+922;Kauã Cardoso Oliveira;SP;Sao Jose dos Campos ;SU
+923;Rodrigo Silva Araujo;SP;SAO PAULO ;SU
+924;Sophia Sousa Cavalcanti;MA;IMPERATRIZ;NE
+925;Gabriela Barros Santos;MA;IMPERATRIZ;NE
+926;Camila Carvalho Cardoso;MA;IMPERATRIZ;NE
+927;Lara Pinto Barros;RS;VENANCIO AIRES ;SU
+928;Beatriz Pereira Martins;MA;IMPERATRIZ;NE
+929;Breno Almeida Costa;ES;VITORIA ;SU
+930;Vitória Barbosa Ferreira;MA;CAXIAS ;NE
+931;Marina Dias Goncalves;MA;IMPERATRIZ;NE
+932;Yasmin Costa Pinto;MG;JUIZ DE FORA ;SU
+933;Luís Rocha Dias;MA;IMPERATRIZ;NE
+934;Vitor Ferreira Souza;MA;IMPERATRIZ;NE
+935;Manuela Cardoso Costa;CE;FORTALEZA ;NE
+936;Carla Dias Cavalcanti;MA;SAO LUIS ;NE
+937;Sofia Pereira Araujo;MA;IMPERATRIZ;NE
+938;Gabrielly Barros Goncalves;SP;SAO PAULO ;SU
+939;Gabrielle Ferreira Cavalcanti;MA;IMPERATRIZ;NE
+940;Ágatha Carvalho Dias;SP;GUARULHOS ;SU
+941;Mariana Lima Goncalves;MA;IMPERATRIZ;NE
+942;Lara Melo Costa;SP;SAO JOSE DO RIO PRETO ;SU
+943;Livia Souza Martins;MA;IMPERATRIZ;NE
+944;Guilherme Souza Silva;MA;IMPERATRIZ;NE
+945;Paulo Cunha Almeida;MA;IMPERATRIZ;NE
+946;Amanda Almeida Santos;SP;Ribeirao Preto ;SU
+947;Julian Correia Ribeiro;SP;HORTOLANDIA ;SU
+948;Júlio Azevedo Sousa;MA;IMPERATRIZ;NE
+949;Luis Fernandes Oliveira;MA;IMPERATRIZ;NE
+950;Nicolash Dias Melo;MA;IMPERATRIZ ;NE
+951;Rebeca Melo Cunha;RJ;RIO BONITO ;SU
+952;Ryan Dias Rocha;ES;VITORIA ;SU
+953;Igor Souza Gomes;MA;IMPERATRIZ;NE
+954;Breno Lima Martins;RJ;RIO DE JANEIRO ;SU
+955;Gabriela Carvalho Cardoso;MA;IMPERATRIZ;NE
+956;Brenda Sousa Costa;MA;IMPERATRIZ;NE
+957;Carlos Santos Melo;SP;PIRACICABA ;SU
+958;Eduarda Lima Carvalho;MA;IMPERATRIZ;NE
+959;Rafaela Pereira Azevedo;RJ;ILHA DO GOVERNADOR ;SU
+960;Estevan Dias Cardoso;SP;SAO PAULO ;SU
+961;Sarah Lima Rodrigues;MA;IMPERATRIZ;NE
+962;Marcos Pinto Goncalves;MA;IMPERATRIZ;NE
+963;Julia Lima Azevedo;MA;IMPERATRIZ;NE
+964;Emily Cardoso Goncalves;MA;IMPERATRIZ;NE
+965;Isabela Carvalho Rodrigues;TO;PALMAS ;NO
+966;Amanda Carvalho Rocha;MA;IMPERATRIZ;NE
+967;Gustavo Cunha Rodrigues;MA;IMPERATRIZ;NE
+968;Marcos Alves Araujo;MA;IMPERATRIZ;NE
+969;Ágatha Sousa Souza;MA;IMPERATRIZ;NE
+970;Rebeca Barbosa Araujo;MA;IMPERATRIZ ;NE
+971;Rafael Rodrigues Ribeiro;MA;IMPERATRIZ;NE
+972;Lara Carvalho Correia;MA;IMPERATRIZ;NE
+973;Vitoria Cardoso Pereira;RJ;ITAGUAI ;SU
+974;Laura Correia Azevedo;RJ;RIO DE JANEIRO ;SU
+975;Carolina Alves Cavalcanti;MA;IMPERATRIZ;NE
+976;Julia Fernandes Sousa;MA;IMPERATRIZ;NE
+977;Samuel Dias Lima;MA;IMPERATRIZ;NE
+978;Júlio Oliveira Pinto;MA;IMPERATRIZ;NE
+979;Daniel Silva Castro;RJ;RIO DE JANEIRO ;SU
+980;Julian Barros Sousa;PE;RECIFE ;NE
+981;Julian Lima Martins;PB;JOAO PESSOA ;NE
+982;Rafaela Rodrigues Azevedo;RJ;PIRAI ;SU
+983;Julian Barbosa Souza;RJ;RIO DE JANEIRO ;SU
+984;Lara Pereira Sousa;MA;IMPERATRIZ;NE
+985;Sarah Araujo Castro;AM;MANAUS ;NO
+986;Nicolash Gomes Cavalcanti;GO;GOIANIA ;SU
+987;Laura Barbosa Ferreira;MA;IMPERATRIZ;NE
+988;Livia Castro Dias;RJ;RIO DE JANEIRO ;SU
+989;Arthur Barbosa Rocha;MA;IMPERATRIZ;NE
+990;Mariana Castro Silva;PE;CARUARU ;NE
+991;Amanda Melo Souza;RJ;CAMPOS DOS GOYTACAZES ;SU
+992;Isabelle Cardoso Melo;SP;CAMPINAS ;SU
+993;Lucas Correia Cardoso;MA;IMPERATRIZ;NE
+994;Sophia Correia Almeida;RJ;RIO DE JANEIRO ;SU
+995;Julian Oliveira Araujo;MA;IMPERATRIZ;NE
+996;Samuel Alves Rocha;MA;IMPERATRIZ;NE
+997;Estevan Costa Alves;RJ;RIO DE JANEIRO ;SU
+998;Letícia Souza Gomes;GO;GOIANIA ;SU
+999;Diego Rodrigues Lima;MA;IMPERATRIZ;NE
+1000;Renan Carvalho Martins;BA;Catu ;NE
+1001;Maria Fernandes Barros;PR;PATO BRANCO ;SU
+1002;Rebeca Castro Dias;GO;GOIANIA ;SU
+1003;Thiago Alves Almeida;MA;IMPERATRIZ;NE
+1004;Miguel Castro Barbosa;MA;IMPERATRIZ;NE
+1005;Luan Barbosa Sousa;SP;SANTOS ;SU
+1006;Nicole Cunha Azevedo;MA;IMPERATRIZ;NE
+1007;Miguel Araujo Silva;MA;IMPERATRIZ;NE
+1008;Douglas Castro Alves;MA;IMPERATRIZ;NE
+1009;Diego Pereira Ferreira;MG;JUIZ DE FORA ;SU
+1010;Fernanda Azevedo Melo;SP;CAMPINAS ;SU
+1011;Matilde Gomes Goncalves;MA;IMPERATRIZ;NE
+1012;Raissa Santos Araujo;MA;IMPERATRIZ;NE
+1013;João Almeida Cardoso;ES;Colatina ;SU
+1014;Julia Rodrigues Alves;GO;GOIANIA ;SU
+1015;Ágatha Cunha Rodrigues;SP;SAO PAULO ;SU
+1016;Gabriela Rocha Araujo;MA;IMPERATRIZ;NE
+1017;João Costa Santos;MA;IMPERATRIZ;NE
+1018;Vitoria Almeida Carvalho;MA;IMPERATRIZ;NE
+1019;Ryan Alves Melo;MG;SAO SEBASTIAO DO PARAISO ;SU
+1020;Otávio Castro Lima;PR;PATO BRANCO ;SU
+1021;Miguel Rocha Ribeiro;SP;Sao Paulo ;SU
+1022;Vitoria Cunha Cardoso;MG;PASSOS ;SU
+1023;Lucas Melo Alves;MG;CONTAGEM ;SU
+1024;Enzo Sousa Rodrigues;MA;IMPERATRIZ;NE
+1025;Isabella Barbosa Castro;MA;IMPERATRIZ;NE
+1026;Laura Ferreira Alves;SP;ITATIBA ;SU
+1027;Isabella Dias Fernandes;MA;IMPERATRIZ;NE
+1028;Beatrice Sousa Pinto;PE;RECIFE ;NE
+1029;Sarah Sousa Araujo;MA;IMPERATRIZ;NE
+1030;Carla Carvalho Pinto;MA;IMPERATRIZ;NE
+1031;Giovanna Fernandes Araujo;MA;IMPERATRIZ;NE
+1032;Letícia Costa Cavalcanti;RJ;RIO DE JANEIRO ;SU
+1033;Giovana Araujo Cavalcanti;MA;IMPERATRIZ;NE
+1034;Camila Sousa Alves;SP;SAO PAULO ;SU
+1035;Alice Cunha Souza;PR;PATO BRANCO ;SU
+1036;Evelyn Gomes Oliveira;MG;CONTAGEM ;SU
+1037;Renan Pereira Rocha;MG;JANAUBA ;SU
+1038;Rodrigo Pinto Melo;MG;JANAUBA ;SU
+1039;Ana Santos Carvalho;MA;IMPERATRIZ;NE
+1040;Anna Fernandes Silva;MA;IMPERATRIZ;NE
+1041;Beatrice Araujo Azevedo;MS;SIDROLANDIA ;SU
+1042;Larissa Sousa Pereira;SP;SAO PAULO ;SU
+1043;Isabela Cavalcanti Ribeiro;BA;SALVADOR ;NE
+1044;Isabella Pereira Azevedo;MT;Sinop ;SU
+1045;Diogo Fernandes Almeida;MA;IMPERATRIZ;NE
+1046;Emilly Almeida Dias;MA;IMPERATRIZ;NE
+1047;Matheus Costa Souza;SP;SAO JOAO DA BOA VISTA ;SU
+1048;Nicole Carvalho Fernandes;PR;Cianorte ;SU
+1049;Anna Gomes Ribeiro;SP;SAO JOSE DO RIO PRETO ;SU
+1050;Leonardo Silva Rocha;GO;CATALAO ;SU
+1051;Luis Costa Correia;SP;SAO JOSE DO RIO PRETO ;SU
+1052;Melissa Barbosa Ferreira;SP;SAO JOSE DO RIO PRETO ;SU
+1053;Murilo Oliveira Gomes;SP;SAO JOSE DO RIO PRETO ;SU
+1054;Fábio Oliveira Castro;SP;CATANDUVA ;SU
+1055;Vitoria Barros Souza;SP;SAO JOSE DO RIO PRETO ;SU
+1056;Isabella Lima Costa;RO;PORTO VELHO ;NO
+1057;Matilde Barros Martins;SP;SAO JOSE DO RIO PRETO ;SU
+1058;Murilo Martins Pereira;SP;Catanduva ;SU
+1059;Leonor Martins Pereira;PR;Curitiba ;SU
+1060;Murilo Dias Alves;SC;FLORIANOPOLIS ;SU
+1061;Isabella Castro Oliveira;MG;DIVINOPOLIS ;SU
+1062;Thaís Barbosa Oliveira;BA;SALVADOR ;NE
+1063;Sarah Dias Rocha;MA;IMPERATRIZ;NE
+1064;Nicolash Oliveira Santos;MA;IMPERATRIZ;NE
+1065;Evelyn Almeida Ribeiro;MA;IMPERATRIZ;NE
+1066;Erick Castro Cavalcanti;SP;ITAPOLIS ;SU
+1067;Nicole Azevedo Pinto;MG;PATOS DE MINAS ;SU
+1068;José Cunha Oliveira;SP;SAO PAULO ;SU
+1069;Murilo Costa Alves;MA;IMPERATRIZ;NE
+1070;Tiago Cardoso Cunha;PR;PATO BRANCO ;SU
+1071;Aline Costa Alves;SP;Ribeirao Preto ;SU
+1072;Ágatha Almeida Barros;PR;TOLEDO ;SU
+1073;Caio Ribeiro Correia;SP;SAO PAULO ;SU
+1074;Luiza Castro Gomes;SP;SAO PAULO ;SU
+1075;Guilherme Sousa Cardoso;MA;IMPERATRIZ;NE
+1076;Ana Dias Cardoso;BA;FEIRA DE SANTANA ;NE
+1077;Gabriela Rocha Carvalho;SP;Sorocaba ;SU
+1078;Daniel Oliveira Cunha;MA;IMPERATRIZ;NE
+1079;Gabrielle Dias Souza;SP;SAO PAULO ;SU
+1080;Felipe Martins Alves;SC;Palhoca ;SU
+1081;Melissa Barbosa Almeida;MG;Pompeu ;SU
+1082;Cauã Araujo Fernandes;SC;XANXERE ;SU
+1083;Martim Correia Araujo;MA;IMPERATRIZ;NE
+1084;Yasmin Cunha Fernandes;SP;JUNDIAI ;SU
+1085;Beatriz Alves Azevedo;SP;SAO PAULO ;SU
+1086;Renan Castro Gomes;SP;SAO PAULO ;SU
+1087;Emilly Barbosa Almeida;PE;Recife ;NE
+1088;Eduarda Cavalcanti Souza;SP;SAO PAULO ;SU
+1089;Vitoria Santos Souza;PR;CIANORTE ;SU
+1090;Sofia Castro Araujo;SP;SAO PAULO ;SU
+1091;Kauã Costa Almeida;MA;IMPERATRIZ;NE
+1092;Douglas Cardoso Goncalves;CE;FORTALEZA ;NE
+1093;Júlia Carvalho Castro;RJ;TERESOPOLIS ;SU
+1094;Marisa Carvalho Ferreira;MA;IMPERATRIZ;NE
+1095;Ryan Gomes Cunha;MA;IMPERATRIZ;NE
+1096;Rodrigo Rodrigues Melo;MA;IMPERATRIZ;NE
+1097;Larissa Santos Rodrigues;MA;IMPERATRIZ;NE
+1098;Marisa Pinto Fernandes;SP;SAO JOSE DOS CAMPOS ;SU
+1099;Douglas Cardoso Castro;MG;GOVERNADOR VALADARES ;SU
+1100;Bruna Goncalves Barbosa;BA;Lauro de Freitas ;NE
+1101;Kaua Cunha Lima;GO;Catalao ;SU
+1102;Rebeca Correia Barbosa;MG;SANTO ANTONIO DO MONTE ;SU
+1103;Isabelle Ribeiro Gomes;MA;CAXIAS ;NE
+1104;João Fernandes Rodrigues;MA;IMPERATRIZ;NE
+1105;Renan Cavalcanti Rocha;PR;CURITIBA ;SU
+1106;Felipe Rocha Azevedo;PE;PETROLINA ;NE
+1107;Gabrielly Alves Rocha;RS;CAXIAS DO SUL ;SU
+1108;Lucas Goncalves Barros;SC;JARAGUA DO SUL ;SU
+1109;Marisa Rocha Castro;MA;SAO LUIS ;NE
+1110;Isabella Barbosa Fernandes;SC;Joinville ;SU
+1111;Renan Barros Ribeiro;MA;IMPERATRIZ;NE
+1112;Matilde Ribeiro Silva;MA;IMPERATRIZ;NE
+1113;Isabella Azevedo Alves;MT;Cuiaba ;SU
+1114;Evelyn Pereira Azevedo;SP;COTIA ;SU
+1115;Felipe Oliveira Dias;BA;SALVADOR ;NE
+1116;Luis Santos Alves;MG;Juiz de Fora ;SU
+1117;Marisa Almeida Cavalcanti;SP;RIO CLARO ;SU
+1118;Isabelle Gomes Cardoso;PB;JOAO PESSOA ;NE
+1119;Marina Barbosa Alves;RJ;RIO DE JANEIRO ;SU
+1120;Emily Alves Goncalves;RN;PARNAMIRIM ;NE
+1121;Mariana Rodrigues Azevedo;MA;IMPERATRIZ;NE
+1122;Anna Araujo Cavalcanti;GO;GOIANIA ;SU
+1123;Miguel Rocha Araujo;SP;PRESIDENTE PRUDENTE ;SU
+1124;Giovana Almeida Barbosa;MG;UBERLANDIA ;SU
+1125;Yasmin Ribeiro Gomes;RS;CAXIAS DO SUL ;SU
+1126;Isabela Cavalcanti Costa;BA;SALVADOR ;NE
+1127;Joao Rodrigues Souza;MA;IMPERATRIZ;NE
+1128;Luana Almeida Santos;RJ;RIO DE JANEIRO ;SU
+1129;Laura Melo Oliveira;MA;IMPERATRIZ;NE
+1130;Camila Barbosa Azevedo;MA;IMPERATRIZ;NE
+1131;Sofia Ribeiro Rocha;SP;MARILIA ;SU
+1132;Douglas Cardoso Cunha;RJ;MACAE ;SU
+1133;Renan Costa Barbosa;SP;SAO JOSE DOS CAMPOS ;SU
+1134;Davi Cardoso Ribeiro;SP;SAO PAULO ;SU
+1135;Paulo Oliveira Correia;MA;Itapecuru Mirim ;NE
+1136;Samuel Santos Souza;MA;IMPERATRIZ;NE
+1137;Isabela Pinto Barros;BA;SALVADOR ;NE
+1138;Leonardo Carvalho Ferreira;RJ;RIO DE JANEIRO ;SU
+1139;Gustavo Pereira Dias;MA;IMPERATRIZ;NE
+1140;Bianca Cunha Souza;MA;IMPERATRIZ;NE
+1141;Ryan Cavalcanti Cunha;RJ;TERESOPOLIS ;SU
+1142;Erick Barbosa Fernandes;MA;IMPERATRIZ;NE
+1143;Rebeca Rodrigues Araujo;MG;VICOSA ;SU
+1144;Mariana Correia Pinto;MG;JUIZ DE FORA ;SU
+1145;Kaua Santos Lima;SP;Santos ;SU
+1146;Luan Goncalves Alves;RS;PASSO FUNDO ;SU
+1147;Victor Azevedo Rocha;MA;IMPERATRIZ;NE
+1148;Enzo Oliveira Pereira;RJ;RIO DE JANEIRO ;SU
+1149;Bianca Ferreira Gomes;MA;IMPERATRIZ;NE
+1150;Marisa Cunha Dias;MA;CAXIAS ;NE
+1151;Fernanda Cavalcanti Lima;SP;SAO PAULO ;SU
+1152;Victor Rocha Dias;SP;LIMEIRA ;SU
+1153;Matilde Martins Sousa;MA;IMPERATRIZ;NE
+1154;Daniel Pereira Barbosa;MA;IMPERATRIZ;NE
+1155;Livia Azevedo Goncalves;MA;IMPERATRIZ;NE
+1156;Rafaela Ribeiro Ferreira;PE;RECIFE ;NE
+1157;Matilde Pereira Pinto;MG;UBERABA ;SU
+1158;Rebeca Pinto Melo;MA;IMPERATRIZ;NE
+1159;Eduarda Melo Oliveira;PR;CURITIBA ;SU
+1160;Júlio Lima Fernandes;PR;CURITIBA ;SU
+1161;Carolina Barbosa Martins;MA;IMPERATRIZ;NE
+1162;Mariana Castro Cunha;PR;Londrina ;SU
+1163;Emilly Goncalves Almeida;MA;IMPERATRIZ;NE
+1164;Rafaela Gomes Silva;MA;IMPERATRIZ;NE
+1165;Júlia Santos Pinto;BA;SALVADOR ;NE
+1166;Julia Alves Ribeiro;MA;IMPERATRIZ;NE
+1167;Daniel Azevedo Fernandes;MG;DIVINOPOLIS ;SU
+1168;Julian Souza Pinto;SC;Porto Uniao ;SU
+1169;André Ribeiro Souza;SP;PRAIA GRANDE ;SU
+1170;Marina Silva Lima;BA;SALVADOR ;NE
+1171;Isabela Carvalho Cavalcanti;MA;IMPERATRIZ;NE
+1172;Ágatha Costa Carvalho;MA;IMPERATRIZ;NE
+1173;Vitór Ribeiro Barbosa;MA;IMPERATRIZ;NE
+1174;Vinicius Lima Dias;MA;IMPERATRIZ;NE
+1175;Vitor Pinto Ribeiro;PR;CURITIBA ;SU
+1176;Guilherme Lima Cardoso;RJ;Rio de Janeiro ;SU
+1177;Vitor Correia Gomes;PI;PICOS ;NE
+1178;Kauan Costa Ferreira;RN;MOSSORO ;NE
+1179;Bianca Barbosa Sousa;PE;Recife ;NE
+1180;Tomás Fernandes Barros;GO;RIO VERDE ;SU
+1181;Danilo Dias Costa;CE;JUAZEIRO DO NORTE ;NE
+1182;Rebeca Rodrigues Ferreira;AP;Macapa ;NO
+1183;Tânia Rocha Martins;SP;MARILIA ;SU
+1184;Vitoria Ferreira Dias;RJ;Rio de Janeiro ;SU
+1185;Vinícius Oliveira Santos;CE;FORTALEZA ;NE
+1186;Lavinia Sousa Pinto;MG;JUIZ DE FORA ;SU
+1187;Camila Pinto Pereira;SP;SAO PAULO ;SU
+1188;Daniel Sousa Pereira;MA;IMPERATRIZ;NE
+1189;Laura Gomes Barbosa;RJ;NITEROI ;SU
+1190;Bruna Silva Almeida;MA;IMPERATRIZ;NE
+1191;Rafaela Pereira Carvalho;SP;Leme ;SU
+1192;Kauê Goncalves Barbosa;AL;MACEIO ;NE
+1193;Sofia Cavalcanti Sousa;SP;Santo Andre ;SU
+1194;Isabelle Azevedo Cardoso;RJ;RESENDE ;SU
+1195;Eduardo Goncalves Castro;SP;SANTO ANDRE ;SU
+1196;Igor Carvalho Cardoso;RJ;NOVA IGUACU ;SU
+1197;Luis Pereira Santos;ES;Vitoria ;SU
+1198;Brenda Goncalves Dias;PR;SAO MATEUS DO SUL ;SU
+1199;Vitoria Rocha Cavalcanti;MA;IMPERATRIZ;NE
+1200;Vitória Martins Souza;SP;JUNDIAI ;SU
+1201;Letícia Dias Cardoso;RJ;TERESOPOLIS ;SU
+1202;Evelyn Rocha Martins;SP;MARILIA ;SU
+1203;Alex Costa Pereira;GO;Rio Verde ;SU
+1204;Ana Souza Silva;MG;UBERLANDIA ;SU
+1205;Vinicius Barros Dias;MA;IMPERATRIZ;NE
+1206;Nicolash Barbosa Rodrigues;PI;TERESINA ;NE
+1207;Bruno Ribeiro Cunha;MA;IMPERATRIZ;NE
+1208;Douglas Melo Correia;PR;LONDRINA ;SU
+1209;Giovanna Araujo Almeida;RJ;MACAE ;SU
+1210;Luiz Fernandes Castro;MA;IMPERATRIZ;NE
+1211;Carolina Azevedo Goncalves;BA;PAULO AFONSO ;NE
+1212;Victor Ribeiro Carvalho;SP;SANTO ANDRE ;SU
+1213;Felipe Almeida Santos;RJ;RIO DE JANEIRO ;SU
+1214;Brenda Sousa Rocha;SP;Guarulhos ;SU
+1215;Marisa Carvalho Gomes;MA;IMPERATRIZ;NE
+1216;Vinícius Silva Cavalcanti;MG;UBERLANDIA ;SU
+1217;Leila Pereira Costa;MA;IMPERATRIZ;NE
+1218;Nicolash Barros Alves;RJ;RIO DE JANEIRO ;SU
+1219;Alex Gomes Carvalho;RN;NATAL ;NE
+1220;Luiz Ribeiro Goncalves;MA;IMPERATRIZ;NE
+1221;Marina Fernandes Barros;MG;Piumhi ;SU
+1222;Gabrielle Santos Gomes;SC;FLORIANOPOLIS ;SU
+1223;Júlia Lima Ferreira;RJ;Rio de Janeiro ;SU
+1224;Carlos Sousa Souza;MA;IMPERATRIZ;NE
+1225;Eduardo Ferreira Santos;MG;Conselheiro Lafaiete ;SU
+1226;Leonardo Cardoso Alves;SP;POA ;SU
+1227;Laura Dias Rocha;MG;NOVA LIMA ;SU
+1228;Luan Pereira Rodrigues;BA;SALVADOR ;NE
+1229;Beatriz Lima Santos;GO;NIQUELANDIA ;SU
+1230;André Oliveira Lima;SP;ORLANDIA ;SU
+1231;Giovanna Goncalves Melo;RJ;NITEROI ;SU
+1232;Samuel Ribeiro Goncalves;SP;SANTOS ;SU
+1233;Beatriz Ferreira Rocha;PR;CURITIBA ;SU
+1234;João Santos Castro;RJ;Rio de Janeiro ;SU
+1235;Lara Castro Santos;BA;SALVADOR ;NE
+1236;Bruna Lima Souza;PR;MEDIANEIRA ;SU
+1237;Leila Cardoso Cunha;SP;JAU ;SU
+1238;André Pereira Almeida;MA;IMPERATRIZ;NE
+1239;Diego Azevedo Cardoso;SP;SAO PAULO ;SU
+1240;Beatrice Santos Rodrigues;RO;PORTO VELHO ;NO
+1241;Gabriela Castro Azevedo;SP;SAO PAULO ;SU
+1242;Caio Fernandes Castro;SP;OSASCO ;SU
+1243;Murilo Rodrigues Costa;RJ;Rio de Janeiro ;SU
+1244;Marcos Silva Azevedo;PI;TERESINA ;NE
+1245;Carlos Melo Araujo;PI;TERESINA ;NE
+1246;Luana Silva Santos;MG;MURIAE ;SU
+1247;Vitoria Cardoso Silva;MA;IMPERATRIZ;NE
+1248;Clara Sousa Ribeiro;BA;SALVADOR ;NE
+1249;Luan Gomes Almeida;MA;IMPERATRIZ;NE
+1250;Thaís Cardoso Oliveira;SP;DIADEMA ;SU
+1251;Emilly Sousa Ribeiro;MA;IMPERATRIZ;NE
+1252;Sophia Pereira Cavalcanti;MA;IMPERATRIZ;NE
+1253;Mariana Martins Azevedo;SP;SAO PAULO ;SU
+1254;Luis Melo Dias;MG;DIAMANTINA ;SU
+1255;Thiago Costa Rocha;MA;IMPERATRIZ;NE
+1256;Gabriela Castro Rocha;MA;IMPERATRIZ;NE
+1257;Maria Ferreira Martins;BA;SALVADOR ;NE
+1258;Luis Ferreira Silva;AC;Rio Branco ;NO
+1259;Estevan Santos Fernandes;MA;IMPERATRIZ;NE
+1260;Diego Gomes Fernandes;PE;Recife ;NE
+1261;Cauã Alves Correia;ES;VILA VELHA ;SU
+1262;Enzo Santos Almeida;MG;ITABIRA ;SU
+1263;Manuela Barros Azevedo;MA;IMPERATRIZ;NE
+1264;Vitoria Melo Araujo;CE;FORTALEZA ;NE
+1265;Julia Barros Rodrigues;SP;Santos ;SU
+1266;Letícia Gomes Souza;MA;IMPERATRIZ;NE
+1267;Melissa Dias Oliveira;AM;PARINTINS ;NO
+1268;Leila Sousa Correia;MA;IMPERATRIZ;NE
+1269;Julieta Barbosa Castro;MG;TIMOTEO ;SU
+1270;Breno Pereira Cardoso;PR;Foz do Iguacu ;SU
+1271;Clara Sousa Cunha;MA;IMPERATRIZ;NE
+1272;João Dias Ribeiro;AL;Maceió ;NE
+1273;Carla Dias Melo;RJ;SAO GONCALO ;SU
+1274;Ryan Cavalcanti Santos;RN;Natal ;NE
+1275;Nicolas Oliveira Pinto;RJ;MACAE ;SU
+1276;Mariana Sousa Ferreira;SP;JUNDIAI ;SU
+1277;Kauê Correia Cavalcanti;RJ;NITEROI ;SU
+1278;Thiago Carvalho Lima;RN;MOSSORO ;NE
+1279;Lara Lima Almeida;MG;NOVA LIMA ;SU
+1280;Fábio Barbosa Cavalcanti;SP;SAO PAULO ;SU
+1281;Beatriz Alves Gomes;MA;IMPERATRIZ;NE
+1282;Luana Correia Ribeiro;SP;POA ;SU
+1283;Aline Cavalcanti Correia;MA;IMPERATRIZ;NE
+1284;Gabriela Gomes Silva;MG;UBERLANDIA ;SU
+1285;Kaua Correia Araujo;BA;FEIRA DE SANTANA ;NE
+1286;Victor Dias Costa;MG;JUIZ DE FORA ;SU
+1287;Felipe Alves Barros;SP;RIBEIRAO PRETO ;SU
+1288;Arthur Santos Castro;ES;VILA VELHA ;SU
+1289;Gabriela Alves Martins;PA;MARABA ;NO
+1290;Yasmin Gomes Azevedo;MA;IMPERATRIZ;NE
+1291;Fábio Castro Souza;MG;OURO BRANCO ;SU
+1292;Letícia Lima Santos;RS;NOVO HAMBURGO ;SU
+1293;Luiza Santos Carvalho;PI;TERESINA ;NE
+1294;Julia Oliveira Castro;MA;IMPERATRIZ;NE
+1295;Raissa Rocha Lima;SP;SAO PAULO ;SU
+1296;Luan Souza Pinto;PE;SERRA TALHADA ;NE
+1297;Sophia Carvalho Cavalcanti;RJ;NOVA IGUACU ;SU
+1298;Luana Silva Oliveira;PE;RECIFE ;NE
+1299;Miguel Carvalho Pereira;MG;UBERLANDIA ;SU
+1300;Camila Araujo Pinto;GO;GOIANIA ;SU
+1301;Felipe Rodrigues Martins;PA;PARAUAPEBAS ;NO
+1302;Sophia Azevedo Cardoso;MA;IMPERATRIZ;NE
+1303;Fernanda Goncalves Carvalho;PE;RECIFE ;NE
+1304;Renan Santos Martins;MG;UBERABA ;SU
+1305;Luis Cunha Barbosa;PI;TERESINA ;NE
+1306;Ryan Barros Costa;RJ;RIO DE JANEIRO ;SU
+1307;Emily Ferreira Araujo;MT;CUIABA ;SU
+1308;Vinicius Martins Oliveira;MA;IMPERATRIZ;NE
+1309;Julia Lima Silva;ES;SAO MATEUS ;SU
+1310;Beatrice Souza Sousa;MA;IMPERATRIZ;NE
+1311;Davi Rodrigues Pinto;RJ;RIO DE JANEIRO ;SU
+1312;Nicolash Araujo Souza;RJ;Rio de Janeiro ;SU
+1313;Tânia Almeida Fernandes;MA;IMPERATRIZ;NE
+1314;Sarah Martins Ferreira;MG;PATOS DE MINAS ;SU
+1315;Rodrigo Barbosa Azevedo;MA;IMPERATRIZ;NE
+1316;Yasmin Gomes Cardoso;MG;NOVA LIMA ;SU
+1317;Thaís Carvalho Gomes;MG;UBERLANDIA ;SU
+1318;Kai Pereira Goncalves;SP;SAO PAULO ;SU
+1319;Carolina Castro Ribeiro;SP;SAO PAULO ;SU
+1320;Beatrice Araujo Silva;MA;IMPERATRIZ;NE
+1321;Marcos Rodrigues Alves;MA;SAO LUIS ;NE
+1322;Kauê Azevedo Carvalho;BA;TEIXEIRA DE FREITAS ;NE
+1323;Fábio Pinto Lima;CE;Juazeiro do Norte ;NE
+1324;Raissa Cardoso Azevedo;MG;NOVA LIMA ;SU
+1325;Raissa Goncalves Pereira;MG;PARA DE MINAS ;SU
+1326;Miguel Carvalho Melo;MA;IMPERATRIZ;NE
+1327;Rafaela Fernandes Cardoso;SC;JOACABA ;SU
+1328;Nicole Barros Carvalho;PE;RECIFE ;NE
+1329;Antônio Souza Gomes;SC;Porto Uniao ;SU
+1330;Ana Azevedo Souza;MA;IMPERATRIZ;NE
+1331;Eduarda Ferreira Goncalves;MA;IMPERATRIZ;NE
+1332;Rodrigo Alves Cardoso;MA;IMPERATRIZ;NE
+1333;Kauan Barros Correia;MG;Machado ;SU
+1334;Mateus Castro Souza;MA;IMPERATRIZ;NE
+1335;Melissa Carvalho Araujo;RJ;RIO DE JANEIRO ;SU
+1336;Victor Castro Cardoso;RJ;RIO DE JANEIRO ;SU
+1337;Estevan Pinto Oliveira;MA;IMPERATRIZ;NE
+1338;Vinicius Barros Rodrigues;SP;SAO PAULO ;SU
+1339;André Carvalho Barbosa;BA;SALVADOR ;NE
+1340;Carlos Gomes Alves;MG;ITANHANDU ;SU
+1341;Vitória Barbosa Gomes;RS;Sao Gabriel ;SU
+1342;Leila Melo Correia;CE;FORTALEZA ;NE
+1343;Marina Azevedo Correia;ES;VILA VELHA ;SU
+1344;Larissa Barbosa Sousa;AP;Macapa ;NO
+1345;Tiago Santos Cavalcanti;RJ;Rio de Janeiro ;SU
+1346;Samuel Almeida Sousa;RS;PORTO ALEGRE ;SU
+1347;Alice Pinto Castro;MA;IMPERATRIZ;NE
+1348;Marina Melo Ribeiro;RN;MOSSORO ;NE
+1349;Mateus Rocha Silva;MA;IMPERATRIZ;NE
+1350;Kai Alves Azevedo;MA;IMPERATRIZ;NE
+1351;Paulo Pereira Fernandes;MG;POUSO ALEGRE ;SU
+1352;Kauê Sousa Cardoso;GO;RIO VERDE ;SU
+1353;Amanda Almeida Gomes;MA;IMPERATRIZ;NE
+1354;Raissa Melo Souza;SP;SAO PAULO ;SU
+1355;Livia Costa Cardoso;MG;UBERABA ;SU
+1356;Luiza Lima Rocha;SC;SAO JOSE ;SU
+1357;Beatriz Barros Sousa;BA;SALVADOR ;NE
+1358;Guilherme Gomes Ribeiro;SP;LINS ;SU
+1359;Sophia Ribeiro Pereira;SP;FRANCA ;SU
+1360;Luan Souza Carvalho;SP;ITANHAEM ;SU
+1361;Lara Dias Melo;CE;JUAZEIRO DO NORTE ;NE
+1362;Thiago Melo Ribeiro;MA;IMPERATRIZ;NE
+1363;Gabrielle Goncalves Melo;MA;IMPERATRIZ;NE
+1364;Rebeca Cavalcanti Pinto;MA;IMPERATRIZ;NE
+1365;Paulo Rocha Sousa;SP;SANTO ANDRE ;SU
+1366;Lara Barbosa Santos;SP;SAO PAULO ;SU
+1367;Fábio Barros Silva;MA;IMPERATRIZ;NE
+1368;Lavinia Rodrigues Cavalcanti;AL;MACEIO ;NE
+1369;Marina Alves Cunha;MA;IMPERATRIZ;NE
+1370;Victor Souza Silva;MA;SAO LUIS ;NE
+1371;Amanda Sousa Fernandes;PR;CURITIBA ;SU
+1372;Carla Martins Sousa;MA;SAO LUIS ;NE
+1373;Alex Rocha Almeida;CE;FORTALEZA ;NE
+1374;Lara Gomes Sousa;MA;IMPERATRIZ;NE
+1375;Emilly Cavalcanti Almeida;ES;VITORIA ;SU
+1376;Mateus Ferreira Alves;RJ;NOVA FRIBURGO ;SU
+1377;Renan Rocha Azevedo;AL;Maceió ;NE
+1378;Gabriela Barros Ferreira;MA;IMPERATRIZ;NE
+1379;Emilly Ribeiro Pinto;MA;IMPERATRIZ;NE
+1380;André Oliveira Sousa;MA;IMPERATRIZ;NE
+1381;Paulo Cunha Gomes;SP;TAUBATE ;SU
+1382;Breno Cardoso Lima;PE;RECIFE ;NE
+1383;Miguel Goncalves Carvalho;MA;IMPERATRIZ;NE
+1384;Sofia Oliveira Almeida;SP;Jau ;SU
+1385;Victor Goncalves Lima;MA;IMPERATRIZ;NE
+1386;Isabela Costa Martins;MA;IMPERATRIZ;NE
+1387;Brenda Barros Santos;MG;PATOS DE MINAS ;SU
+1388;Miguel Alves Melo;BA;SALVADOR ;NE
+1389;Isabela Silva Barros;SP;MOGI DAS CRUZES ;SU
+1390;Amanda Martins Ferreira;MA;IMPERATRIZ;NE
+1391;Nicolas Cavalcanti Castro;MA;IMPERATRIZ;NE
+1392;Danilo Carvalho Azevedo;SP;JACAREI ;SU
+1393;Leonor Ribeiro Goncalves;MA;IMPERATRIZ;NE
+1394;Mariana Goncalves Costa;ES;VITORIA ;SU
+1395;Nicole Carvalho Ferreira;RJ;RIO BONITO ;SU
+1396;Gabriela Santos Rodrigues;PR;MARINGA ;SU
+1397;Gabriel Rocha Melo;RJ;NOVA FRIBURGO ;SU
+1398;Sarah Santos Ferreira;MA;IMPERATRIZ;NE
+1399;Camila Barbosa Rocha;MG;Manhuacu ;SU
+1400;Marisa Santos Barros;SP;SAO PAULO ;SU
+1401;Melissa Araujo Correia;MA;IMPERATRIZ;NE
+1402;Tiago Sousa Pereira;RN;Natal ;NE
+1403;Leila Rocha Almeida;RJ;RIO DE JANEIRO ;SU
+1404;Thaís Azevedo Rocha;MA;IMPERATRIZ;NE
+1405;Lucas Carvalho Santos;MA;IMPERATRIZ;NE
+1406;Luan Alves Carvalho;PE;RECIFE ;NE
+1407;Victor Carvalho Gomes;PB;JOAO PESSOA ;NE
+1408;Thaís Silva Lima;RS;URUGUAIANA ;SU
+1409;Bianca Rodrigues Azevedo;MA;IMPERATRIZ;NE
+1410;Sarah Almeida Azevedo;MA;IMPERATRIZ;NE
+1411;Miguel Araujo Dias;MA;IMPERATRIZ;NE
+1412;Gabriel Rocha Oliveira;SP;Santos ;SU
+1413;Giovana Carvalho Ferreira;MA;IMPERATRIZ ;NE
+1414;Douglas Carvalho Ribeiro;PB;Joao Pessoa ;NE
+1415;Thiago Almeida Correia;SP;OURINHOS ;SU
+1416;Raissa Pereira Martins;MG;LAVRAS ;SU
+1417;Gabrielle Barbosa Cardoso;AP;Macapa ;NO
+1418;Ana Gomes Martins;MG;ITABIRITO ;SU
+1419;Rodrigo Melo Pereira;CE;FORTALEZA ;NE
+1420;Bianca Correia Lima;MG;PATOS DE MINAS ;SU
+1421;Douglas Melo Gomes;RN;Natal ;NE
+1422;Alice Araujo Ferreira;MA;IMPERATRIZ;NE
+1423;Martim Fernandes Correia;MG;JOAO PINHEIRO ;SU
+1424;Raissa Pinto Costa;MA;IMPERATRIZ;NE
+1425;José Costa Gomes;MA;Imperatriz ;NE
+1426;Sofia Ribeiro Carvalho;SP;SAO CAETANO DO SUL ;SU
+1427;Daniel Araujo Alves;TO;PALMAS ;NO
+1428;Lara Ribeiro Oliveira;ES;Venda Nova do Imigrante ;SU
+1429;Diogo Correia Castro;MA;IMPERATRIZ;NE
+1430;Leila Barros Araujo;BA;SALVADOR ;NE
+1431;Victor Lima Castro;MG;CURVELO ;SU
+1432;Guilherme Almeida Fernandes;MA;IMPERATRIZ;NE
+1433;Rafael Martins Santos;SP;PRESIDENTE PRUDENTE ;SU
+1434;Igor Costa Silva;PE;RECIFE ;NE
+1435;Kauã Almeida Oliveira;MA;IMPERATRIZ;NE
+1436;Emilly Sousa Cunha;MA;IMPERATRIZ;NE
+1437;Vitór Cunha Alves;MA;IMPERATRIZ;NE
+1438;Luiza Melo Barbosa;SP;RIBEIRAO PIRES ;SU
+1439;Julian Castro Almeida;MG;JANUARIA ;SU
+1440;Estevan Melo Gomes;MA;IMPERATRIZ;NE
+1441;João Gomes Castro;RJ;RIO DE JANEIRO ;SU
+1442;Daniel Araujo Ribeiro;PE;RECIFE ;NE
+1443;Marcos Costa Rocha;RJ;Rio de Janeiro ;SU
+1444;Ryan Castro Cavalcanti;MA;IMPERATRIZ;NE
+1445;Luana Santos Ferreira;MA;IMPERATRIZ;NE
+1446;Julieta Pereira Dias;SP;SAO PAULO ;SU
+1447;Gabrielly Ferreira Costa;SP;Sao Paulo ;SU
+1448;Alice Ribeiro Rodrigues;MA;IMPERATRIZ;NE
+1449;Manuela Carvalho Silva;SP;GUARULHOS ;SU
+1450;Nicolas Correia Cardoso;MA;IMPERATRIZ;NE
+1451;Matilde Santos Ribeiro;MA;IMPERATRIZ;NE
+1452;Carlos Costa Pereira;MA;IMPERATRIZ;NE
+1453;Lavinia Souza Cardoso;RJ;NOVA IGUACU ;SU
+1454;Isabella Azevedo Silva;MG;MONTES CLAROS ;SU
+1455;Lavinia Barbosa Pinto;SP;FRANCA ;SU
+1456;Felipe Souza Costa;BA;Luis Eduardo Magalhães ;NE
+1457;Giovanna Martins Cavalcanti;MA;IMPERATRIZ;NE
+1458;Antônio Lima Cavalcanti;MG;SAO JOAO DEL REI ;SU
+1459;Amanda Araujo Melo;PE;Recife ;NE
+1460;Gabrielle Cardoso Almeida;PE;GARANHUNS ;NE
+1461;Gabriela Fernandes Rocha;BA;Teixeira de Freitas ;NE
+1462;Luiz Goncalves Ribeiro;PR;GUARAPUAVA ;SU
+1463;Kauã Silva Rodrigues;MA;IMPERATRIZ;NE
+1464;Manuela Lima Fernandes;SP;Santos ;SU
+1465;Arthur Ribeiro Cavalcanti;PI;TERESINA ;NE
+1466;Marcos Lima Martins;MA;IMPERATRIZ;NE
+1467;Kauan Correia Alves;BA;SALVADOR ;NE
+1468;Rafael Azevedo Cavalcanti;ES;Sao Mateus ;SU
+1469;Ana Souza Almeida;SP;SAO PAULO ;SU
+1470;Bruno Silva Souza;MA;IMPERATRIZ;NE
+1471;Luiz Fernandes Pinto;MG;UBERABA ;SU
+1472;Julia Araujo Silva;PE;RECIFE ;NE
+1473;Danilo Araujo Azevedo;MA;IMPERATRIZ;NE
+1474;Clara Barbosa Dias;RS;Porto Alegre ;SU
+1475;Miguel Sousa Lima;RJ;Rio de Janeiro ;SU
+1476;Gabriela Lima Pereira;MA;IMPERATRIZ;NE
+1477;Julieta Rodrigues Goncalves;MA;IMPERATRIZ;NE
+1478;Carlos Silva Lima;SP;Valinhos ;SU
+1479;Arthur Azevedo Santos;RN;NATAL ;NE
+1480;Carla Silva Araujo;SP;PIRACICABA ;SU
+1481;Caio Goncalves Almeida;PI;TERESINA ;NE
+1482;Brenda Almeida Barros;MA;IMPERATRIZ;NE
+1483;Brenda Oliveira Rocha;MG;ITAMBACURI ;SU
+1484;Douglas Lima Ferreira;SP;Piracicaba ;SU
+1485;Kaua Melo Carvalho;MA;IMPERATRIZ;NE
+1486;Thiago Ribeiro Rocha;SP;MARILIA ;SU
+1487;Rafael Cavalcanti Rocha;MA;IMPERATRIZ;NE
+1488;Lucas Pinto Lima;MA;IMPERATRIZ;NE
+1489;Renan Martins Costa;MA;IMPERATRIZ;NE
+1490;Bianca Gomes Silva;RS;PORTO ALEGRE ;SU
+1491;Marcos Carvalho Lima;PE;Garanhuns ;NE
+1492;Rebeca Costa Pereira;MA;IMPERATRIZ;NE
+1493;Marcos Goncalves Santos;MG;MONTES CLAROS ;SU
+1494;Leonardo Alves Oliveira;MA;IMPERATRIZ;NE
+1495;Luís Alves Cardoso;MA;IMPERATRIZ;NE
+1496;Davi Alves Azevedo;MA;IMPERATRIZ;NE
+1497;Rafael Castro Silva;PI;TERESINA ;NE
+1498;Bruno Pinto Goncalves;MA;IMPERATRIZ;NE
+1499;Gabrielly Carvalho Martins;SC;NOVA TRENTO ;SU
+1500;Caio Cavalcanti Carvalho;BA;SALVADOR ;NE
+1501;José Cardoso Rodrigues;MA;IMPERATRIZ;NE
+1502;Sofia Rocha Almeida;MA;IMPERATRIZ;NE
+1503;Sophia Almeida Castro;SP;Franca ;SU
+1504;Mateus Sousa Santos;MA;IMPERATRIZ;NE
+1505;Julia Araujo Oliveira;SP;Ourinhos ;SU
+1506;Gabriel Alves Santos;MA;Itapecuru Mirim ;NE
+1507;Luana Oliveira Souza;MA;IMPERATRIZ;NE
+1508;Rebeca Ribeiro Barbosa;MG;MONTES CLAROS ;SU
+1509;Samuel Martins Alves;BA;SALVADOR ;NE
+1510;Gabriela Araujo Sousa;SC;FLORIANOPOLIS ;SU
+1511;Isabelle Barbosa Lima;SP;Sao Paulo ;SU
+1512;Giovana Cavalcanti Rocha;SP;SAO PAULO ;SU
+1513;Kauê Ferreira Cunha;MA;IMPERATRIZ;NE
+1514;Giovanna Sousa Dias;MA;IMPERATRIZ;NE
+1515;Gabriel Oliveira Souza;MA;IMPERATRIZ;NE
+1516;Fernanda Fernandes Gomes;MA;IMPERATRIZ;NE
+1517;Kai Alves Martins;TO;Palmas ;NO
+1518;Joao Lima Fernandes;SP;SAO PAULO ;SU
+1519;Martim Martins Cavalcanti;MG;Uberlandia ;SU
+1520;Diogo Ribeiro Fernandes;SP;Santa Rita do Passa Quatr ;SU
+1521;Luiza Barros Azevedo;BA;Salvador ;NE
+1522;Emily Carvalho Fernandes;SP;TABOAO DA SERRA ;SU
+1523;Diogo Goncalves Costa;RJ;ILHA DO GOVERNADOR ;SU
+1524;Brenda Martins Alves;SP;SAO PAULO ;SU
+1525;Carlos Barbosa Dias;SP;Indaiatuba ;SU
+1526;Luís Barros Rodrigues;SP;Sao Paulo ;SU
+1527;Victor Barros Almeida;RJ;Rio de Janeiro ;SU
+1528;Beatrice Souza Alves;MA;IMPERATRIZ;NE
+1529;Raissa Azevedo Rodrigues;PR;SAO MATEUS DO SUL ;SU
+1530;Paulo Correia Barros;CE;FORTALEZA ;NE
+1531;Marina Carvalho Martins;MG;MURIAE ;SU
+1532;Larissa Lima Melo;MA;IMPERATRIZ;NE
+1533;Luana Almeida Cunha;MG;UBERLANDIA ;SU
+1534;Erick Dias Melo;MA;IMPERATRIZ;NE
+1535;Matilde Oliveira Araujo;SP;SERTAOZINHO ;SU
+1536;Rodrigo Cunha Cardoso;SC;LAGES ;SU
+1537;Giovana Goncalves Lima;MA;IMPERATRIZ;NE
+1538;Carolina Gomes Barros;MA;IMPERATRIZ;NE
+1539;Giovana Rocha Goncalves;RJ;RIO DE JANEIRO ;SU
+1540;Luiza Pereira Dias;MG;PASSOS ;SU
+1541;Maria Oliveira Azevedo;MG;UBA ;SU
+1542;Julia Cunha Correia;MG;UBA ;SU
+1543;Erick Dias Goncalves;SP;SAO CARLOS ;SU
+1544;Victor Goncalves Castro;CE;Fortaleza ;NE
+1545;Martim Martins Melo;SP;SANTO ANDRE ;SU
+1546;Melissa Barbosa Araujo;MA;IMPERATRIZ;NE
+1547;Erick Fernandes Gomes;SC;TUBARAO ;SU
+1548;Anna Carvalho Lima;MA;IMPERATRIZ;NE
+1549;Júlio Rocha Souza;AP;MACAPA ;NO
+1550;Lucas Martins Cavalcanti;SP;Sao Paulo ;SU
+1551;Emily Azevedo Cavalcanti;SP;POA ;SU
+1552;Diego Rodrigues Barros;MA;IMPERATRIZ;NE
+1553;João Lima Santos;SP;Piracicaba ;SU
+1554;Brenda Sousa Santos;SP;PRESIDENTE PRUDENTE ;SU
+1555;Eduardo Cardoso Dias;RJ;RIO DE JANEIRO ;SU
+1556;Igor Rocha Barros;MA;IMPERATRIZ;NE
+1557;Sofia Sousa Pinto;MG;PATOS DE MINAS ;SU
+1558;Davi Sousa Martins;RJ;RIO DE JANEIRO ;SU
+1559;Rebeca Cunha Correia;MA;IMPERATRIZ;NE
+1560;Miguel Araujo Fernandes;PR;LONDRINA ;SU
+1561;Enzo Rodrigues Barros;MG;GOVERNADOR VALADARES ;SU
+1562;Marcos Cavalcanti Ferreira;GO;GOIANIA ;SU
+1563;Leonardo Rocha Cavalcanti;MG;Tres Pontas ;SU
+1564;Thiago Barbosa Oliveira;SP;SAO PAULO ;SU
+1565;Diego Cardoso Ferreira;MA;IMPERATRIZ;NE
+1566;Carlos Rocha Araujo;MA;IMPERATRIZ;NE
+1567;Diego Cavalcanti Alves;BA;SALVADOR ;NE
+1568;Enzo Costa Ferreira;MG;JUIZ DE FORA ;SU
+1569;Melissa Cavalcanti Rocha;MA;IMPERATRIZ;NE
+1570;Diogo Goncalves Santos;PR;SAO MATEUS DO SUL ;SU
+1571;Brenda Melo Souza;SP;SAO PAULO ;SU
+1572;Isabelle Rocha Barbosa;SP;SAO PAULO ;SU
+1573;Luiza Ribeiro Dias;PR;LONDRINA ;SU
+1574;Clara Rodrigues Dias;MA;IMPERATRIZ;NE
+1575;Giovana Souza Rodrigues;BA;Luis Eduardo Magalhães ;NE
+1576;Lucas Santos Alves;MA;IMPERATRIZ;NE
+1577;Letícia Lima Costa;MA;IMPERATRIZ;NE
+1578;Erick Azevedo Dias;MA;IMPERATRIZ;NE
+1579;Vitoria Barbosa Dias;SP;Sao Paulo ;SU
+1580;Maria Souza Rocha;GO;GOIANIA ;SU
+1581;Tomás Ribeiro Barros;CE;Fortaleza ;NE
+1582;Enzo Lima Cardoso;MA;IMPERATRIZ;NE
+1583;Rafaela Costa Martins;MA;IMPERATRIZ;NE
+1584;Samuel Cavalcanti Rodrigues;BA;SALVADOR ;NE
+1585;Vitor Rodrigues Goncalves;SP;SAO PAULO ;SU
+1586;Clara Dias Ribeiro;PI;TERESINA ;NE
+1587;Rebeca Carvalho Santos;MA;IMPERATRIZ;NE
+1588;Amanda Goncalves Souza;MA;IMPERATRIZ;NE
+1589;Leila Almeida Araujo;RJ;TERESOPOLIS ;SU
+1590;Sophia Sousa Oliveira;MA;IMPERATRIZ;NE
+1591;Eduardo Goncalves Rodrigues;RJ;RIO DE JANEIRO ;SU
+1592;Sofia Costa Cardoso;MA;IMPERATRIZ;NE
+1593;Leonor Goncalves Castro;SP;SAO PAULO ;SU
+1594;Julia Lima Alves;BA;Lauro de Freitas ;NE
+1595;Luis Lima Ferreira;MA;IMPERATRIZ;NE
+1596;Kaua Lima Araujo;MA;IMPERATRIZ;NE
+1597;Júlio Almeida Silva;MA;IMPERATRIZ;NE
+1598;Luís Oliveira Ribeiro;RJ;RIO DE JANEIRO ;SU
+1599;Renan Santos Alves;CE;FORTALEZA ;NE
+1600;Ágatha Fernandes Oliveira;MA;IMPERATRIZ;NE
+1601;Bianca Alves Sousa;MG;UBERLANDIA ;SU
+1602;Manuela Sousa Gomes;MG;UBERABA ;SU
+1603;Diego Barros Carvalho;BA;SALVADOR ;NE
+1604;Kaua Carvalho Almeida;MA;IMPERATRIZ;NE
+1605;Isabela Correia Goncalves;MA;IMPERATRIZ;NE
+1606;Anna Almeida Ribeiro;CE;FORTALEZA ;NE
+1607;Luis Dias Alves;BA;SALVADOR ;NE
+1608;João Azevedo Oliveira;SP;SAO JOSE DOS CAMPOS ;SU
+1609;Kaua Costa Cavalcanti;MA;IMPERATRIZ;NE
+1610;Gabriela Pereira Dias;PE;PETROLINA ;NE
+1611;Bruno Fernandes Almeida;PB;JOAO PESSOA ;NE
+1612;Brenda Araujo Souza;SP;SAO PAULO ;SU
+1613;Melissa Fernandes Lima;MG;ITUIUTABA ;SU
+1614;Ágatha Silva Rodrigues;RJ;RIO DE JANEIRO ;SU
+1615;Tânia Carvalho Fernandes;SP;Sao Paulo ;SU
+1616;Júlio Carvalho Sousa;SP;SAO PAULO ;SU
+1617;Diogo Souza Fernandes;MA;IMPERATRIZ;NE
+1618;Marina Barros Fernandes;CE;Fortaleza ;NE
+1619;Antônio Gomes Barbosa;MA;IMPERATRIZ;NE
+1620;Rebeca Alves Sousa;MA;IMPERATRIZ;NE
+1621;Gabriel Sousa Castro;MA;IMPERATRIZ;NE
+1622;Carlos Silva Cunha;PI;TERESINA ;NE
+1623;Daniel Fernandes Correia;MA;IMPERATRIZ;NE
+1624;Murilo Souza Barbosa;MA;IMPERATRIZ;NE
+1625;Sophia Souza Araujo;SP;Sao Paulo ;SU
+1626;Thiago Gomes Rodrigues;MA;IMPERATRIZ;NE
+1627;Leonor Souza Rocha;MA;IMPERATRIZ;NE
+1628;Kaua Sousa Goncalves;BA;MURITIBA ;NE
+1629;Vitor Cavalcanti Carvalho;PE;Recife ;NE
+1630;Mariana Melo Oliveira;MA;IMPERATRIZ;NE
+1631;Thaís Goncalves Correia;MG;VARGINHA ;SU
+1632;Beatriz Almeida Fernandes;PE;OLINDA ;NE
+1633;Tomás Correia Dias;MA;IMPERATRIZ;NE
+1634;Julia Pereira Araujo;SP;SAO PAULO ;SU
+1635;Gabriela Lima Correia;MA;IMPERATRIZ;NE
+1636;Guilherme Correia Santos;RJ;TERESOPOLIS ;SU
+1637;Sarah Alves Goncalves;RJ;RIO DE JANEIRO ;SU
+1638;Igor Correia Carvalho;BA;Salvador ;NE
+1639;Beatrice Rodrigues Lima;MA;IMPERATRIZ;NE
+1640;Vitór Martins Castro;AP;MACAPA ;NO
+1641;Arthur Cardoso Araujo;MA;IMPERATRIZ;NE
+1642;Marisa Dias Ribeiro;MA;IMPERATRIZ;NE
+1643;Vitoria Sousa Correia;MA;IMPERATRIZ;NE
+1644;Kauan Araujo Cardoso;SP;SAO PAULO ;SU
+1645;Kaua Cardoso Silva;MA;IMPERATRIZ;NE
+1646;Pedro Ribeiro Barbosa;MG;PATOS DE MINAS ;SU
+1647;Vitór Melo Azevedo;SP;SERTAOZINHO ;SU
+1648;Nicolas Cunha Martins;MG;PATOS DE MINAS ;SU
+1649;Vinícius Costa Cunha;MA;IMPERATRIZ;NE
+1650;Diego Araujo Lima;SP;SAO PAULO ;SU
+1651;Amanda Almeida Dias;MA;IMPERATRIZ;NE
+1652;Erick Araujo Rodrigues;CE;SOBRAL ;NE
+1653;Bruno Rocha Almeida;PE;PETROLINA ;NE
+1654;Marina Martins Barros;MA;IMPERATRIZ;NE
+1655;Rafael Dias Almeida;RJ;Rio de Janeiro ;SU
+1656;Tomás Goncalves Azevedo;MA;IMPERATRIZ;NE
+1657;Carolina Almeida Castro;BA;SALVADOR ;NE
+1658;André Carvalho Cunha;MA;IMPERATRIZ;NE
+1659;Paulo Cardoso Martins;PR;Londrina ;SU
+1660;Rebeca Azevedo Araujo;SP;SAO PAULO ;SU
+1661;Daniel Correia Melo;SP;ORLANDIA ;SU
+1662;Raissa Carvalho Souza;PE;RECIFE ;NE
+1663;Rodrigo Silva Almeida;MG;MONTES CLAROS ;SU
+1664;Victor Fernandes Alves;MA;IMPERATRIZ;NE
+1665;Clara Carvalho Souza;MA;IMPERATRIZ;NE
+1666;Marisa Sousa Cardoso;AL;MACEIO ;NE
+1667;Sofia Lima Costa;AL;MACEIO ;NE
+1668;Lara Fernandes Correia;RJ;PETROPOLIS ;SU
+1669;Miguel Dias Ferreira;MA;IMPERATRIZ;NE
+1670;Pedro Araujo Barros;SP;JUNDIAI ;SU
+1671;Julia Lima Dias;MA;IMPERATRIZ;NE
+1672;Gabriela Carvalho Lima;MA;IMPERATRIZ;NE
+1673;Fábio Barros Alves;CE;Sobral ;NE
+1674;Tiago Cavalcanti Martins;MA;IMPERATRIZ;NE
+1675;Mateus Souza Rocha;RN;NATAL ;NE
+1676;Yasmin Almeida Cunha;BA;SALVADOR ;NE
+1677;Bianca Castro Ribeiro;MA;IMPERATRIZ;NE
+1678;Tânia Fernandes Rodrigues;MG;GOVERNADOR VALADARES ;SU
+1679;Otávio Ferreira Correia;MA;IMPERATRIZ;NE
+1680;André Barros Carvalho;MA;IMPERATRIZ;NE
+1681;Isabella Cavalcanti Souza;MA;IMPERATRIZ;NE
+1682;Giovana Barros Goncalves;MA;IMPERATRIZ;NE
+1683;Giovanna Cunha Melo;CE;FORTALEZA ;NE
+1684;Mariana Souza Santos;SP;SOROCABA ;SU
+1685;Matilde Dias Cardoso;SP;MOGI-MIRIM ;SU
+1686;Felipe Cavalcanti Melo;MA;IMPERATRIZ;NE
+1687;Diego Cavalcanti Almeida;SP;RIBEIRAO PRETO ;SU
+1688;Luana Silva Martins;MA;IMPERATRIZ;NE
+1689;Eduarda Pereira Oliveira;MG;POCOS DE CALDAS ;SU
+1690;Alice Correia Castro;MG;JANUARIA ;SU
+1691;Paulo Martins Silva;SP;SAO PAULO ;SU
+1692;Kauê Silva Gomes;GO;GOIANIA ;SU
+1693;Diogo Cunha Cavalcanti;MG;UBERLANDIA ;SU
+1694;Renan Dias Silva;SP;Jau ;SU
+1695;Gabriela Pinto Lima;RJ;Volta Redonda ;SU
+1696;Eduarda Oliveira Cunha;AM;MANAUS ;NO
+1697;Ágatha Melo Sousa;MA;IMPERATRIZ;NE
+1698;Davi Rocha Lima;GO;GOIANIA ;SU
+1699;Gabrielle Ferreira Lima;AM;MANAUS ;NO
+1700;André Gomes Dias;MA;IMPERATRIZ;NE
+1701;Enzo Martins Pereira;RJ;Rio de Janeiro ;SU
+1702;Danilo Almeida Cavalcanti;MA;IMPERATRIZ;NE
+1703;Raissa Correia Carvalho;BA;SALVADOR ;NE
+1704;Anna Costa Souza;SP;SAO PAULO ;SU
+1705;Emilly Santos Gomes;PI;TERESINA ;NE
+1706;André Lima Oliveira;MA;IMPERATRIZ;NE
+1707;Arthur Cavalcanti Ribeiro;MG;TRES CORACOES ;SU
+1708;Julian Castro Rodrigues;PR;LONDRINA ;SU
+1709;Julia Goncalves Silva;MA;IMPERATRIZ;NE
+1710;Breno Pereira Sousa;MA;IMPERATRIZ;NE
+1711;Kai Rocha Souza;RJ;Itaperuna ;SU
+1712;Rebeca Dias Rodrigues;MA;IMPERATRIZ;NE
+1713;Otávio Azevedo Alves;MA;IMPERATRIZ;NE
+1714;Giovana Rodrigues Silva;MA;IMPERATRIZ;NE
+1715;João Alves Martins;MA;IMPERATRIZ;NE
+1716;Giovana Pinto Sousa;MG;GOVERNADOR VALADARES ;SU
+1717;Kauã Cardoso Oliveira;MA;IMPERATRIZ;NE
+1718;Rodrigo Silva Araujo;SP;Sorocaba ;SU
+1719;Sophia Sousa Cavalcanti;MA;IMPERATRIZ;NE
+1720;Gabriela Barros Santos;SP;SANTOS ;SU
+1721;Camila Carvalho Cardoso;SP;Sao Paulo ;SU
+1722;Lara Pinto Barros;MG;POCOS DE CALDAS ;SU
+1723;Beatriz Pereira Martins;MA;IMPERATRIZ;NE
+1724;Breno Almeida Costa;MA;IMPERATRIZ;NE
+1725;Vitória Barbosa Ferreira;BA;SALVADOR ;NE
+1726;Marina Dias Goncalves;SP;SAO JOAO DA BOA VISTA ;SU
+1727;Yasmin Costa Pinto;MA;IMPERATRIZ;NE
+1728;Luís Rocha Dias;SP;VOTORANTIM ;SU
+1729;Vitor Ferreira Souza;MA;IMPERATRIZ;NE
+1730;Manuela Cardoso Costa;PE;RECIFE ;NE
+1731;Carla Dias Cavalcanti;AC;RIO BRANCO ;NO
+1732;Sofia Pereira Araujo;MG;UBERABA ;SU
+1733;Gabrielly Barros Goncalves;MG;UBERLANDIA ;SU
+1734;Gabrielle Ferreira Cavalcanti;PR;MARINGA ;SU
+1735;Ágatha Carvalho Dias;SC;Itajai ;SU
+1736;Mariana Lima Goncalves;ES;GUARAPARI ;SU
+1737;Lara Melo Costa;MA;IMPERATRIZ;NE
+1738;Livia Souza Martins;MA;IMPERATRIZ;NE
+1739;Guilherme Souza Silva;MG;SETE LAGOAS ;SU
+1740;Paulo Cunha Almeida;MA;IMPERATRIZ;NE
+1741;Amanda Almeida Santos;SP;SAO PAULO ;SU
+1742;Julian Correia Ribeiro;PR;PATO BRANCO ;SU
+1743;Júlio Azevedo Sousa;MA;IMPERATRIZ;NE
+1744;Luis Fernandes Oliveira;MA;IMPERATRIZ;NE
+1745;Nicolash Dias Melo;SP;SAO PAULO ;SU
+1746;Rebeca Melo Cunha;MA;IMPERATRIZ;NE
+1747;Ryan Dias Rocha;MA;IMPERATRIZ;NE
+1748;Igor Souza Gomes;MA;IMPERATRIZ;NE
+1749;Breno Lima Martins;BA;SALVADOR ;NE
+1750;Gabriela Carvalho Cardoso;SP;TUPA ;SU
+1751;Brenda Sousa Costa;MA;SAO LUIS ;NE
+1752;Carlos Santos Melo;MA;IMPERATRIZ;NE
+1753;Eduarda Lima Carvalho;MG;JUIZ DE FORA ;SU
+1754;Rafaela Pereira Azevedo;SP;TATUI ;SU
+1755;Estevan Dias Cardoso;RJ;RIO DE JANEIRO ;SU
+1756;Sarah Lima Rodrigues;MA;IMPERATRIZ;NE
+1757;Marcos Pinto Goncalves;MA;IMPERATRIZ;NE
+1758;Julia Lima Azevedo;SP;SAO PAULO ;SU
+1759;Emily Cardoso Goncalves;MA;IMPERATRIZ;NE
+1760;Isabela Carvalho Rodrigues;MG;UBERLANDIA ;SU
+1761;Amanda Carvalho Rocha;RJ;RESENDE ;SU
+1762;Gustavo Cunha Rodrigues;RJ;RIO DE JANEIRO ;SU
+1763;Marcos Alves Araujo;BA;VALENCA ;NE
+1764;Ágatha Sousa Souza;SP;Santo Andre ;SU
+1765;Rebeca Barbosa Araujo;MA;IMPERATRIZ;NE
+1766;Rafael Rodrigues Ribeiro;PR;Toledo ;SU
+1767;Lara Carvalho Correia;RJ;RIO DE JANEIRO ;SU
+1768;Vitoria Cardoso Pereira;RJ;RIO DE JANEIRO ;SU
+1769;Laura Correia Azevedo;MA;IMPERATRIZ;NE
+1770;Carolina Alves Cavalcanti;MA;IMPERATRIZ;NE
+1771;Julia Fernandes Sousa;MG;VARGINHA ;SU
+1772;Samuel Dias Lima;SP;SAO JOSE DO RIO PRETO ;SU
+1773;Júlio Oliveira Pinto;ES;VITORIA ;SU
+1774;Daniel Silva Castro;MA;IMPERATRIZ;NE
+1775;Julian Barros Sousa;RJ;SAO GONCALO ;SU
+1776;Julian Lima Martins;MA;IMPERATRIZ;NE
+1777;Rafaela Rodrigues Azevedo;MA;IMPERATRIZ;NE
