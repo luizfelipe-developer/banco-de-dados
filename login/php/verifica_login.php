@@ -4,9 +4,6 @@
     if (isset($_POST['bt-entrar'])) {
         $login = $_POST['login'];
         $senha = $_POST['senha'];
-        echo "Usuário: ".$login; 
-        echo "<br>";
-        echo "Senha: ".$senha; 
         
         $sql = "SELECT `usuario` FROM `usuarios` WHERE `usuario`='$login'";
         $resultado = $conexao -> query($sql);
@@ -19,9 +16,16 @@
 
             $resultado = $conexao -> query($sql);
             if (mysqli_num_rows($resultado)==1){
-                header('Location:../pages/pagina.html');
+                $dados = mysqli_fetch_array($resultado);
+                $_SESSION['online'] = true;
+                $_SESSION['nomeUsu'] = $dados['nome'];
+
+                header('Location:../pages/pagina.php');
+            } else {
+                header('Location: ../index.php');
             }
-            echo "<br><br> Usuário ou senha estão incorretos.";
+        } else {
+            header('Location: ../index.php');
         }
     }
 
