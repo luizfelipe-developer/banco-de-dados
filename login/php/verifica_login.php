@@ -27,6 +27,7 @@
         } else {
             header('Location: ../index.php');
         }
+        mysqli_close($conexao);
     }
 
 ?>
