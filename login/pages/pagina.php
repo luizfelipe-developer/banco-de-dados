@@ -12,14 +12,19 @@ if (!isset($_SESSION['online'])) {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>LOGIN</title>
+    <title>logado</title>
+
 </head>
 <body>
-    <h1>Olá, 
+    <h1>Bem vindo, 
         <?php 
            echo $user;
-        ?>, você está logado!
+        ?>! Você está conectado.
     </h1>
-    <a href="../php/sair_sessao.php">Sair</a>
+
+    <a href="../php/sair_sessao.php">Sair</a> <br>
+    <a href="usuarios.php">ver usuários cadastrados</a>
+
+
 </body>
 </html>
