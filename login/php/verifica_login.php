@@ -12,7 +12,7 @@
 
        // echo "qtd: ".$qtd;
         if (mysqli_num_rows($resultado)>0) {
-            $sql= "SELECT * FROM `usuarios` WHERE `usuario`='$login' AND `senha`='$senha'";
+            $sql= "SELECT * FROM `usuarios` WHERE `usuario`='$login' AND `senha`= MD5('$senha')";
 
             $resultado = $conexao -> query($sql);
             if (mysqli_num_rows($resultado)==1){

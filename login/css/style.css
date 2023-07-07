@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
 *{
     margin: 0;
     padding: 0;
@@ -5,10 +6,50 @@
 }
 body{
     background-color: blueviolet;
+    height: 99vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Quicksand', sans-serif;
 }
-.login-box{
-    width: 650px;
+.container{
+    width: 100%;
+    max-width: 450px;
     margin: 0 auto;
-    padding: 20px;
+    padding: 50px 20px;
     background-color: #fff;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+    background: #fff;
+    max-width: 100%;
+    padding: 20px;
+}
+.inputBox{
+    display: flex;
+    flex-direction: column;
+    margin: 7px 0;
+}
+label{
+    font-weight: 600;
+}
+input{
+    font-size: 1em;
+    padding: .5em;
+}
+
+a{
+    color: blueviolet;
+}
+button{
+    width: 100px;
+    padding: 7px;
+    background-color: rgb(37, 218, 37);
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    border: none;
+    margin: 7px 0;
 }

@@ -5,7 +5,7 @@ $nome = $_POST['nome'];
 $usuario = $_POST['usuario'];
 $senha = $_POST['senha'];
 //inserir os valores adicionados das variáveis nos campos da tabela cliente do BD
-$inserirSql = "INSERT INTO usuarios(nome, usuario, senha) VALUES ('$nome', '$usuario', '$senha')";
+$inserirSql = "INSERT INTO usuarios(nome, usuario, senha) VALUES ('$nome', '$usuario', MD5('$senha'))";
 //sempre que os valores forem do tipo varchar, devem ficar entre 'aspas simples'
 //Verificação
 if (mysqli_query($conexao, $inserirSql)) {
