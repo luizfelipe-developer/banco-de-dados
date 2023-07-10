@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="pt-BR"> 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css   ">
+    <title>CADASTRO DE PACIENTE</title>
+    
+</head>
+<body>
+    <div class="container">
+        <a href="../../index.html">Voltar</a>
+        <h1>Cadastro de Paciente</h1>
+<!--método GET recebe algum recurso do servidor
+//método POST envia dados para o servidor-->
+        <form id="form" action="../php/cadastro-paciente.php" method="POST">
+            <div class="inputBox nome">
+                <label for="nome">Nome: </label>
+                <input type="text" name="nome" id="nome" required >
+            </div>    
+            <div class="inputBox sobrenome">
+                <label for="sobrenome">Sobrenome: </label>
+                <input type="text" name="sobrenome" id="sobrenome" required >
+            </div>    
+            <div class="inputBox cod">
+                <label for="crm">0CRM: </label>
+                <input type="number" name="crm" id="crm" required>
+            </div>    
+            <div class="inputBox endereco ">
+                <label for="endereco">Endereço: </label>
+                <input type="text" name="endereco" id="endereco" required >
+            </div>    
+            <div class="inputBox cidade">
+                <label for="cidade">Cidade: </label>
+                <input type="text" name="cidade" id="cidade" required >
+            </div>    
+            <div class="inputBox especialidade ">
+                <label for="especialidade">Especialidade: </label>
+                <input type="text" name="especialidade" id="especialidade" required >
+            </div>    
+            <div class="inputBox telefone ">
+                <label for="telefone">Telefone: </label>
+                <input type="text" name="telefone" id="telefone" required >
+            </div>    
+            <div class="inputBox cpf ">
+                <label for="cpf">CPF: </label>
+                <input oninput="mascara(this)" type="text" name="cpf" id="cpf" required>
+            </div>    
+            <div class="botao">
+                <button>Cadastrar</button>
+            </div> 
+        </form>
+    </div>
+    
+</body>
+<script>
+    function mascara(i){
+        var v = i.value;
+        
+        if(isNaN(v[v.length-1])){ // impede entrar outro caractere que não seja número
+            i.value = v.substring(0, v.length-1);
+            return;
+        }
+        
+        i.setAttribute("maxlength", "14");
+        if (v.length == 3 || v.length == 7) i.value += ".";
+        if (v.length == 11) i.value += "-";
+
+    }
+</script>
+</html>
