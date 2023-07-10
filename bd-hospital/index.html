@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap');
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        background-color: rgb(138, 43, 226);
+        color: #fff;
+        
+        font-family: 'Quicksand', sans-serif;
+    }
+    .container{
+        width: 100%;
+        max-width: 1280px;
+        margin: 0 auto;
+        padding: 50px 20px;
+        height: 99vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .box{
+        display: flex;
+        margin: 35px 0 15px;
+        gap: 35px;
+    }
+    .link-form{
+        color:#fff;
+        text-decoration: none;
+        padding: 30px;
+        display: block;
+        font-weight: bold;
+    }
+    .escolha{
+        border: #000 1px dotted;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 15px;
+        cursor: pointer;
+    }
+    img{
+        margin-right: 15px;
+    }
+    .h3{
+        color: #fff ;
+    }
+</style>
+    <title>CADASTRO DO HOSPITAL</title>
+</head>
+<body>
+    <div class="container">
+        <h1>ESCOLHA QUEM VOCÊ QUER CADASTRAR</h1>
+        <div class="box">
+            <div class="medico escolha">
+                <a href="admin/pages/medico.html" class="link-form"><img src="admin/img/medico-img.png" alt="cadastrar-medico">MÉDICO</a>
+            </div>
+            <div class="paciente escolha"> 
+                <a href="" class="link-form"> <img src="admin/img/paciente-img.png" alt="cadastrar-paciente">PACIENTE</a>
+            </div>
+        </div>
+        <a href="" class="h3" > <h3>Visualizar cadastros </h3> </a>
+    </div>
+</body>
+</html>
