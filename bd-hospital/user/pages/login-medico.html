@@ -14,7 +14,7 @@
         <h1>Entrar como médico</h1>
 <!--método GET recebe algum recurso do servidor
 //método POST envia dados para o servidor-->
-        <form id="form" action="../php/cadastro-medico.php" method="POST">
+        <form id="form" action="../../admin/php/verifica_medico.php" method="POST">
             <div class="inputBox nome">
                 <label for="nome">Nome: </label>
                 <input type="text" name="nome" id="nome" required >
@@ -28,7 +28,7 @@
                 <input type="number" name="crm" id="crm" required>
             </div>    
             <div class="botao">
-                <button>Entrar</button>
+                <button type="submit" name="bt-entrar" id="bt-entrar">Entrar</button>
             </div> 
         </form>
     </div>
