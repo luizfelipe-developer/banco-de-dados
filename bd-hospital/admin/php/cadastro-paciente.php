@@ -1,14 +1,14 @@
 <?php 
 include("conexao.php");
 //receber as iformações repassadas pelo método POST pelo formulário
-$nome = $_POST['nome'];
-$sobrenome = $_POST['sobrenome'];
-$crm = $_POST['crm'];
-$endereco = $_POST['endereco'];
-$cidade = $_POST['cidade'];
-$especialidade = $_POST['especialidade'];
+$nomeP = $_POST['nomeP'];
+$sobrenomeP = $_POST['sobrenomeP'];
+$enderecoP = $_POST['enderecoP'];
+$cidadeP = $_POST['cidadeP'];
+$telefoneP = $_POST['telefoneP'];
+$cpfP = $_POST['cpf'];
 //inserir os valores adicionados das variáveis nos campos da tabela cliente do BD
-$inserirSql = "INSERT INTO paciente(crm, nome, sobrenome, endereco, cidade, especialidade) VALUES ('$crm', '$nome', '$sobrenome', '$endereco', '$cidade', '$especialidade')";
+$inserirSql = "INSERT INTO paciente(nome, sobrenome, endereco, cidade, telefone, cpf) VALUES ('$nomeP', '$sobrenomeP', '$enderecoP', '$cidadeP', '$telefoneP', '$cpfP')";
 //sempre que os valores forem do tipo varchar, devem ficar entre 'aspas simples'
 //Verificação
 if (mysqli_query($conexao, $inserirSql)) {
