@@ -4,48 +4,34 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/style.css   ">
-    <title>CADASTRO DE PACIENTE</title>
+    <!-- <link rel="stylesheet" href="../css/style.css"> -->
+    <title>LOGIN DE PACIENTE</title>
     
 </head>
 <body>
     <div class="container">
         <a href="../../index.html">Voltar</a>
-        <h1>Cadastro de Paciente</h1>
+        <h1>Entrar como paciente</h1>
 <!--método GET recebe algum recurso do servidor
 //método POST envia dados para o servidor-->
-        <form id="form" action="../php/cadastro-paciente.php" method="POST">
+        <form id="form" action="../../admin/php/verifica_paciente.php" method="POST">
             <div class="inputBox nome">
-                <label for="nome">Nome: </label>
+                <label for="nomeP">Nome: </label>
                 <input type="text" name="nomeP" id="nome" required >
             </div>    
             <div class="inputBox sobrenome">
-                <label for="sobrenome">Sobrenome: </label>
+                <label for="sobrenomeP">Sobrenome: </label>
                 <input type="text" name="sobrenomeP" id="sobrenome" required >
-            </div>     
-            <div class="inputBox endereco ">
-                <label for="endereco">Endereço: </label>
-                <input type="text" name="enderecoP" id="endereco" required >
             </div>    
-            <div class="inputBox cidade">
-                <label for="cidade">Cidade: </label>
-                <input type="text" name="cidadeP" id="cidade" required >
-            </div>    
-            
-            <div class="inputBox telefone ">
-                <label for="telefone">Telefone: </label>
-                <input type="text" name="telefoneP" id="telefone" required >
-            </div>    
-            <div class="inputBox cpf ">
+            <div class="inputBox crm">
                 <label for="cpf">CPF: </label>
                 <input oninput="mascara(this)" type="text" name="cpf" id="cpf" required>
             </div>    
             <div class="botao">
-                <button>Cadastrar</button>
+                <button type="submit" name="bt-entrar" id="bt-entrar">Entrar</button>
             </div> 
         </form>
     </div>
-    
 </body>
 <script>
     function mascara(i){
