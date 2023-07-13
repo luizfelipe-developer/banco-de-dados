@@ -10,9 +10,9 @@ if(!$conexao){
 die("Conexão não realizada, erro.".mysqli_connect_error());
 //mensagem de erro
 }
- else{
-     echo "Conexão Realizada!";
- }
+//  else{
+//      echo "Conexão Realizada!";
+//  }
 /*MODO DOIS*/
 
 ?>

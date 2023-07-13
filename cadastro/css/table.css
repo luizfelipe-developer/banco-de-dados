@@ -15,6 +15,7 @@ table{
     width: 100%;
     border-collapse: collapse;
     background-color: whitesmoke;
+    margin-bottom: 30px;
 }
 #cabecalho{
     background-color: #b3093f;

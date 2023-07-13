@@ -10,7 +10,7 @@
 </head>
 <body>
     <div class="container">
-        <a href="../../index.html">Voltar</a>
+        <a href="../login-tela.html">Voltar</a>
         <h1>Entrar como paciente</h1>
 <!--método GET recebe algum recurso do servidor
 //método POST envia dados para o servidor-->

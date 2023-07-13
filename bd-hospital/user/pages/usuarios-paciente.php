@@ -1,4 +1,4 @@
-<?php include "../../admin/php/consulta.php"; ?>
+<?php include "../../admin/php/consultaPaciente.php"; ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -12,21 +12,11 @@
 </head>
 <body>
     <div class="container">
-        <a href="login-medico.html">Voltar</a>
+        <a href="login-paciente.php">Voltar</a>
         <div id="msg">
-            <span>Registros encontrados:  <?php echo "$msg"?></span>
+            <span>Registros encontrados:  <?php echo "$msgP"?></span>
         </div>
         <table>
-            <!-- <form action="usuarios.php" method="GET">
-                <div class="input-usuario" >
-                    <label for="usuario">Quantos usuários você quer visualizar ?</label>
-                    <input type="number" name="usuario" id="usuario" min="1    ">
-                </div>
-                <div class="botao" >
-                    <button >pesquisar</button>
-                </div>
-            </form> -->
-            
             <thead>
                 <tr id="cabecalho" >
                     <td class = "celula" >CÓDIGO</td>
@@ -39,7 +29,7 @@
                 </tr>
             </thead>
             <tbody>
-                <?php while ($dados_paciente = $query->fetch_array()) { ?>        
+                <?php while ($dados_paciente = $queryP->fetch_array()) { ?>        
                   
                 <tr>
                     <td> <?php echo $dados_paciente['cod_paciente'];?></td>

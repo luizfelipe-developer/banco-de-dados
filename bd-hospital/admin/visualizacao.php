@@ -1,4 +1,5 @@
-<?php include "../../admin/php/consultaMedico.php"; ?>
+<?php include "php/consultaMedico.php"; ?>
+<?php include "php/consultaPaciente.php"; ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -12,9 +13,9 @@
 </head>
 <body>
     <div class="container">
-        <a href="login-medico.html">Voltar</a>
+        <a href="../index.html">Voltar</a>
         <div id="msg">
-            <span>Registros encontrados:  <?php echo "$msg"?></span>
+            <span>Registros de medicos encontrados:  <?php echo "$msg"?></span>
         </div>
         <table>
             <!-- <form action="usuarios.php" method="GET">
@@ -47,6 +48,36 @@
                     <td> <?php echo $dados_medico['endereco'];?></td>
                     <td> <?php echo $dados_medico['cidade'];?></td>
                     <td> <?php echo $dados_medico['especialidade'];?></td>
+                </tr>
+               <?php } ?>
+            </tbody>
+        </table>
+        <div id="msg">
+            <span>Registros de pacientes encontrados:  <?php echo "$msgP"?></span>
+        </div>
+        <table>
+            <thead>
+                <tr id="cabecalho" >
+                    <td class = "celula" >CÓDIGO</td>
+                    <td class = "celula" >NOME</td>
+                    <td class = "celula" >SOBRENOME</td>
+                    <td class = "celula" >ENDEREÇO</td>
+                    <td class = "celula" >CIDADE</td>
+                    <td class = "celula" >TELEFONE</td>
+                    <td class = "celula" >CPF</td>
+                </tr>
+            </thead>
+            <tbody>
+                <?php while ($dados_paciente = $queryP->fetch_array()) { ?>        
+                  
+                <tr>
+                    <td> <?php echo $dados_paciente['cod_paciente'];?></td>
+                    <td id = "td-nome"> <?php echo $dados_paciente['nome'];?></td>
+                    <td> <?php echo $dados_paciente['sobrenome'];?></td>
+                    <td> <?php echo $dados_paciente['endereco'];?></td>
+                    <td> <?php echo $dados_paciente['cidade'];?></td>
+                    <td> <?php echo $dados_paciente['telefone'];?></td>
+                    <td> <?php echo $dados_paciente['cpf'];?></td>
                 </tr>
                <?php } ?>
             </tbody>
