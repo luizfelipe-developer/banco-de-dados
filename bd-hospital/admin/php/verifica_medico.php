@@ -19,6 +19,7 @@
                 $dados = mysqli_fetch_array($resultado);
                 $_SESSION['online'] = true;
                 $_SESSION['nomeUsu'] = $dados['nome'];
+                $_SESSION['idUsu'] = $dados['crm'];
 
                 header('Location:../../user/pages/usuarios-medico.php');
             } else {

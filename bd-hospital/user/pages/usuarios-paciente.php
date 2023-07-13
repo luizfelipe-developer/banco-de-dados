@@ -13,10 +13,14 @@
 <body>
     <div class="container">
         <a href="login-paciente.php">Voltar</a>
+        <div>
+            <button type="button" id= "ver-tabela" onclick="exibir()"> Visualizar cadastro</button>
+            <button type="button" id= "marcar-consulta" > Marcar consulta</button>
+        </div>
         <div id="msg">
             <span>Registros encontrados:  <?php echo "$msgP"?></span>
         </div>
-        <table>
+        <table style="display:none;" >
             <thead>
                 <tr id="cabecalho" >
                     <td class = "celula" >CÓDIGO</td>
@@ -43,7 +47,8 @@
                <?php } ?>
             </tbody>
         </table>
-    </div>    
+    </div>
+    <script src="../js/tabela.js"></script>
 </body>
 </html>
 

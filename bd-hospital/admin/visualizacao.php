@@ -1,4 +1,4 @@
-<?php include "php/consultaMedico.php"; ?>
+<?php include "php/consultaMedicoGeral.php"; ?>
 <?php include "php/consultaPaciente.php"; ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
