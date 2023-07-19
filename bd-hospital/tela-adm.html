@@ -66,30 +66,36 @@
       img {
         margin-right: 15px;
       }
-      a {
+      a{
         color: #1976ce;
       }
+
     </style>
     <title>CADASTRO DO HOSPITAL</title>
   </head>
   <body>
     <div class="container">
-      <h1>ESCOLHA COMO ENTRAR</h1>
+      <h1>  QUEM VOCÊ QUER CADASTRAR?</h1>
       <div class="box">
         <div class="medico escolha">
-          <a href="admin_login.php" class="link-form"
-            ><img src="img/medico-img.png" alt="cadastrar-medico" />ADMIN</a
+          <a href="admin/pages/medico.html" class="link-form"
+            ><img
+              src="admin/img/medico-img.png"
+              alt="cadastrar-medico"
+            />MÉDICO</a
           >
         </div>
         <div class="paciente escolha">
-          <a href="indexx.html" class="link-form">
+          <a href="admin/pages/paciente.html" class="link-form">
             <img
-              src="img/paciente-img.png"
+              src="admin/img/paciente-img.png"
               alt="cadastrar-paciente"
-            />USUARIO</a
+            />PACIENTE</a
           >
         </div>
       </div>
+      <a href="admin/visualizacao.php" class="h3"> <h3>Visualizar cadastros</h3></a> 
+      <p> <br> Já possui conta ? <a href="user/login-tela.html">Fazer Login</a></p>
     </div>
   </body>
 </html>
