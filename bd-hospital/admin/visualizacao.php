@@ -1,5 +1,5 @@
 <?php include "php/consultaMedicoGeral.php"; ?>
-<?php include "php/consultaPaciente.php"; ?>
+<?php include "php/consultaPacienteGeral.php"; ?>
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>

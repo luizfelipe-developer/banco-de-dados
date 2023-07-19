@@ -1,5 +1,5 @@
 <?php 
-    require_once 'conexao.php';
+    require_once 'admin/php/conexao.php';
     session_start(); //inicializa a sessao
     if (isset($_POST['bt-entrar'])) {
 
@@ -25,11 +25,11 @@
 
         }
         else{
-            header('Location: tela-adm.html');
+            header('Location: index.html');
         }
     }
     else{
-        header('Location: tela-adm.html');
+        header('Location: index.html');
     }
 }
 
