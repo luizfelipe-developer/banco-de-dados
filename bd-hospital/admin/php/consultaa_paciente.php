@@ -14,8 +14,4 @@
 
    
         $msgg = $queryp->num_rows;
-        
-
-    
-
 ?>
