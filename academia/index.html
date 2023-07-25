@@ -3,38 +3,47 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="assets/Js/index.js" defer ></script>
     <title>SISTEMA ACADEMIA</title>
 </head>
 <body>
     <div class="container">
         <h1>PORTAL DE ACESSO ACADEMIA FITNESS</h1>
-        <button id="secretaria" >SECRETARIA</button>
-        <button id="aluno">ALUNO</button>
-        <button id="personal" >PERSONAL</button>
-        <form id="adm" action="">
-            <label for="usuario">Usuário: </label>
-            <input type="text" name="usuario" id="usuario" >
-            <br><br>
-            <label for="senha">Senha:</label>
-            <input type="password" name="senha" id="senha"><br><br>
-            <button type="submit">Entrar</button>
-        </form>
-        <form id="aluno" action="">
-            <label for="cpf">CPF: </label>
-            <input type="text" name="cpf" id="usuario" >
-            <br>
-            <!-- <label for="senha">Senha:</label>
-            <input type="password" name="senha" id="senha"><br><br> -->
-            <button type="submit">Entrar</button>
-        </form>
-        <form id="personal" action="">
-            <label for="usuario">CREF: </label>
-            <input type="text" name="usuario" id="usuario" >
-            <br><br>
-            <label for="senha">Senha:</label>
-            <input type="password" name="senha" id="senha"><br><br>
-            <button type="submit">Entrar</button>
-        </form>
+        <button id="bt-secretaria" >SECRETARIA</button>
+        <button id="bt-aluno">ALUNO</button>
+        <button id="bt-personal" >PERSONAL</button>
+        <div class="box-adm">
+            <h4>Secretaria</h4>
+            <form id="adm" action="">
+                <label for="usuario">Usuário: </label>
+                <input type="text" name="usuario" id="usuario" >
+                <label for="senha">Senha:</label>
+                <input type="password" name="senha" id="senha">
+                <button type="submit" class="bt-adm" >Entrar</button>
+            </form>
+        </div>
+        <div class="box-aluno">
+            <h4>Aluno</h4>
+            <form id="aluno" action="">
+                <label for="cpf">CPF: </label>
+                <input type="text" name="cpf" id="usuario" >
+                
+                <label for="">Nome:</label>
+                <input type="text" name="aluno-nome" id="aluno-nome">
+                <button type="submit" class="bt-aluno" >Entrar</button>
+            </form>
+        </div>
+        <div class="box-personal">
+            <h4>Personal</h4>
+            <form id="personal" action="">
+                <label for="usuario">CREF: </label>
+                <input type="text" name="usuario" id="usuario" >
+                <label for="pers-nome">Nome:</label>
+                <input type="text" name="pers-nome" id="pers-nome">
+                <button type="submit" class="bt-personal" >Entrar</button>
+            </form>
+        </div>
     </div>
 </body>
 </html>

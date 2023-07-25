@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 100px auto;
+    max-width: 720px;
+}
+.box-personal,
+.box-aluno,
+.box-adm{
+    display: none;
+}
+form{
+    display: block;
+    margin-top: 15px;
+}
+input{
+    display: block;
+    padding: 12px;
+    font-size: 1.2rem;
+}
+button{
+    padding: 12px;
+}
