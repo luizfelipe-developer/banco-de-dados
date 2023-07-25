@@ -8,8 +8,27 @@
 <body>
     <div class="container">
         <h1>PORTAL DE ACESSO ACADEMIA FITNESS</h1>
-        <form action="">
+        <button id="secretaria" >SECRETARIA</button>
+        <button id="aluno">ALUNO</button>
+        <button id="personal" >PERSONAL</button>
+        <form id="adm" action="">
             <label for="usuario">Usuário: </label>
+            <input type="text" name="usuario" id="usuario" >
+            <br><br>
+            <label for="senha">Senha:</label>
+            <input type="password" name="senha" id="senha"><br><br>
+            <button type="submit">Entrar</button>
+        </form>
+        <form id="aluno" action="">
+            <label for="cpf">CPF: </label>
+            <input type="text" name="cpf" id="usuario" >
+            <br>
+            <!-- <label for="senha">Senha:</label>
+            <input type="password" name="senha" id="senha"><br><br> -->
+            <button type="submit">Entrar</button>
+        </form>
+        <form id="personal" action="">
+            <label for="usuario">CREF: </label>
             <input type="text" name="usuario" id="usuario" >
             <br><br>
             <label for="senha">Senha:</label>
