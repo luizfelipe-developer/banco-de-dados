@@ -8,10 +8,8 @@ $dbname = "academiafit"; //Nome BD
 $conexao = mysqli_connect($servidor, $usuario, $senha, $dbname); //tenta estabelecer a conexão
 if(!$conexao){
 die("Conexão não realizada, erro.".mysqli_connect_error());
-//mensagem de erro
-}else{
-    echo "Conexão Realizada!";
-}
-/*MODO DOIS*/
 
+}/*else{
+    echo "Conexão Realizada!";
+}*/
 ?>
