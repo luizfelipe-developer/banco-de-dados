@@ -11,10 +11,10 @@ $inserirSql = "INSERT INTO alunos(nome, cpf, telefone, endereco) VALUES ('$nomeA
 //Verificação
 if (mysqli_query($conexao, $inserirSql)) {
     echo "Usuário cadastrado!";
+    header('Location: ../pages/adm-tela.html');
 } else {
     echo "Usuário não cadastrado. Erro: ".mysqli_connect_error($conexao);
 }
 //encerrar a conexão, para evitar travamentos no BD
 mysqli_close($conexao);
-
 ?>
