@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../css/style.css" />
+    <title>CADASTRAR ALUNO</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Cadastro de Aluno</h1>
+      <form action="../php/cadastro-aluno.php" method="post">
+        <div class="input-box">
+          <label for="nome-aluno">Nome: </label>
+          <input type="text" id="nome-aluno" name="nome-aluno" />
+        </div>
+        <div class="input-box">
+          <label for="cpf-aluno">CPF: </label>
+          <input oninput="mascara(this)" type="text" id="cpf-aluno" name="cpf-aluno" placeholder="Apenas números" />
+        </div>
+        <div class="input-box">
+          <label for="telefone-aluno">Telefone: </label>
+          <input type="tel" id="telefone-aluno" name="telefone-aluno"
+          maxlength="14 required="" data-js="phone" placeholder="Apenas números" >
+        </div>
+        <div class="input-box">
+          <label for="endereco-aluno">Endereço: </label>
+          <input type="text" id="endereco-aluno" name="endereco-aluno" />
+        </div>
+        <button type="submit" id="cad-aluno" name="cad-aluno">Entrar</button>
+      </form>
+    </div>
+  </body>
+  <script>
+    // MÁSCARA DO TELEFONE
+    const formato = {
+      phone(value) {
+        return value
+
+          .replace(/\D/g, "")
+
+          .replace(/(\d{2})(\d)/, "($1)$2")
+
+          .replace(/(\d{4})(\d)/, "$1-$2")
+
+          .replace(/(\d{4})-(\d)(\d{4})/, "$1$2-$3")
+
+          .replace(/(-\d{4})\d+?$/, "$1");
+      },
+    };
+
+    document.querySelectorAll("input").forEach(($input) => {
+      const field = $input.dataset.js;
+
+      $input.addEventListener(
+        "input",
+        (e) => {
+          e.target.value = formato[field](e.target.value);
+        },
+        false
+      );
+    });
+    // MÁSCARA DO CPF
+    function mascara(i){
+   
+   var v = i.value;
+   
+   if(isNaN(v[v.length-1])){ // impede entrar outro caractere que não seja número
+      i.value = v.substring(0, v.length-1);
+      return;
+   }
+   
+   i.setAttribute("maxlength", "14");
+   if (v.length == 3 || v.length == 7) i.value += ".";
+   if (v.length == 11) i.value += "-";
+
+}
+  </script>
+</html>
