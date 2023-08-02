@@ -4,30 +4,35 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="../../css/style.css" />
+    <style>
+      #cref-personal{
+        text-transform:uppercase;
+      }
+    </style>
     <title>CADASTRAR ALUNO</title>
   </head>
   <body>
     <div class="container">
       <h1>Cadastro de Aluno</h1>
-      <form action="../../php/cadastro-aluno.php" method="post">
+      <form action="../../php/cadastro-personal.php" method="post">
         <div class="input-box">
-          <label for="nome-aluno">Nome: </label>
-          <input type="text" id="nome-aluno" name="nome-aluno" />
+          <label for="nome-personal">Nome: </label>
+          <input type="text" id="nome-personal" name="nome-personal" />
         </div>
         <div class="input-box">
-          <label for="cpf-aluno">CPF: </label>
-          <input oninput="mascara(this)" type="text" id="cpf-aluno" name="cpf-aluno" placeholder="Apenas números" />
+          <label for="cref-personal">CREF: </label>
+          <input type="text" name="cref-personal" id="cref-personal" >
         </div>
         <div class="input-box">
-          <label for="telefone-aluno">Telefone: </label>
-          <input type="tel" id="telefone-aluno" name="telefone-aluno"
+          <label for="telefone-personal">Telefone: </label>
+          <input type="tel" id="telefone-personal" name="telefone-personal"
           maxlength="14 required="" data-js="phone" placeholder="Apenas números" >
         </div>
         <div class="input-box">
-          <label for="endereco-aluno">Endereço: </label>
-          <input type="text" id="endereco-aluno" name="endereco-aluno" />
+          <label for="endereco-personal">Endereço: </label>
+          <input type="text" id="endereco-personal" name="endereco-personal" />
         </div>
-        <button type="submit" id="cad-aluno" name="cad-aluno">Cadastrar</button>
+        <button type="submit" id="cad-personal" name="cad-personal">Cadastrar</button>
       </form>
     </div>
   </body>
