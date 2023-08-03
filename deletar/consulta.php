@@ -6,7 +6,7 @@
 
 
         
-        $sql = "SELECT * FROM `clientes` ";
+        $sql = "SELECT * FROM `alunos` ";
         $query = $conexao->query($sql);
 
         /*
