@@ -20,12 +20,13 @@
                 <label for="nome-aluno">Nome: </label>
             </div>    
             <div class="inputBox">
-                <input type="text" name="cidade" id="cidade" required value="<?php echo $cidade; ?>" >
-                <label for="cidade">Cidade: </label>
+            <input oninput="mascara(this)" type="text" id="cpf-aluno" name="cpf-aluno" placeholder="Apenas números" value="<?php echo $cpfAluno; ?>" />
+                <label for="cpf-aluno">CPF: </label>
             </div>    
             <div class="inputBox">
-                <input type="text" name="uf" id="uf" required value="<?php echo $uf; ?>" >
-                <label for="uf">UF: </label>
+            <label for="telefone-aluno">Telefone: </label>
+          <input type="tel" id="telefone-aluno" name="telefone-aluno"
+          maxlength="14 required="" data-js="phone" placeholder="Apenas números" value="<?php echo $telefoneAluno; ?>"  >
             </div>
             <div class="inputBox">
                 <input type="text" name="regiao" id="regiao" required value="<?php echo $regiao; ?>" >
@@ -42,4 +43,49 @@
         </form>
     </div>
 </body>
+<script>
+    // MÁSCARA DO TELEFONE
+    const formato = {
+      phone(value) {
+        return value
+
+          .replace(/\D/g, "")
+
+          .replace(/(\d{2})(\d)/, "($1)$2")
+
+          .replace(/(\d{4})(\d)/, "$1-$2")
+
+          .replace(/(\d{4})-(\d)(\d{4})/, "$1$2-$3")
+
+          .replace(/(-\d{4})\d+?$/, "$1");
+      },
+    };
+
+    document.querySelectorAll("input").forEach(($input) => {
+      const field = $input.dataset.js;
+
+      $input.addEventListener(
+        "input",
+        (e) => {
+          e.target.value = formato[field](e.target.value);
+        },
+        false
+      );
+    });
+    // MÁSCARA DO CPF
+    function mascara(i){
+   
+   var v = i.value;
+   
+   if(isNaN(v[v.length-1])){ // impede entrar outro caractere que não seja número
+      i.value = v.substring(0, v.length-1);
+      return;
+   }
+   
+   i.setAttribute("maxlength", "14");
+   if (v.length == 3 || v.length == 7) i.value += ".";
+   if (v.length == 11) i.value += "-";
+
+}
+  </script>
 </html>

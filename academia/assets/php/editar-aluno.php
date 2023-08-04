@@ -14,7 +14,6 @@
                 $cpfAluno = $dados_aluno['cpf'];
                 $telefoneAluno = $dados_aluno['telefone'];
                 $enderecoAluno = $dados_aluno['endereco'];
-
             }
             print_r($nomeAluno);
         }
