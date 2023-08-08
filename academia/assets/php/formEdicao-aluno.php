@@ -14,7 +14,7 @@
         <h1>Alterar Cadastro</h1>
 <!--método GET recebe algum recurso do servidor
 //método POST envia dados para o servidor-->
-        <form id="form" action="alEditado.php" method="POST">
+        <form id="form" action="alunoEditado.php" method="POST">
             <div class="inputBox">
                 <input type="text" name="nome-aluno" id="nome-aluno" required value="<?php echo $nomeAluno; ?>" >
                 <label for="nome-aluno">Nome: </label>
