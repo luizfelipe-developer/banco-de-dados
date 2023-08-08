@@ -1,7 +1,6 @@
 <?php include "conexao.php"; 
-
-    $teste = $_GET['cod_aluno'];
-    echo 'O código do aluno é '.$teste;
+    $cod_aluno = $_GET['cod_aluno'];
+    echo 'O código do aluno é '.$cod_aluno;
 
     if (!empty($_GET['cod_aluno'])) {
         $cod_aluno = $_GET['cod_aluno'];

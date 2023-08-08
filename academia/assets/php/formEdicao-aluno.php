@@ -14,7 +14,7 @@
         <h1>Alterar Cadastro</h1>
 <!--método GET recebe algum recurso do servidor
 //método POST envia dados para o servidor-->
-        <form id="form" action="cadastro-aluno.php" method="POST">
+        <form id="form" action="alEditado.php" method="POST">
             <div class="inputBox">
                 <input type="text" name="nome-aluno" id="nome-aluno" required value="<?php echo $nomeAluno; ?>" >
                 <label for="nome-aluno">Nome: </label>
@@ -29,8 +29,8 @@
           maxlength="14 required="" data-js="phone" placeholder="Apenas números" value="<?php echo $telefoneAluno; ?>"  >
             </div>
             <div class="inputBox">
-                <input type="text" name="regiao" id="regiao" required value="<?php echo $regiao; ?>" >
-                <label for="regiao">Região: </label>
+                <input type="text" name="endereco-aluno" id="endereco-aluno" required value="<?php echo $enderecoAluno; ?>" >
+                <label for="endereco-aluno">Endereço: </label>
             </div>
             <div class="botao">
                 <input type="submit" id="submit" name="update" value="Alterar">
