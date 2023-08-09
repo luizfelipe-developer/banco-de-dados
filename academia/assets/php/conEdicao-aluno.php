@@ -31,7 +31,7 @@
                         echo "<td>" .$dados_aluno["cpf"]."</td>"; 
                         echo "<td>" .$dados_aluno["telefone"]."</td>"; 
                         echo "<td>" .$dados_aluno["endereco"]."</td>"; 
-                        echo "<td><a href='formEdicao-aluno.php?cod_aluno=$dados_aluno[cod_aluno]' class='td-editar' id='td-edit' >Editar</a></td>"; 
+                        echo "<td><a href='cadastro-aluno-editar.php?cod_aluno=$dados_aluno[cod_aluno]'>Editar</a></td>";
                         echo "<td><a href='delete-aluno.php?cod_aluno=$dados_aluno[cod_aluno]' class='td-editar' id='td-delete' >Deletar</a></td>"; 
                         
                     echo "</tr>";

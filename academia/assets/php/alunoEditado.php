@@ -1,6 +1,6 @@
 <?php 
 include "conexao.php";
-include "formEdicao-aluno.php";
+include "formEdicao-aluno.php";    
 $nome_aluno = $_POST['nome-aluno'];
 $cpf_aluno = $_POST['cpf-aluno'];
 $telefone_aluno = $_POST['telefone-aluno'];
