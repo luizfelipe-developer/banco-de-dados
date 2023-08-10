@@ -1,39 +1,35 @@
 <?php
+    include_once('config.php');
 
-    if(isset($_POST['submit']))
+    if(!empty($_GET['cod_aluno']))
     {
-        // print_r('Nome: ' . $_POST['nome']);
-        // print_r('<br>');
-        // print_r('Email: ' . $_POST['email']);
-        // print_r('<br>');
-        // print_r('Telefone: ' . $_POST['telefone']);
-        // print_r('<br>');
-        // print_r('Sexo: ' . $_POST['genero']);
-        // print_r('<br>');
-        // print_r('Data de nascimento: ' . $_POST['data_nascimento']);
-        // print_r('<br>');
-        // print_r('Cidade: ' . $_POST['cidade']);
-        // print_r('<br>');
-        // print_r('Estado: ' . $_POST['estado']);
-        // print_r('<br>');
-        // print_r('Endereço: ' . $_POST['endereco']);
+        $cod_aluno = $_GET['cod_aluno'];
+        $sqlSelect = "SELECT * FROM alunos WHERE cod_aluno=$cod_aluno";
+        $result = $conexao->query($sqlSelect);
+        if($result->num_rows > 0)
+        {
+            while($user_data = mysqli_fetch_assoc($result))
+            {   
+                $nome = $_POST['nome'];
+                $endereco = $_POST['endereco'];
+                $CPF = $_POST['CPF'];
+                $telefone = $_POST['telefone'];
+                $genero = $_POST['genero'];
 
-        include_once('../../php/config.php');
-        $nomeAluno = $_POST['nome-aluno'];
-        $enderecoAluno = $_POST['endereco-aluno'];
-        $CPFAluno = $_POST['CPF'];
-        $telefoneAluno = $_POST['telefone-aluno'];
-        $generoAluno = $_POST['genero'];
-
-        $result = mysqli_query($conexao, "INSERT INTO alunos(nome, endereco, cpf, telefone, genero)
-        VALUES ('$nomeAluno', '$enderecoAluno', '$CPFAluno', '$telefoneAluno', '$generoAluno')");
-
-        header('Location: ../adm-tela.html');
+            }
+        }
+        else
+        {
+            header('Location: sistema.php');
+        }
     }
-
+    else
+    {
+        header('Location: sistema.php');
+    }
 ?>
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -114,41 +110,54 @@
     </style>
 </head>
 <body>
-    <a href="home.php">Voltar</a>
+    <a href="sistema.php">Voltar</a>
     <div class="box">
-        <form action="formulario-aluno.php" method="POST">
+        <form action="saveEdit.php" method="POST">
             <fieldset>
-                <legend><b>Cadastro de Aluno</b></legend>
+                <legend><b>Editar Cliente</b></legend>
                 <br>
+
+               
+                <br><br>
+
                 <div class="inputBox">
-                    <input type="text" name="nome-aluno" id="nome-aluno" class="inputUser" required>
-                    <label for="nome-aluno" class="labelInput">Nome completo</label>
+                    <input type="text" name="nome" id="nome" class="inputUser" value=<?php echo $nome;?> >
+                    <label for="nome" class="labelInput">Nome </label>
                 </div>
                 <br><br>
                 <div class="inputBox">
-                    <input type="tel" name="telefone-aluno" id="telefone-aluno" class="inputUser" required>
-                    <label for="telefone-aluno" class="labelInput">Telefone</label>
+                    <input type="text" name="endereco" id="endereco" class="inputUser" value=<?php echo $endereco;?> >
+                    <label for="endereco" class="labelInput">endereco</label>
                 </div>
+                
+                <br><br>
                 <div class="inputBox">
-                    <input type="text" name="CPF" id="CPF" class="inputUser" required>
+                    <input type="text" name="CPF" id="CPF" class="inputUser" value=<?php echo $CPF;?> >
                     <label for="CPF" class="labelInput">CPF</label>
                 </div>
-                <p>Sexo:</p>
-                <input type="radio" id="feminino" name="genero" value="feminino" required>
-                <label for="feminino">Feminino</label>
-                <br>
-                <input type="radio" id="masculino" name="genero" value="masculino" required>
-                <label for="masculino">Masculino</label>
-                <br>
-                <input type="radio" id="outro" name="genero" value="outro" required>
-                <label for="outro">Outro</label>
+                
                 <br><br>
                 <div class="inputBox">
-                    <input type="text" name="endereco-aluno" id="endereco-aluno" class="inputUser" required>
-                    <label for="endereco-aluno" class="labelInput">Endereço</label>
+                    <input type="text" name="telefone" id="telefone" class="inputUser" value=<?php echo $telefone;?> >
+                    <label for="telefone" class="labelInput">telefone</label>
                 </div>
+
+                <p>Genero:</p>
+                <input type="radio" id="feminino" name="genero" value="feminino" <?php echo ($genero == 'feminino') ? 'checked' : '';?>>
+                <label for="feminino">Feminino</label>
+                <br>
+                <input type="radio" id="masculino" name="genero" value="masculino" <?php echo ($genero == 'masculino') ? 'checked' : '';?>>
+                <label for="masculino">Masculino</label>
+                <br>
+                <input type="radio" id="outro" name="genero" value="outro" <?php echo ($genero == 'outro') ? 'checked' : '';?> >
+                <label for="outro">Outro</label>
                 <br><br>
-                <input type="submit" name="submit" id="submit">
+               
+                
+               
+               
+				<input type="hidden" name="cod_aluno" value=<?php echo $cod_aluno;?>>
+                <input type="submit" name="update" id="submit">
             </fieldset>
         </form>
     </div>
