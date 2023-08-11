@@ -42,7 +42,7 @@
 <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
         <div class="container-fluid">
-            <a class="navbar-brand" href="#">SISTEMA DO GN</a>
+            <a class="navbar-brand" href="#">SISTEMA ACADEMIA FIT</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
@@ -71,9 +71,9 @@
                     <th scope="col">cod_aluno</th>
                     <th scope="col">Nome</th>
                     <th scope="col">endereco</th>
-                    <th scope="col">cpf</th>
+                    <th scope="col">CPF</th>
                     <th scope="col">Telefone</th>
-                    <th scope="col">genero</th>
+                    <th scope="col">Gênero</th>
                     <th scope="col">...</th>
                 </tr>
             </thead>

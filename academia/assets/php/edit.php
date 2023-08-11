@@ -132,14 +132,15 @@
                 
                 <br><br>
                 <div class="inputBox">
-                    <input type="text" name="CPF" id="CPF" class="inputUser" value=<?php echo $CPF;?> >
+                    <input oninput="mascara(this)" type="text" id="CPF" class="inputUser" name="CPF" requided />
                     <label for="CPF" class="labelInput">CPF</label>
                 </div>
                 
                 <br><br>
                 <div class="inputBox">
-                    <input type="text" name="telefone" id="telefone" class="inputUser" value=<?php echo $telefone;?> >
-                    <label for="telefone" class="labelInput">telefone</label>
+                <input type="tel" id="telefone-aluno" class="inputUser" name="telefone"
+                    maxlength="14" required  data-js="phone" >
+                    <label for="telefone-aluno" class="labelInput" >Telefone: </label>
                 </div>
 
                 <p>Genero:</p>
@@ -162,4 +163,49 @@
         </form>
     </div>
 </body>
+<script>
+        // MÁSCARA DO TELEFONE
+        const formato = {
+      phone(value) {
+        return value
+
+          .replace(/\D/g, "")
+
+          .replace(/(\d{2})(\d)/, "($1)$2")
+
+          .replace(/(\d{4})(\d)/, "$1-$2")
+
+          .replace(/(\d{4})-(\d)(\d{4})/, "$1$2-$3")
+
+          .replace(/(-\d{4})\d+?$/, "$1");
+      },
+    };
+
+    document.querySelectorAll("input").forEach(($input) => {
+      const field = $input.dataset.js;
+
+      $input.addEventListener(
+        "input",
+        (e) => {
+          e.target.value = formato[field](e.target.value);
+        },
+        false
+      );
+    });
+    // MÁSCARA DO CPF
+    function mascara(i){
+   
+   var v = i.value;
+   
+   if(isNaN(v[v.length-1])){ // impede entrar outro caractere que não seja número
+      i.value = v.substring(0, v.length-1);
+      return;
+   }
+   
+   i.setAttribute("maxlength", "14");
+   if (v.length == 3 || v.length == 7) i.value += ".";
+   if (v.length == 11) i.value += "-";
+
+}
+</script>
 </html>

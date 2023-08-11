@@ -38,7 +38,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Formulário | GN</title>
+    <title>ALTERAR DADOS ALUNO</title>
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
@@ -83,8 +83,9 @@
             top: 0px;
             left: 0px;
             pointer-events: none;
-            transition: .5s;
+            transition: .2s;
         }
+
         .inputUser:focus ~ .labelInput,
         .inputUser:valid ~ .labelInput{
             top: -20px;
@@ -126,13 +127,16 @@
                 </div>
                 <br><br>
                 <div class="inputBox">
-                    <input type="tel" name="telefone-aluno" id="telefone-aluno" class="inputUser" required>
-                    <label for="telefone-aluno" class="labelInput">Telefone</label>
+                    <input type="tel" id="telefone-aluno" class="inputUser" name="telefone-aluno"
+                    maxlength="14" required  data-js="phone" >
+                    <label for="telefone-aluno" class="labelInput" >Telefone: </label>
                 </div>
+                <br><br>
                 <div class="inputBox">
-                    <input type="text" name="CPF" id="CPF" class="inputUser" required>
+                    <input oninput="mascara(this)" type="text" id="CPF" class="inputUser" name="CPF" requided />
                     <label for="CPF" class="labelInput">CPF</label>
                 </div>
+                <br><br>
                 <p>Sexo:</p>
                 <input type="radio" id="feminino" name="genero" value="feminino" required>
                 <label for="feminino">Feminino</label>
@@ -153,4 +157,49 @@
         </form>
     </div>
 </body>
+<script>
+        // MÁSCARA DO TELEFONE
+        const formato = {
+      phone(value) {
+        return value
+
+          .replace(/\D/g, "")
+
+          .replace(/(\d{2})(\d)/, "($1)$2")
+
+          .replace(/(\d{4})(\d)/, "$1-$2")
+
+          .replace(/(\d{4})-(\d)(\d{4})/, "$1$2-$3")
+
+          .replace(/(-\d{4})\d+?$/, "$1");
+      },
+    };
+
+    document.querySelectorAll("input").forEach(($input) => {
+      const field = $input.dataset.js;
+
+      $input.addEventListener(
+        "input",
+        (e) => {
+          e.target.value = formato[field](e.target.value);
+        },
+        false
+      );
+    });
+    // MÁSCARA DO CPF
+    function mascara(i){
+   
+   var v = i.value;
+   
+   if(isNaN(v[v.length-1])){ // impede entrar outro caractere que não seja número
+      i.value = v.substring(0, v.length-1);
+      return;
+   }
+   
+   i.setAttribute("maxlength", "14");
+   if (v.length == 3 || v.length == 7) i.value += ".";
+   if (v.length == 11) i.value += "-";
+
+}
+</script>
 </html>
