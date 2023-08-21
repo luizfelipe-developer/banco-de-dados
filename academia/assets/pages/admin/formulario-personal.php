@@ -2,31 +2,13 @@
 
     if(isset($_POST['submit']))
     {
-        // print_r('Nome: ' . $_POST['nome']);
-        // print_r('<br>');
-        // print_r('Email: ' . $_POST['email']);
-        // print_r('<br>');
-        // print_r('Telefone: ' . $_POST['telefone']);
-        // print_r('<br>');
-        // print_r('Sexo: ' . $_POST['genero']);
-        // print_r('<br>');
-        // print_r('Data de nascimento: ' . $_POST['data_nascimento']);
-        // print_r('<br>');
-        // print_r('Cidade: ' . $_POST['cidade']);
-        // print_r('<br>');
-        // print_r('Estado: ' . $_POST['estado']);
-        // print_r('<br>');
-        // print_r('Endereço: ' . $_POST['endereco']);
-
         include_once('../../php/config.php');
-        $nomeAluno = $_POST['nome-aluno'];
-        $enderecoAluno = $_POST['endereco-aluno'];
-        $CPFAluno = $_POST['CPF'];
-        $telefoneAluno = $_POST['telefone-aluno'];
-        $generoAluno = $_POST['genero'];
+        $nomePersonal = $_POST['nome-personal'];
+        $enderecoPersonal = $_POST['endereco-personal'];
+        $telefonePersonal = $_POST['telefone-personal'];
+        $cref = $_POST['cref'];
 
-        $result = mysqli_query($conexao, "INSERT INTO alunos(nome, endereco, cpf, telefone, genero)
-        VALUES ('$nomeAluno', '$enderecoAluno', '$CPFAluno', '$telefoneAluno', '$generoAluno')");
+        $result = mysqli_query($conexao, "INSERT INTO personal(cref, nome, telefone, endereco) VALUES ('$cref', '$nomePersonal', '$telefonePersonal', '$enderecoPersonal')");
 
         header('Location: ../adm-tela.html');
     }
@@ -38,7 +20,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>CADASTRAR ALUNO</title>
+    <title>CADASTRAR PERSONAL</title>
     <style>
         body{
             font-family: Arial, Helvetica, sans-serif;
@@ -117,39 +99,29 @@
 <body>
     <a href="home.php">Voltar</a>
     <div class="box">
-        <form action="formulario-aluno.php" method="POST">
+        <form action="formulario-personal.php" method="POST">
             <fieldset>
-                <legend><b>Cadastro de Aluno</b></legend>
+                <legend><b>Cadastro de Personal</b></legend>
                 <br>
                 <div class="inputBox">
-                    <input type="text" name="nome-aluno" id="nome-aluno" class="inputUser" required>
-                    <label for="nome-aluno" class="labelInput">Nome completo</label>
+                    <input type="text" name="nome-personal" id="nome-personal" class="inputUser" required>
+                    <label for="nome-personal" class="labelInput">Nome completo</label>
                 </div>
                 <br><br>
                 <div class="inputBox">
-                    <input type="tel" id="telefone-aluno" class="inputUser" name="telefone-aluno"
+                    <input type="tel" id="telefone-personal" class="inputUser" name="telefone-personal"
                     maxlength="14" required  data-js="phone" >
-                    <label for="telefone-aluno" class="labelInput" >Telefone: </label>
+                    <label for="telefone-personal" class="labelInput" >Telefone: </label>
                 </div>
                 <br><br>
                 <div class="inputBox">
-                    <input oninput="mascara(this)" type="text" id="CPF" class="inputUser" name="CPF" requided />
-                    <label for="CPF" class="labelInput">CPF</label>
+                    <input type="text" id="cref" class="inputUser" name="cref" >
+                    <label for="cref" class="labelInput">Cref</label>
                 </div>
                 <br><br>
-                <p>Sexo:</p>
-                <input type="radio" id="feminino" name="genero" value="feminino" required>
-                <label for="feminino">Feminino</label>
-                <br>
-                <input type="radio" id="masculino" name="genero" value="masculino" required>
-                <label for="masculino">Masculino</label>
-                <br>
-                <input type="radio" id="outro" name="genero" value="outro" required>
-                <label for="outro">Outro</label>
-                <br><br>
                 <div class="inputBox">
-                    <input type="text" name="endereco-aluno" id="endereco-aluno" class="inputUser" required>
-                    <label for="endereco-aluno" class="labelInput">Endereço</label>
+                    <input type="text" name="endereco-personal" id="endereco-personal" class="inputUser" required>
+                    <label for="endereco-personal" class="labelInput">Endereço</label>
                 </div>
                 <br><br>
                 <input type="submit" name="submit" id="submit">
