@@ -1,13 +1,21 @@
-<?php 
-include "conexao.php";
+<?php
 
-if (!empty($_GET['cod_aluno'])) {
-    $cod_aluno = $_GET['cod_aluno'];
+    if(!empty($_GET['cod_aluno']))
+    {
+        include_once('config.php');
 
-    $sqlDelete = "DELETE FROM alunos WHERE cod_aluno = $cod_aluno";
-    $resultDelete = $conexao->query($sqlDelete);
-}
+        $cod_aluno = $_GET['cod_aluno'];
 
-header('Location: conEdicao-aluno.php');
+        $sqlSelect = "SELECT *  FROM alunos WHERE cod_aluno=$cod_aluno";
 
+        $result = $conexao->query($sqlSelect);
+
+        if($result->num_rows > 0)
+        {
+            $sqlDelete = "DELETE FROM alunos WHERE cod_aluno=$cod_aluno";
+            $resultDelete = $conexao->query($sqlDelete);
+        }
+    }
+    header('Location: sistema-aluno.php');
+   
 ?>

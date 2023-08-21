@@ -20,12 +20,12 @@
         }
         else
         {
-            header('Location: sistema.php');
+            header('Location: sistema-aluno.php');
         }
     }
     else
     {
-        header('Location: sistema.php');
+        header('Location: sistema-aluno.php');
     }
 ?>
 <!DOCTYPE html>
@@ -110,7 +110,7 @@
     </style>
 </head>
 <body>
-    <a href="sistema.php">Voltar</a>
+    <a href="sistema-aluno.php">Voltar</a>
     <div class="box">
         <form action="saveEdit.php" method="POST">
             <fieldset>
@@ -121,18 +121,18 @@
                 <br><br>
 
                 <div class="inputBox">
-                    <input type="text" name="nome" id="nome" class="inputUser" value=<?php echo $nome;?> >
+                    <input type="text" name="nome" id="nome" class="inputUser" required >
                     <label for="nome" class="labelInput">Nome </label>
                 </div>
                 <br><br>
                 <div class="inputBox">
-                    <input type="text" name="endereco" id="endereco" class="inputUser" value=<?php echo $endereco;?> >
-                    <label for="endereco" class="labelInput">endereco</label>
+                    <input type="text" name="endereco" id="endereco" class="inputUser" required >
+                    <label for="endereco" class="labelInput">Endereco</label>
                 </div>
                 
                 <br><br>
                 <div class="inputBox">
-                    <input oninput="mascara(this)" type="text" id="CPF" class="inputUser" name="CPF" requided />
+                    <input oninput="mascara(this)" type="text" id="CPF" class="inputUser" name="CPF" required />
                     <label for="CPF" class="labelInput">CPF</label>
                 </div>
                 
