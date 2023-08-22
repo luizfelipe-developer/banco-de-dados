@@ -16,7 +16,24 @@
         WHERE cod_aluno=$cod_aluno";
         $result = $conexao->query($sqlInsert);
         print_r($result);
+        header('Location: sistema-aluno.php');
     }
-    header('Location: sistema.php');
+     if(isset($_POST['updatePerso']))
+    {
+        $cod_personal = $_POST['cod_personal'];
+        $nome = $_POST['nome'];
+        $endereco = $_POST['endereco'];
+        $cref = $_POST['cref'];
+        $telefone = $_POST['telefone'];
+        
+        
+        
+        $sqlInsert = "UPDATE personal 
+        SET nome='$nome', endereco='$endereco',cref='$cref',telefone='$telefone'
+        WHERE cod_personal=$cod_personal";
+        $result = $conexao->query($sqlInsert);
+        print_r($result);
+        header('Location: sistema-personal.php');
+    }
 
 ?>
