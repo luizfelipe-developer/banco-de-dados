@@ -120,7 +120,7 @@
 
     function searchData()
     {
-        window.location = 'sistema.php?search='+search.value;
+        window.location = 'sistema-aluno.php?search='+search.value;
     }
 </script>
 </html>

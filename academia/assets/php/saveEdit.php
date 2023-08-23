@@ -15,7 +15,7 @@
         SET nome='$nome', endereco='$endereco',CPF='$CPF',telefone='$telefone',genero='$genero'
         WHERE cod_aluno=$cod_aluno";
         $result = $conexao->query($sqlInsert);
-        print_r($result);
+        // print_r($result);
         header('Location: sistema-aluno.php');
     }
      if(isset($_POST['updatePerso']))

@@ -108,7 +108,7 @@
     </style>
 </head>
 <body>
-    <a href="sistema-aluno.php">Voltar</a>
+    <a href="sistema-personal.php">Voltar</a>
     <div class="box">
         <form action="saveEdit.php" method="POST">
             <fieldset>
@@ -136,13 +136,15 @@
                 
                 <br><br>
                 <div class="inputBox">
-                <input type="tel" id="telefone-aluno" class="inputUser" name="telefone"
+                    <input type="tel" id="telefone-aluno" class="inputUser" name="telefone"
                     maxlength="14" required  data-js="phone" >
                     <label for="telefone-aluno" class="labelInput" >Telefone: </label>
                 </div>
-
-                <input type="hidden" name="cod_aluno" value=<?php echo $cod_aluno;?>>
-                <input type="submit" name="updatePerso" id="submit">
+                
+                <br><br>
+                <br><br>
+                <input type="hidden" name="cod_personal" value=<?php echo $cod_personal;?>>
+                <input type="submit" name="updatePerso" id="submit" value="ALTERAR" >
             </fieldset>
         </form>
     </div>

@@ -115,7 +115,7 @@
                 </div>
                 <br><br>
                 <div class="inputBox">
-                    <input type="text" id="cref" class="inputUser" name="cref" >
+                    <input type="text" id="cref" class="inputUser" name="cref" required >
                     <label for="cref" class="labelInput">Cref</label>
                 </div>
                 <br><br>
@@ -124,7 +124,7 @@
                     <label for="endereco-personal" class="labelInput">Endereço</label>
                 </div>
                 <br><br>
-                <input type="submit" name="submit" id="submit">
+                <input type="submit" name="submit" id="submit" value="CADASTRAR" >
             </fieldset>
         </form>
     </div>
