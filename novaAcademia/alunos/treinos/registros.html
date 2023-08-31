@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400&display=swap");
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+      body {
+        font-family: "Quicksand", sans-serif;
+        background: #56ccf2; /* fallback for old browsers */
+        background: -webkit-linear-gradient(
+          to right,
+          #2f80ed,
+          #56ccf2
+        ); /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(
+          to right,
+          #2f80ed,
+          #56ccf2
+        ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        height: 98vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      .container {
+        background-color: #ffffffd2;
+        max-width: 780px;
+        padding: 50px 15px;
+        margin: 50px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        border-radius: 7px;
+      }
+      .box {
+        display: flex;
+        margin: 35px 0 15px;
+        gap: 35px;
+      }
+      .link-form {
+        color: 0;
+        text-decoration: none;
+        padding: 30px;
+        display: block;
+        font-weight: bold;
+      }
+      .escolha {
+        border: #000 1px dotted;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 15px;
+        cursor: pointer;
+        background-color: rgba(213, 218, 218, 0.767);
+      }
+      img {
+        margin-right: 15px;
+      }
+      a{
+        color: #1976ce;
+      }
+
+    </style>
+    <title>CADASTRO DO HOSPITAL</title>
+  </head>
+  <body>
+    <div class="container">
+      <h1>ESCOLHA</h1>
+      <div class="box">
+        <div class="medico escolha">
+          <a href="registrar-treinos.html" class="link-form"
+            ><img
+              src=""
+              alt=""
+            />CADASTRAR TREINOS</a
+          >
+        </div>
+        <div class="paciente escolha">
+          <a href="paginas_medico.php" class="link-form">
+            <img
+              src=""
+              alt=""
+            />VISUALIZAR TREINOS</a
+          >
+        </div>
+
+
+  
+      </div>
+      <a href="paginas.php" class="h3"> <h3>CONSULTAR ALUNO</h3></a> 
+     
+    </div>
+  </body>
+</html>

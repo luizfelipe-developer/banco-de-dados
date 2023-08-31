@@ -1,0 +1,25 @@
+table{
+    margin-bottom: 70px;
+    width: 100%;
+    border-collapse: collapse;
+    background-color: whitesmoke;
+}
+#cabecalho{
+    background-color: #b3093f;
+    color: #fff;
+    text-align: center;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.col{
+    padding: 10px 20px;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #fff;
+}
+tr{
+    text-align: center;
+    border-bottom: 1px solid #bbb;
+}
+tbody tr td{
+    padding: 7px;
+}

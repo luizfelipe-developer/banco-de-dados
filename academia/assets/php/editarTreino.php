@@ -15,7 +15,6 @@
                 $quinta = $_POST['quinta'];
                 $sexta = $_POST['sexta'];
                 $sexta = $_POST['sabado'];
-
             }
         }
         else

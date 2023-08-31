@@ -46,13 +46,12 @@
 
         <div class="box-aluno">
             <h4>Aluno</h4>
-            <form id="aluno" action="">
+            <form id="aluno" action="assets/php/verifica_loginAluno.php">
                 <label for="cpf">CPF: </label>
-                <input type="text" name="cpf" id="usuario" >
-                
-                <label for="">Nome:</label>
-                <input type="text" name="aluno-nome" id="aluno-nome">
-                <button type="submit" class="bt-aluno" >Entrar</button>
+                <input oninput="mascara(this)" type="text" id="CPF" class="inputUser" name="CPF" requided />
+                <label for="">Código do Aluno:</label>
+                <input type="text" id="cod_aluno" class="cod_aluno" name="cod_aluno" >
+                <button type="submit" class="bt-aluno" name="bt-aluno" >Entrar</button>
             </form>
         </div>
         <div class="box-personal">
@@ -67,4 +66,21 @@
         </div>
     </div>
 </body>
+<script>
+        // MÁSCARA DO CPF
+        function mascara(i){
+   
+   var v = i.value;
+   
+   if(isNaN(v[v.length-1])){ // impede entrar outro caractere que não seja número
+      i.value = v.substring(0, v.length-1);
+      return;
+   }
+   
+   i.setAttribute("maxlength", "14");
+   if (v.length == 3 || v.length == 7) i.value += ".";
+   if (v.length == 11) i.value += "-";
+
+}
+</script>
 </html>

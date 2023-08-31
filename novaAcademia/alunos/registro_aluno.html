@@ -1,0 +1,164 @@
+<!DOCTYPE html>
+<html lang="pt-BR"> 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Banco de Dados</title>
+    <link rel="stylesheet" href="logn.css">
+    <link rel="stylesheet" href="https://cdn.linearicons.com/free/1.0.0/icon-font.min.css">
+
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+            margin: 0;
+            padding: 0;
+            color: #023047
+        }
+        .page {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            align-content: center;
+            justify-content: center;
+            width: 100%;
+            height: 130vh;
+            background-color: #480ca8;
+        }
+        /*Box do Login e Senha */
+        .formLogin {
+            display: flex;
+            flex-direction: column;
+            background-color: #fff;
+            border-radius: 7px;
+            padding: 40px;
+            box-shadow: 10px 10px 40px rgba(0, 0, 0, 0.4);
+            gap: 5px
+        }
+        /*Formato do Login e Senha*/
+        .formLogin input {
+            padding: 15px;
+            font-size: 14px;
+            border: 1px solid #ccc;
+            margin-bottom: 20px;
+            margin-top: 5px;
+            border-radius: 4px;
+            transition: all linear 160ms;
+            outline: none;
+        }
+        /*Borda do input*/
+        .formLogin input:focus {
+            border: 1px solid #f72585;
+        }
+        /*Font do Login e senha*/
+        .formLogin label {
+            font-size: 14px;
+            font-weight: 600;
+        }
+        /*Registre-se*/
+        .formLogin a {
+            display: inline-block;
+            margin-bottom: 20px;
+            font-size: 17px;
+            color: #555;
+            transition: all linear 160ms;
+        }
+        /*Registre-se*/
+        .formLogin a:hover {
+            color: #f72585;
+        }
+        
+        /*Buton de entrar*/
+        #bt-entrar {
+            background-color: #f72585;
+            padding: 13px;
+            color: #fff;
+            font-size: 14px;
+            font-weight: 600;
+            border: none !important;
+            transition: all linear 160ms;
+            cursor: pointer;
+            margin: 0 !important;
+        
+        }
+        /*Buton de entrar*/
+        #bt-entrar:hover {
+            transform: scale(1.05);
+            background-color: #ff0676;
+        
+        }
+
+
+        /*Olho*/
+        div {
+    position: relative;
+ 
+}
+input {
+    border-radius: 0;
+    padding: 5px;
+    margin-bottom: 10px;
+    width: 100%;
+    box-sizing: border-box;
+}
+.lnr-eye {
+    position: absolute;
+    top: 40px;
+    right: 10px;
+    cursor: pointer;
+}
+            </style>
+           
+</head>
+<body>
+    <div class="page">
+       
+<!--método GET recebe algum recurso do servidor
+//método POST envia dados para o servidor-->
+        <form id="form" action="cadastro_aluno.php" method="POST" class="formLogin">
+            <h1>MATRICULA ALUNO</h1>
+            <p>Digite os seus dados de acesso no campo abaixo.</p>
+          
+
+            <label for="cod_aluno">cod_aluno: </label>
+            <input type="number" name="cod_aluno" id="cod_aluno" required >
+
+
+            <label for="nome">nome: </label>
+            <input type="text" name="nome" id="nome" required >
+
+
+            <label for="sobrenome">sobrenome: </label>
+            <input type="text" name="sobrenome" id="sobrenome" required >
+
+
+            <label for="endereco">endereco: </label>
+            <input type="text" name="endereco" id="endereco" required >
+
+
+            <label for="CPF">cpf: </label>
+            <input type="text" name="CPF" id="CPF" required >
+
+
+            <label for="telefone">telefone: </label>
+            <input type="number" name="telefone" id="telefone" required >
+    
+
+            <label for="genero">genero: </label>
+            <input type="text" name="genero" id="genero" required >
+
+                
+            <button type="submit" name="bt-entrar" id="bt-entrar">Cadastrar</button>
+          
+
+            <div id="registrar">
+                Já tem um conta?
+                <br>
+                <a href="professor_login.php">Entrar</a> 
+            </div>
+            
+        </form>
+    </div>
+    <script src="olho.js"></script>
+</body>
+</html>

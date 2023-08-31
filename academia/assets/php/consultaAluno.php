@@ -1,12 +1,13 @@
 <?php
     include "conexao.php";
+    include "verifica_loginAluno.php";
     
     if(mysqli_connect_error())
     trigger_error(mysqli_connect_error());
 
 
-        
-        $sql = "SELECT * FROM `clientes` ";
+    $sql= "SELECT * FROM `alunos` WHERE `cpf`='$cpf' AND `cod_aluno`= '$cod_aluno'";
+        // $sql = "SELECT * FROM `clientes` ";
         $query = $conexao->query($sql);
 
         
