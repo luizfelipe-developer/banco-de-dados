@@ -11,7 +11,6 @@ $genero = $_POST['genero'];
 $cref = $_POST['cref'];
 
 
-
 //inserir os valores adicionados das variáveis nos campos da tabela cliente do BD
 $inserirSql = "INSERT INTO matricula_professor(cod_professor, nome, sobrenome, endereco, CPF, telefone, genero, cref) 
 VALUES ('$cod_professor', '$nome', '$sobrenome', '$endereco', '$CPF', '$telefone', '$genero' , '$cref')";
@@ -25,6 +24,6 @@ if (mysqli_query($conexao, $inserirSql)) {
 
 //encerrar a conexão, para evitar travamentos no BD
 mysqli_close($conexao);
-header('Location: paginas.php');
+header('Location: paginas.php')
 
 ?>

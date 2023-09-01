@@ -24,6 +24,6 @@ if (mysqli_query($conexao, $inserirSql)) {
 }
 //encerrar a conexão, para evitar travamentos no BD
 mysqli_close($conexao);
-header('Location: paginas_aluno.php')
+header('Location: paginas_aluno.php');
 
 ?>
