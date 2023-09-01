@@ -1,115 +1,53 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <!-- <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>/ -->
-    <title>ACADEMIA FIT</title>
-    <link rel="stylesheet" href="css/header.css" />
-    <link rel="stylesheet" href="css/styles.css" />
-    <link
-    rel="shortcut icon"
-    href="img/logo-icon.png"
-    type="image/x-icon"
-    />
-    <style>
-     .container {
-        background-color: #ffffffd2;
 
-        display: flex;
-        flex-direction: column;
-        justify-content: center;
-        /* align-items: center;*/
-        flex-wrap: wrap;
-        border-radius: 7px;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <!-- <script src="https://unpkg.com/ionicons@4.5.10-0/dist/ionicons.js"></script>/ -->
+  <title>ACADEMIA FIT</title>
+  <link rel="stylesheet" href="css/stylescopy.css" />
+  <link rel="shortcut icon" href="img/logo-icon.png" type="image/x-icon" />
+  <!-- incluindo fontes -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet" />
+</head>
 
-      .box {
-        display: flex;
-        margin: 35px 0 15px;
-        gap: 30px;
-      }
-
-      .link-form {
-        color: 0;
-        text-decoration: none;
-        padding: 30px;
-        display: block;
-        font-weight: bold;
-      }
-
-      .escolha {
-        border: #000 1px dotted;
-        display: flex;
-        align-items: center;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 15px;
-        cursor: pointer;
-        background-color: rgba(213, 218, 218, 0.767);
-      }
-
-      /* img {
-        margin-right: 15px;
-      }*/
-      a {
-        color: #1976ce;
-      }
-    </style>
-      
-  </head>
-
-  <body>
-    <div class="container">
-      <img id="fundo-academia" src="img/academia.jpg" alt="" />
-      <header>
-        <div id="teste">
-          <div class="logo-imagem">
-            <a href="#">
-              <picture>
-                <source
-                  media="(max-width:600px )"
-                  class="logo-icon"
-                  srcset="img/nova_logo.png"
-                  type="image/png"
-                />
-                <img id="img" src="img/nova_logo.png" alt="" />
-              </picture>
-            </a>
-          </div>
-        </div>
-
-        <nav>
-          <ul class="opcoes">
-            <!-- CHECKBOX HACK -->
-            <input type="checkbox" id="checkbox_toggle" />
-            <label for="checkbox_toggle" class="hamburger">&#9776;</label>
-
-            <!-- NAVEGAÇÃO MENUS -->
-            <div class="menu">
-              <li><a href="adminn/admin_login.php">ADMIN</a></li>
-              <li>
-                <a href="professor/professor_login.php"
-                  >PROFESSOR</a
-                >
-              </li>
-              <li><a href="/academia/alunos/aluno_login.php">ALUNO</a></li>
-            </div>
-          </ul>
-        </nav>
-      </header>
-
-      <div class="content">
-        <h1 class="annim">ACADEMIA FITNESS</h1>
-        <p class="annim">
-          Beautiful, free images and photos that you can download and use for
-          any project. <br />
-          than any royalty free or stock photos.
-        </p>
+<body>
+  <div class="container">
+    <header>
+      <div class="boxlogo">
+        <img src="#" alt="minha logo vai vir aqui" />
       </div>
+      <nav>
+        <ul class="opcoes">
+          <!-- NAVEGAÇÃO MENUS -->
+          <li>
+            <a href="adminn/admin_login.php">ADMIN</a>
+          </li>
+          <li>
+            <a href="professor/professor_login.php">PROFESSOR</a>
+          </li>
+          <li>
+            <a href="/academia/alunos/aluno_login.php">ALUNO</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
 
-      <footer>
-        <div class="row">
+    <main class="content">
+      <h1 class="annim">ACADEMIA FITNESS</h1>
+      <p class="annim">
+        Beautiful, free images and photos that you can download and use for
+        any project. <br />
+        than any royalty free or stock photos.
+      </p>
+      <img src="img/academiaIndex.svg" class="img-index" alt="">
+    </main>
+
+    <footer>
+      <!-- <div class="row">
           <div class="col">
             <h3>
               Links
@@ -145,8 +83,9 @@
           </div>
         </div>
         <hr />
-        <p class="copyright">Cosas Learning Ⓒ 2023 - All Rights Reserved</p>
-      </footer>
-    </div>
-  </body>
+        <p class="copyright">Cosas Learning Ⓒ 2023 - All Rights Reserved</p> -->
+    </footer>
+  </div>
+</body>
+
 </html>
