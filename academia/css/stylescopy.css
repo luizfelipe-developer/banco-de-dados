@@ -2,7 +2,7 @@
 .container{
     max-width: 1280px;
     margin: 0 auto;
-    padding: 0 20px;
+    padding: 0 10px;
     border: 2px solid black;
 }
 header{
@@ -20,4 +20,17 @@ ul{
 }
 ul li a {
     text-decoration: none;
+}
+
+.conteudo{
+    display: flex;
+    align-items: center;
+}
+.box-right{
+    background-image: url("img/academiaIndex.svg");
+    background-repeat: no-repeat;
+    width: 50%;    
+}
+.img-index{
+    width: 600px;
 }
