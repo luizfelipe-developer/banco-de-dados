@@ -4,33 +4,84 @@
     margin: 0 auto;
     padding: 0 10px;
     border: 2px solid black;
+    background-color: #ffffffb0;
 }
-header{
-    width: 100%;
-    background:#3498db ;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    padding: 10px;
-}
-ul{
-    display: flex;
-    gap: 30px;
-    list-style: none;
-}
-ul li a {
-    text-decoration: none;
-}
-
+/* ESTILIZAÇÃO DO MAIN */
 .conteudo{
     display: flex;
     align-items: center;
+    flex-wrap: wrap;
+}
+.box-left{
+    width: 60%;
 }
 .box-right{
-    background-image: url("img/academiaIndex.svg");
-    background-repeat: no-repeat;
-    width: 50%;    
+    width: 40%;    
 }
 .img-index{
     width: 600px;
 }
+/* FORMULÁRIO */
+.form-geral{
+    display: flex;
+    margin: auto;
+}
+.form {
+    background-color: white;
+    padding: 3.125em;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    
+    box-shadow: 5px 5px 15px -1px rgba(0,0,0,0.45);
+  }
+  
+  .signup {
+    color: rgb(77, 75, 75);
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    display: block;
+    font-weight: bold;
+    font-size: x-large;
+    margin-bottom: 0.5em;
+  }
+ .btenviar{
+    display: flex;
+    justify-content: center;
+ }
+  .form--input {
+    width: 100%;
+    margin-bottom: 1.25em;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    padding: 0.8em;
+    font-family: 'Inter', sans-serif;
+    outline: none;
+  }
+  
+  .form--input:focus {
+    border: 1px solid #559ecf;
+    outline: none;
+  }
+  
+ 
+  
+  .form--submit {
+    width: 50%;
+    padding: 0.625em;
+    border-radius: 5px;
+    color: white;
+    background-color: #559ecf;
+    border: 1px dashed #559ecf;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  .form--submit:hover {
+    color: #559ecf;
+    background-color: white;
+    border: 1px dashed #559ecf;
+    cursor: pointer;
+    transition: 0.5s;
+  }

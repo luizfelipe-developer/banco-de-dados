@@ -10,3 +10,22 @@ html{
 body{
   font-size: 1.6rem;
 }
+header{
+  width: 100%;
+  background:#559ecf ;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px;
+}
+ul{
+  display: flex;
+  gap: 30px;
+  list-style: none;
+  padding: 15px;
+}
+ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: 700;
+}

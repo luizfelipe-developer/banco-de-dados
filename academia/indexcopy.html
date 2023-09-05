@@ -24,13 +24,13 @@
         <ul class="opcoes">
           <!-- NAVEGAÇÃO MENUS -->
           <li>
-            <a href="adminn/admin_login.php">ADMIN</a>
+            <a href="#form-adm">ADMIN</a>
           </li>
           <li>
-            <a href="professor/professor_login.php">PROFESSOR</a>
+            <a href="#form-aluno">PROFESSOR</a>
           </li>
           <li>
-            <a href="/academia/alunos/aluno_login.php">ALUNO</a>
+            <a href="#form-personal">ALUNO</a>
           </li>
         </ul>
       </nav>
@@ -46,9 +46,72 @@
           than any royalty free or stock photos.
         </p>
       </div>
-      <div class="box-right"></div>
+      <div class="box-right">
+        <img src="img/academiaIndex.svg" alt="imagem-academia">
+      </div>
+      <!--<section dos formulários>-->
+        <div class="form-geral" >
+          <section id="form-adm" >
+            <form class="form">
+              <span class="signup"> Admin</span>
+              <label for="usu-adm">Usuário</label>
+              <input type="text" placeholder="Usuário" id="usu-adm" name="usu-adm" class="form--input">
+              <label for="senha">Senha</label>
+              <input type="password" placeholder="Senha" id="usu-adm" name="usu-senha" class="form--input">
+              <div class="btenviar">
+                <button class="form--submit">
+                    Entrar
+                </button>
+              </div>
+            </form>
+          </section>
+          <section id="form-aluno">
+            <form class="form">
+              <span class="signup"> Aluno</span>
+              <label for="usu-aluno">Email</label>
+              <input type="email" placeholder="Email" id="usu-aluno" name="usu-aluno" class="form--input">
+              <label for="cod">Código</label>
+              <input type="number" placeholder="Código do aluno" id="cod-aluno" name="cod-aluno" class="form--input">
+              <div class="btenviar">
+                <button class="form--submit">
+                    Entrar
+                </button>
+              </div>
+            </form>
+          </section>
+          <section id="form-personal">
+            <form class="form">
+              <span class="signup"> Personal</span>
+              <label for="email-personal">Email</label>
+              <input type="text" placeholder="Usuário" id="email-personal" name="usu-adm" class="form--input">
+              <label for="senha">Senha</label>
+              <input type="password" placeholder="Senha" id="usu-adm"         name="usu-senha" class="form--input">
+              <div class="btenviar"> 
+                <button class="form--submit">
+                    Entrar
+                </button>
+              </div>
+            </form>
+          </section>
+        </div>
     </main>
-
+    <!-- FORMULÁRIO PADRÃO ABAIXO:
+    <form class="form">
+      <span class="signup">Entrar como Admin</span>
+      <input type="email" placeholder="Email address" class="form--input">
+      <input type="password" placeholder="Password" class="form--input">
+      <input type="password" placeholder="Confirm password" class="form--input">
+      
+      <div class="form--marketing">
+          <input id="okayToEmail" type="checkbox">
+          <label for="okayToEmail" class="checkbox">
+            I want to join the newsletter
+          </label>
+      </div>
+      <button class="form--submit">
+          Sign up
+      </button>
+  </form> -->
     <footer>
       <!-- <div class="row">
           <div class="col">
